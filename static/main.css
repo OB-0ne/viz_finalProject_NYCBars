@@ -1,0 +1,17 @@
+#header{
+    background-color: #00756e;
+    padding: 15px;
+}
+
+#footer{
+position: fixed;
+   left: 0;
+   bottom: 0;
+   background-color: #00756e;
+   color: white;
+   text-align: center;
+}
+
+#assignment_info{
+    display: inline;
+}
