@@ -10,6 +10,7 @@ position: fixed;
    background-color: #00756e;
    color: white;
    text-align: center;
+   width: 100%;
 }
 
 #assignment_info{

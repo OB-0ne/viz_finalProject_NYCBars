@@ -6,7 +6,16 @@
 
 {% block body %}
 
+    <script src="{{url_for('static', filename='js/UI_Control.js')}}"></script>
+    <script src="{{url_for('static', filename='js/pca_graph.js')}}"></script>
+    <script>
+        drawGraphs();
+    </script>
 
+    <div id="svg-holder">
+        <div id="svg-holder-BarLoc">
+        </div>        
+    </div>
     
 
 {% endblock %}
