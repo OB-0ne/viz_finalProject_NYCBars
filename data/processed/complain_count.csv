@@ -1,0 +1,4397 @@
+Location Type,precinct,Month,ComplainCount
+Club/Bar/Restaurant,1.0,1,13
+Club/Bar/Restaurant,1.0,2,11
+Club/Bar/Restaurant,1.0,3,18
+Club/Bar/Restaurant,1.0,4,18
+Club/Bar/Restaurant,1.0,5,30
+Club/Bar/Restaurant,1.0,6,33
+Club/Bar/Restaurant,1.0,7,8
+Club/Bar/Restaurant,1.0,8,12
+Club/Bar/Restaurant,1.0,9,49
+Club/Bar/Restaurant,1.0,10,22
+Club/Bar/Restaurant,1.0,11,22
+Club/Bar/Restaurant,1.0,12,24
+Club/Bar/Restaurant,5.0,1,12
+Club/Bar/Restaurant,5.0,2,6
+Club/Bar/Restaurant,5.0,3,19
+Club/Bar/Restaurant,5.0,4,16
+Club/Bar/Restaurant,5.0,5,36
+Club/Bar/Restaurant,5.0,6,27
+Club/Bar/Restaurant,5.0,7,22
+Club/Bar/Restaurant,5.0,8,20
+Club/Bar/Restaurant,5.0,9,26
+Club/Bar/Restaurant,5.0,10,45
+Club/Bar/Restaurant,5.0,11,26
+Club/Bar/Restaurant,5.0,12,59
+Club/Bar/Restaurant,6.0,1,19
+Club/Bar/Restaurant,6.0,2,17
+Club/Bar/Restaurant,6.0,3,32
+Club/Bar/Restaurant,6.0,4,28
+Club/Bar/Restaurant,6.0,5,57
+Club/Bar/Restaurant,6.0,6,35
+Club/Bar/Restaurant,6.0,7,20
+Club/Bar/Restaurant,6.0,8,22
+Club/Bar/Restaurant,6.0,9,36
+Club/Bar/Restaurant,6.0,10,42
+Club/Bar/Restaurant,6.0,11,45
+Club/Bar/Restaurant,6.0,12,56
+Club/Bar/Restaurant,7.0,1,8
+Club/Bar/Restaurant,7.0,2,15
+Club/Bar/Restaurant,7.0,3,12
+Club/Bar/Restaurant,7.0,4,23
+Club/Bar/Restaurant,7.0,5,30
+Club/Bar/Restaurant,7.0,6,28
+Club/Bar/Restaurant,7.0,7,15
+Club/Bar/Restaurant,7.0,8,12
+Club/Bar/Restaurant,7.0,9,27
+Club/Bar/Restaurant,7.0,10,36
+Club/Bar/Restaurant,7.0,11,45
+Club/Bar/Restaurant,7.0,12,46
+Club/Bar/Restaurant,9.0,1,56
+Club/Bar/Restaurant,9.0,2,41
+Club/Bar/Restaurant,9.0,3,40
+Club/Bar/Restaurant,9.0,4,55
+Club/Bar/Restaurant,9.0,5,96
+Club/Bar/Restaurant,9.0,6,78
+Club/Bar/Restaurant,9.0,7,44
+Club/Bar/Restaurant,9.0,8,43
+Club/Bar/Restaurant,9.0,9,77
+Club/Bar/Restaurant,9.0,10,120
+Club/Bar/Restaurant,9.0,11,73
+Club/Bar/Restaurant,9.0,12,86
+Club/Bar/Restaurant,10.0,1,4
+Club/Bar/Restaurant,10.0,2,10
+Club/Bar/Restaurant,10.0,3,12
+Club/Bar/Restaurant,10.0,4,12
+Club/Bar/Restaurant,10.0,5,18
+Club/Bar/Restaurant,10.0,6,23
+Club/Bar/Restaurant,10.0,7,11
+Club/Bar/Restaurant,10.0,8,4
+Club/Bar/Restaurant,10.0,9,14
+Club/Bar/Restaurant,10.0,10,4
+Club/Bar/Restaurant,10.0,11,12
+Club/Bar/Restaurant,10.0,12,12
+Club/Bar/Restaurant,13.0,1,7
+Club/Bar/Restaurant,13.0,2,4
+Club/Bar/Restaurant,13.0,3,9
+Club/Bar/Restaurant,13.0,4,9
+Club/Bar/Restaurant,13.0,5,40
+Club/Bar/Restaurant,13.0,6,43
+Club/Bar/Restaurant,13.0,7,32
+Club/Bar/Restaurant,13.0,8,21
+Club/Bar/Restaurant,13.0,9,50
+Club/Bar/Restaurant,13.0,10,73
+Club/Bar/Restaurant,13.0,11,30
+Club/Bar/Restaurant,13.0,12,37
+Club/Bar/Restaurant,14.0,1,11
+Club/Bar/Restaurant,14.0,2,4
+Club/Bar/Restaurant,14.0,3,7
+Club/Bar/Restaurant,14.0,4,5
+Club/Bar/Restaurant,14.0,5,6
+Club/Bar/Restaurant,14.0,6,11
+Club/Bar/Restaurant,14.0,7,4
+Club/Bar/Restaurant,14.0,8,6
+Club/Bar/Restaurant,14.0,9,4
+Club/Bar/Restaurant,14.0,10,9
+Club/Bar/Restaurant,14.0,11,10
+Club/Bar/Restaurant,14.0,12,17
+Club/Bar/Restaurant,17.0,1,31
+Club/Bar/Restaurant,17.0,2,2
+Club/Bar/Restaurant,17.0,3,9
+Club/Bar/Restaurant,17.0,4,11
+Club/Bar/Restaurant,17.0,5,26
+Club/Bar/Restaurant,17.0,6,29
+Club/Bar/Restaurant,17.0,7,21
+Club/Bar/Restaurant,17.0,8,17
+Club/Bar/Restaurant,17.0,9,17
+Club/Bar/Restaurant,17.0,10,37
+Club/Bar/Restaurant,17.0,11,17
+Club/Bar/Restaurant,17.0,12,74
+Club/Bar/Restaurant,18.0,1,45
+Club/Bar/Restaurant,18.0,2,10
+Club/Bar/Restaurant,18.0,3,23
+Club/Bar/Restaurant,18.0,4,17
+Club/Bar/Restaurant,18.0,5,88
+Club/Bar/Restaurant,18.0,6,62
+Club/Bar/Restaurant,18.0,7,30
+Club/Bar/Restaurant,18.0,8,23
+Club/Bar/Restaurant,18.0,9,58
+Club/Bar/Restaurant,18.0,10,83
+Club/Bar/Restaurant,18.0,11,67
+Club/Bar/Restaurant,18.0,12,81
+Club/Bar/Restaurant,19.0,1,22
+Club/Bar/Restaurant,19.0,2,10
+Club/Bar/Restaurant,19.0,3,14
+Club/Bar/Restaurant,19.0,4,14
+Club/Bar/Restaurant,19.0,5,75
+Club/Bar/Restaurant,19.0,6,62
+Club/Bar/Restaurant,19.0,7,38
+Club/Bar/Restaurant,19.0,8,24
+Club/Bar/Restaurant,19.0,9,83
+Club/Bar/Restaurant,19.0,10,88
+Club/Bar/Restaurant,19.0,11,51
+Club/Bar/Restaurant,19.0,12,100
+Club/Bar/Restaurant,20.0,1,4
+Club/Bar/Restaurant,20.0,3,5
+Club/Bar/Restaurant,20.0,4,7
+Club/Bar/Restaurant,20.0,5,20
+Club/Bar/Restaurant,20.0,6,12
+Club/Bar/Restaurant,20.0,7,12
+Club/Bar/Restaurant,20.0,8,6
+Club/Bar/Restaurant,20.0,9,14
+Club/Bar/Restaurant,20.0,10,13
+Club/Bar/Restaurant,20.0,11,9
+Club/Bar/Restaurant,20.0,12,55
+Club/Bar/Restaurant,22.0,9,1
+Club/Bar/Restaurant,22.0,12,1
+Club/Bar/Restaurant,23.0,1,6
+Club/Bar/Restaurant,23.0,2,4
+Club/Bar/Restaurant,23.0,3,6
+Club/Bar/Restaurant,23.0,4,6
+Club/Bar/Restaurant,23.0,5,25
+Club/Bar/Restaurant,23.0,6,10
+Club/Bar/Restaurant,23.0,7,12
+Club/Bar/Restaurant,23.0,8,2
+Club/Bar/Restaurant,23.0,9,15
+Club/Bar/Restaurant,23.0,10,23
+Club/Bar/Restaurant,23.0,11,14
+Club/Bar/Restaurant,23.0,12,6
+Club/Bar/Restaurant,24.0,1,11
+Club/Bar/Restaurant,24.0,2,3
+Club/Bar/Restaurant,24.0,3,5
+Club/Bar/Restaurant,24.0,4,8
+Club/Bar/Restaurant,24.0,5,16
+Club/Bar/Restaurant,24.0,6,4
+Club/Bar/Restaurant,24.0,7,9
+Club/Bar/Restaurant,24.0,8,6
+Club/Bar/Restaurant,24.0,9,7
+Club/Bar/Restaurant,24.0,10,22
+Club/Bar/Restaurant,24.0,11,31
+Club/Bar/Restaurant,24.0,12,30
+Club/Bar/Restaurant,25.0,2,1
+Club/Bar/Restaurant,25.0,3,1
+Club/Bar/Restaurant,25.0,4,4
+Club/Bar/Restaurant,25.0,5,12
+Club/Bar/Restaurant,25.0,6,10
+Club/Bar/Restaurant,25.0,7,10
+Club/Bar/Restaurant,25.0,8,5
+Club/Bar/Restaurant,25.0,9,5
+Club/Bar/Restaurant,25.0,10,13
+Club/Bar/Restaurant,25.0,11,5
+Club/Bar/Restaurant,25.0,12,5
+Club/Bar/Restaurant,26.0,1,8
+Club/Bar/Restaurant,26.0,2,5
+Club/Bar/Restaurant,26.0,3,4
+Club/Bar/Restaurant,26.0,4,1
+Club/Bar/Restaurant,26.0,5,12
+Club/Bar/Restaurant,26.0,6,6
+Club/Bar/Restaurant,26.0,7,3
+Club/Bar/Restaurant,26.0,8,3
+Club/Bar/Restaurant,26.0,9,4
+Club/Bar/Restaurant,26.0,10,4
+Club/Bar/Restaurant,26.0,11,1
+Club/Bar/Restaurant,26.0,12,2
+Club/Bar/Restaurant,28.0,1,8
+Club/Bar/Restaurant,28.0,2,9
+Club/Bar/Restaurant,28.0,3,12
+Club/Bar/Restaurant,28.0,4,5
+Club/Bar/Restaurant,28.0,5,8
+Club/Bar/Restaurant,28.0,6,15
+Club/Bar/Restaurant,28.0,7,8
+Club/Bar/Restaurant,28.0,8,9
+Club/Bar/Restaurant,28.0,9,18
+Club/Bar/Restaurant,28.0,10,10
+Club/Bar/Restaurant,28.0,11,9
+Club/Bar/Restaurant,28.0,12,9
+Club/Bar/Restaurant,30.0,1,11
+Club/Bar/Restaurant,30.0,2,13
+Club/Bar/Restaurant,30.0,3,21
+Club/Bar/Restaurant,30.0,4,19
+Club/Bar/Restaurant,30.0,5,23
+Club/Bar/Restaurant,30.0,6,14
+Club/Bar/Restaurant,30.0,7,31
+Club/Bar/Restaurant,30.0,8,15
+Club/Bar/Restaurant,30.0,9,13
+Club/Bar/Restaurant,30.0,10,16
+Club/Bar/Restaurant,30.0,11,16
+Club/Bar/Restaurant,30.0,12,21
+Club/Bar/Restaurant,32.0,1,12
+Club/Bar/Restaurant,32.0,2,2
+Club/Bar/Restaurant,32.0,3,14
+Club/Bar/Restaurant,32.0,4,11
+Club/Bar/Restaurant,32.0,5,24
+Club/Bar/Restaurant,32.0,6,13
+Club/Bar/Restaurant,32.0,7,6
+Club/Bar/Restaurant,32.0,8,23
+Club/Bar/Restaurant,32.0,9,24
+Club/Bar/Restaurant,32.0,10,12
+Club/Bar/Restaurant,32.0,11,12
+Club/Bar/Restaurant,32.0,12,4
+Club/Bar/Restaurant,33.0,1,19
+Club/Bar/Restaurant,33.0,2,8
+Club/Bar/Restaurant,33.0,3,7
+Club/Bar/Restaurant,33.0,4,7
+Club/Bar/Restaurant,33.0,5,21
+Club/Bar/Restaurant,33.0,6,18
+Club/Bar/Restaurant,33.0,7,37
+Club/Bar/Restaurant,33.0,8,9
+Club/Bar/Restaurant,33.0,9,22
+Club/Bar/Restaurant,33.0,10,42
+Club/Bar/Restaurant,33.0,11,28
+Club/Bar/Restaurant,33.0,12,28
+Club/Bar/Restaurant,34.0,1,44
+Club/Bar/Restaurant,34.0,2,30
+Club/Bar/Restaurant,34.0,3,42
+Club/Bar/Restaurant,34.0,4,43
+Club/Bar/Restaurant,34.0,5,56
+Club/Bar/Restaurant,34.0,6,99
+Club/Bar/Restaurant,34.0,7,35
+Club/Bar/Restaurant,34.0,8,47
+Club/Bar/Restaurant,34.0,9,85
+Club/Bar/Restaurant,34.0,10,137
+Club/Bar/Restaurant,34.0,11,119
+Club/Bar/Restaurant,34.0,12,84
+Club/Bar/Restaurant,40.0,1,3
+Club/Bar/Restaurant,40.0,3,2
+Club/Bar/Restaurant,40.0,4,2
+Club/Bar/Restaurant,40.0,5,11
+Club/Bar/Restaurant,40.0,6,1
+Club/Bar/Restaurant,40.0,7,1
+Club/Bar/Restaurant,40.0,8,1
+Club/Bar/Restaurant,40.0,9,2
+Club/Bar/Restaurant,40.0,10,6
+Club/Bar/Restaurant,40.0,11,2
+Club/Bar/Restaurant,40.0,12,4
+Club/Bar/Restaurant,41.0,1,1
+Club/Bar/Restaurant,41.0,2,2
+Club/Bar/Restaurant,41.0,4,4
+Club/Bar/Restaurant,41.0,5,1
+Club/Bar/Restaurant,41.0,6,5
+Club/Bar/Restaurant,41.0,7,3
+Club/Bar/Restaurant,41.0,8,3
+Club/Bar/Restaurant,41.0,10,1
+Club/Bar/Restaurant,41.0,11,5
+Club/Bar/Restaurant,41.0,12,3
+Club/Bar/Restaurant,42.0,1,2
+Club/Bar/Restaurant,42.0,2,1
+Club/Bar/Restaurant,42.0,6,1
+Club/Bar/Restaurant,42.0,8,1
+Club/Bar/Restaurant,42.0,9,4
+Club/Bar/Restaurant,42.0,10,4
+Club/Bar/Restaurant,42.0,11,2
+Club/Bar/Restaurant,42.0,12,1
+Club/Bar/Restaurant,43.0,1,2
+Club/Bar/Restaurant,43.0,2,4
+Club/Bar/Restaurant,43.0,3,4
+Club/Bar/Restaurant,43.0,4,10
+Club/Bar/Restaurant,43.0,5,15
+Club/Bar/Restaurant,43.0,6,5
+Club/Bar/Restaurant,43.0,7,2
+Club/Bar/Restaurant,43.0,8,7
+Club/Bar/Restaurant,43.0,9,4
+Club/Bar/Restaurant,43.0,10,22
+Club/Bar/Restaurant,43.0,11,10
+Club/Bar/Restaurant,43.0,12,23
+Club/Bar/Restaurant,44.0,1,6
+Club/Bar/Restaurant,44.0,2,1
+Club/Bar/Restaurant,44.0,4,2
+Club/Bar/Restaurant,44.0,5,5
+Club/Bar/Restaurant,44.0,6,2
+Club/Bar/Restaurant,44.0,7,6
+Club/Bar/Restaurant,44.0,8,27
+Club/Bar/Restaurant,44.0,9,15
+Club/Bar/Restaurant,44.0,10,5
+Club/Bar/Restaurant,44.0,11,3
+Club/Bar/Restaurant,44.0,12,3
+Club/Bar/Restaurant,45.0,1,15
+Club/Bar/Restaurant,45.0,2,2
+Club/Bar/Restaurant,45.0,3,5
+Club/Bar/Restaurant,45.0,4,7
+Club/Bar/Restaurant,45.0,5,73
+Club/Bar/Restaurant,45.0,6,38
+Club/Bar/Restaurant,45.0,7,19
+Club/Bar/Restaurant,45.0,8,12
+Club/Bar/Restaurant,45.0,9,21
+Club/Bar/Restaurant,45.0,10,18
+Club/Bar/Restaurant,45.0,11,8
+Club/Bar/Restaurant,45.0,12,10
+Club/Bar/Restaurant,46.0,1,12
+Club/Bar/Restaurant,46.0,2,2
+Club/Bar/Restaurant,46.0,3,5
+Club/Bar/Restaurant,46.0,4,4
+Club/Bar/Restaurant,46.0,5,12
+Club/Bar/Restaurant,46.0,6,22
+Club/Bar/Restaurant,46.0,7,28
+Club/Bar/Restaurant,46.0,8,9
+Club/Bar/Restaurant,46.0,9,14
+Club/Bar/Restaurant,46.0,10,9
+Club/Bar/Restaurant,46.0,11,6
+Club/Bar/Restaurant,46.0,12,7
+Club/Bar/Restaurant,47.0,1,4
+Club/Bar/Restaurant,47.0,2,9
+Club/Bar/Restaurant,47.0,3,6
+Club/Bar/Restaurant,47.0,4,6
+Club/Bar/Restaurant,47.0,5,21
+Club/Bar/Restaurant,47.0,6,14
+Club/Bar/Restaurant,47.0,7,8
+Club/Bar/Restaurant,47.0,8,13
+Club/Bar/Restaurant,47.0,9,22
+Club/Bar/Restaurant,47.0,10,9
+Club/Bar/Restaurant,47.0,11,7
+Club/Bar/Restaurant,47.0,12,9
+Club/Bar/Restaurant,48.0,1,4
+Club/Bar/Restaurant,48.0,2,12
+Club/Bar/Restaurant,48.0,3,11
+Club/Bar/Restaurant,48.0,4,8
+Club/Bar/Restaurant,48.0,5,10
+Club/Bar/Restaurant,48.0,6,7
+Club/Bar/Restaurant,48.0,7,15
+Club/Bar/Restaurant,48.0,8,7
+Club/Bar/Restaurant,48.0,9,2
+Club/Bar/Restaurant,48.0,10,21
+Club/Bar/Restaurant,48.0,11,15
+Club/Bar/Restaurant,48.0,12,5
+Club/Bar/Restaurant,49.0,1,1
+Club/Bar/Restaurant,49.0,2,2
+Club/Bar/Restaurant,49.0,3,1
+Club/Bar/Restaurant,49.0,4,1
+Club/Bar/Restaurant,49.0,5,1
+Club/Bar/Restaurant,49.0,9,2
+Club/Bar/Restaurant,49.0,10,5
+Club/Bar/Restaurant,49.0,11,2
+Club/Bar/Restaurant,49.0,12,1
+Club/Bar/Restaurant,50.0,1,9
+Club/Bar/Restaurant,50.0,2,8
+Club/Bar/Restaurant,50.0,3,2
+Club/Bar/Restaurant,50.0,4,2
+Club/Bar/Restaurant,50.0,5,8
+Club/Bar/Restaurant,50.0,6,7
+Club/Bar/Restaurant,50.0,7,4
+Club/Bar/Restaurant,50.0,8,5
+Club/Bar/Restaurant,50.0,9,23
+Club/Bar/Restaurant,50.0,10,28
+Club/Bar/Restaurant,50.0,11,9
+Club/Bar/Restaurant,50.0,12,11
+Club/Bar/Restaurant,52.0,1,2
+Club/Bar/Restaurant,52.0,2,1
+Club/Bar/Restaurant,52.0,4,1
+Club/Bar/Restaurant,52.0,5,6
+Club/Bar/Restaurant,52.0,6,8
+Club/Bar/Restaurant,52.0,7,3
+Club/Bar/Restaurant,52.0,8,2
+Club/Bar/Restaurant,52.0,10,5
+Club/Bar/Restaurant,52.0,11,1
+Club/Bar/Restaurant,52.0,12,1
+Club/Bar/Restaurant,60.0,2,1
+Club/Bar/Restaurant,60.0,3,2
+Club/Bar/Restaurant,60.0,4,27
+Club/Bar/Restaurant,60.0,5,27
+Club/Bar/Restaurant,60.0,6,6
+Club/Bar/Restaurant,60.0,7,10
+Club/Bar/Restaurant,60.0,8,2
+Club/Bar/Restaurant,60.0,10,4
+Club/Bar/Restaurant,60.0,11,4
+Club/Bar/Restaurant,60.0,12,3
+Club/Bar/Restaurant,61.0,1,7
+Club/Bar/Restaurant,61.0,2,1
+Club/Bar/Restaurant,61.0,3,7
+Club/Bar/Restaurant,61.0,4,9
+Club/Bar/Restaurant,61.0,5,13
+Club/Bar/Restaurant,61.0,6,8
+Club/Bar/Restaurant,61.0,7,8
+Club/Bar/Restaurant,61.0,8,6
+Club/Bar/Restaurant,61.0,9,28
+Club/Bar/Restaurant,61.0,10,27
+Club/Bar/Restaurant,61.0,11,9
+Club/Bar/Restaurant,61.0,12,7
+Club/Bar/Restaurant,62.0,1,7
+Club/Bar/Restaurant,62.0,2,7
+Club/Bar/Restaurant,62.0,3,17
+Club/Bar/Restaurant,62.0,4,5
+Club/Bar/Restaurant,62.0,5,12
+Club/Bar/Restaurant,62.0,6,5
+Club/Bar/Restaurant,62.0,7,3
+Club/Bar/Restaurant,62.0,8,3
+Club/Bar/Restaurant,62.0,9,14
+Club/Bar/Restaurant,62.0,10,11
+Club/Bar/Restaurant,62.0,11,3
+Club/Bar/Restaurant,62.0,12,5
+Club/Bar/Restaurant,63.0,1,6
+Club/Bar/Restaurant,63.0,2,7
+Club/Bar/Restaurant,63.0,3,11
+Club/Bar/Restaurant,63.0,4,9
+Club/Bar/Restaurant,63.0,5,11
+Club/Bar/Restaurant,63.0,6,14
+Club/Bar/Restaurant,63.0,7,5
+Club/Bar/Restaurant,63.0,8,4
+Club/Bar/Restaurant,63.0,9,7
+Club/Bar/Restaurant,63.0,10,11
+Club/Bar/Restaurant,63.0,11,12
+Club/Bar/Restaurant,63.0,12,7
+Club/Bar/Restaurant,66.0,1,4
+Club/Bar/Restaurant,66.0,2,3
+Club/Bar/Restaurant,66.0,3,1
+Club/Bar/Restaurant,66.0,4,7
+Club/Bar/Restaurant,66.0,5,5
+Club/Bar/Restaurant,66.0,6,2
+Club/Bar/Restaurant,66.0,7,5
+Club/Bar/Restaurant,66.0,8,1
+Club/Bar/Restaurant,66.0,9,8
+Club/Bar/Restaurant,66.0,10,5
+Club/Bar/Restaurant,66.0,11,7
+Club/Bar/Restaurant,66.0,12,10
+Club/Bar/Restaurant,67.0,1,10
+Club/Bar/Restaurant,67.0,2,5
+Club/Bar/Restaurant,67.0,3,1
+Club/Bar/Restaurant,67.0,4,13
+Club/Bar/Restaurant,67.0,5,23
+Club/Bar/Restaurant,67.0,6,10
+Club/Bar/Restaurant,67.0,7,21
+Club/Bar/Restaurant,67.0,8,15
+Club/Bar/Restaurant,67.0,9,12
+Club/Bar/Restaurant,67.0,10,14
+Club/Bar/Restaurant,67.0,11,6
+Club/Bar/Restaurant,67.0,12,5
+Club/Bar/Restaurant,68.0,1,8
+Club/Bar/Restaurant,68.0,2,14
+Club/Bar/Restaurant,68.0,3,15
+Club/Bar/Restaurant,68.0,4,25
+Club/Bar/Restaurant,68.0,5,32
+Club/Bar/Restaurant,68.0,6,17
+Club/Bar/Restaurant,68.0,7,10
+Club/Bar/Restaurant,68.0,8,21
+Club/Bar/Restaurant,68.0,9,38
+Club/Bar/Restaurant,68.0,10,77
+Club/Bar/Restaurant,68.0,11,19
+Club/Bar/Restaurant,68.0,12,36
+Club/Bar/Restaurant,69.0,1,4
+Club/Bar/Restaurant,69.0,2,3
+Club/Bar/Restaurant,69.0,3,6
+Club/Bar/Restaurant,69.0,4,4
+Club/Bar/Restaurant,69.0,5,9
+Club/Bar/Restaurant,69.0,6,7
+Club/Bar/Restaurant,69.0,7,9
+Club/Bar/Restaurant,69.0,8,12
+Club/Bar/Restaurant,69.0,9,16
+Club/Bar/Restaurant,69.0,10,10
+Club/Bar/Restaurant,69.0,11,9
+Club/Bar/Restaurant,69.0,12,2
+Club/Bar/Restaurant,70.0,1,5
+Club/Bar/Restaurant,70.0,2,3
+Club/Bar/Restaurant,70.0,3,12
+Club/Bar/Restaurant,70.0,4,3
+Club/Bar/Restaurant,70.0,5,19
+Club/Bar/Restaurant,70.0,6,3
+Club/Bar/Restaurant,70.0,7,2
+Club/Bar/Restaurant,70.0,8,2
+Club/Bar/Restaurant,70.0,9,9
+Club/Bar/Restaurant,70.0,10,10
+Club/Bar/Restaurant,70.0,11,10
+Club/Bar/Restaurant,70.0,12,8
+Club/Bar/Restaurant,71.0,1,2
+Club/Bar/Restaurant,71.0,2,2
+Club/Bar/Restaurant,71.0,3,3
+Club/Bar/Restaurant,71.0,4,6
+Club/Bar/Restaurant,71.0,5,13
+Club/Bar/Restaurant,71.0,6,6
+Club/Bar/Restaurant,71.0,7,8
+Club/Bar/Restaurant,71.0,8,3
+Club/Bar/Restaurant,71.0,9,6
+Club/Bar/Restaurant,71.0,10,5
+Club/Bar/Restaurant,71.0,11,12
+Club/Bar/Restaurant,71.0,12,3
+Club/Bar/Restaurant,72.0,1,7
+Club/Bar/Restaurant,72.0,2,8
+Club/Bar/Restaurant,72.0,3,7
+Club/Bar/Restaurant,72.0,4,9
+Club/Bar/Restaurant,72.0,5,27
+Club/Bar/Restaurant,72.0,6,14
+Club/Bar/Restaurant,72.0,7,5
+Club/Bar/Restaurant,72.0,8,2
+Club/Bar/Restaurant,72.0,9,10
+Club/Bar/Restaurant,72.0,10,12
+Club/Bar/Restaurant,72.0,11,17
+Club/Bar/Restaurant,72.0,12,15
+Club/Bar/Restaurant,73.0,2,2
+Club/Bar/Restaurant,73.0,6,1
+Club/Bar/Restaurant,73.0,7,1
+Club/Bar/Restaurant,73.0,8,1
+Club/Bar/Restaurant,73.0,10,3
+Club/Bar/Restaurant,73.0,11,1
+Club/Bar/Restaurant,75.0,1,3
+Club/Bar/Restaurant,75.0,2,6
+Club/Bar/Restaurant,75.0,3,5
+Club/Bar/Restaurant,75.0,4,6
+Club/Bar/Restaurant,75.0,5,13
+Club/Bar/Restaurant,75.0,6,22
+Club/Bar/Restaurant,75.0,7,9
+Club/Bar/Restaurant,75.0,8,12
+Club/Bar/Restaurant,75.0,9,9
+Club/Bar/Restaurant,75.0,10,16
+Club/Bar/Restaurant,75.0,11,4
+Club/Bar/Restaurant,75.0,12,10
+Club/Bar/Restaurant,76.0,2,2
+Club/Bar/Restaurant,76.0,3,1
+Club/Bar/Restaurant,76.0,4,1
+Club/Bar/Restaurant,76.0,5,13
+Club/Bar/Restaurant,76.0,6,14
+Club/Bar/Restaurant,76.0,7,1
+Club/Bar/Restaurant,76.0,8,2
+Club/Bar/Restaurant,76.0,9,8
+Club/Bar/Restaurant,76.0,10,16
+Club/Bar/Restaurant,76.0,11,8
+Club/Bar/Restaurant,76.0,12,8
+Club/Bar/Restaurant,77.0,1,33
+Club/Bar/Restaurant,77.0,2,13
+Club/Bar/Restaurant,77.0,3,16
+Club/Bar/Restaurant,77.0,4,27
+Club/Bar/Restaurant,77.0,5,36
+Club/Bar/Restaurant,77.0,6,43
+Club/Bar/Restaurant,77.0,7,35
+Club/Bar/Restaurant,77.0,8,33
+Club/Bar/Restaurant,77.0,9,37
+Club/Bar/Restaurant,77.0,10,45
+Club/Bar/Restaurant,77.0,11,26
+Club/Bar/Restaurant,77.0,12,30
+Club/Bar/Restaurant,78.0,1,29
+Club/Bar/Restaurant,78.0,2,18
+Club/Bar/Restaurant,78.0,3,37
+Club/Bar/Restaurant,78.0,4,31
+Club/Bar/Restaurant,78.0,5,46
+Club/Bar/Restaurant,78.0,6,34
+Club/Bar/Restaurant,78.0,7,27
+Club/Bar/Restaurant,78.0,8,46
+Club/Bar/Restaurant,78.0,9,36
+Club/Bar/Restaurant,78.0,10,38
+Club/Bar/Restaurant,78.0,11,25
+Club/Bar/Restaurant,78.0,12,30
+Club/Bar/Restaurant,79.0,1,6
+Club/Bar/Restaurant,79.0,2,13
+Club/Bar/Restaurant,79.0,3,14
+Club/Bar/Restaurant,79.0,4,15
+Club/Bar/Restaurant,79.0,5,49
+Club/Bar/Restaurant,79.0,6,71
+Club/Bar/Restaurant,79.0,7,27
+Club/Bar/Restaurant,79.0,8,35
+Club/Bar/Restaurant,79.0,9,39
+Club/Bar/Restaurant,79.0,10,66
+Club/Bar/Restaurant,79.0,11,50
+Club/Bar/Restaurant,79.0,12,75
+Club/Bar/Restaurant,81.0,2,1
+Club/Bar/Restaurant,81.0,3,1
+Club/Bar/Restaurant,81.0,4,4
+Club/Bar/Restaurant,81.0,5,3
+Club/Bar/Restaurant,81.0,6,8
+Club/Bar/Restaurant,81.0,7,2
+Club/Bar/Restaurant,81.0,8,6
+Club/Bar/Restaurant,81.0,9,4
+Club/Bar/Restaurant,81.0,10,17
+Club/Bar/Restaurant,81.0,11,18
+Club/Bar/Restaurant,81.0,12,6
+Club/Bar/Restaurant,83.0,1,19
+Club/Bar/Restaurant,83.0,2,16
+Club/Bar/Restaurant,83.0,3,17
+Club/Bar/Restaurant,83.0,4,30
+Club/Bar/Restaurant,83.0,5,72
+Club/Bar/Restaurant,83.0,6,67
+Club/Bar/Restaurant,83.0,7,40
+Club/Bar/Restaurant,83.0,8,63
+Club/Bar/Restaurant,83.0,9,71
+Club/Bar/Restaurant,83.0,10,65
+Club/Bar/Restaurant,83.0,11,35
+Club/Bar/Restaurant,83.0,12,46
+Club/Bar/Restaurant,84.0,1,3
+Club/Bar/Restaurant,84.0,2,6
+Club/Bar/Restaurant,84.0,3,4
+Club/Bar/Restaurant,84.0,4,8
+Club/Bar/Restaurant,84.0,5,20
+Club/Bar/Restaurant,84.0,6,23
+Club/Bar/Restaurant,84.0,7,9
+Club/Bar/Restaurant,84.0,8,11
+Club/Bar/Restaurant,84.0,9,10
+Club/Bar/Restaurant,84.0,10,7
+Club/Bar/Restaurant,84.0,11,7
+Club/Bar/Restaurant,84.0,12,18
+Club/Bar/Restaurant,88.0,1,10
+Club/Bar/Restaurant,88.0,2,8
+Club/Bar/Restaurant,88.0,3,6
+Club/Bar/Restaurant,88.0,4,12
+Club/Bar/Restaurant,88.0,5,31
+Club/Bar/Restaurant,88.0,6,25
+Club/Bar/Restaurant,88.0,7,29
+Club/Bar/Restaurant,88.0,8,41
+Club/Bar/Restaurant,88.0,9,35
+Club/Bar/Restaurant,88.0,10,24
+Club/Bar/Restaurant,88.0,11,11
+Club/Bar/Restaurant,88.0,12,23
+Club/Bar/Restaurant,90.0,1,40
+Club/Bar/Restaurant,90.0,2,20
+Club/Bar/Restaurant,90.0,3,43
+Club/Bar/Restaurant,90.0,4,33
+Club/Bar/Restaurant,90.0,5,229
+Club/Bar/Restaurant,90.0,6,113
+Club/Bar/Restaurant,90.0,7,97
+Club/Bar/Restaurant,90.0,8,81
+Club/Bar/Restaurant,90.0,9,101
+Club/Bar/Restaurant,90.0,10,147
+Club/Bar/Restaurant,90.0,11,50
+Club/Bar/Restaurant,90.0,12,60
+Club/Bar/Restaurant,94.0,1,15
+Club/Bar/Restaurant,94.0,2,12
+Club/Bar/Restaurant,94.0,3,17
+Club/Bar/Restaurant,94.0,4,15
+Club/Bar/Restaurant,94.0,5,80
+Club/Bar/Restaurant,94.0,6,55
+Club/Bar/Restaurant,94.0,7,25
+Club/Bar/Restaurant,94.0,8,43
+Club/Bar/Restaurant,94.0,9,71
+Club/Bar/Restaurant,94.0,10,64
+Club/Bar/Restaurant,94.0,11,27
+Club/Bar/Restaurant,94.0,12,25
+Club/Bar/Restaurant,100.0,1,3
+Club/Bar/Restaurant,100.0,3,4
+Club/Bar/Restaurant,100.0,4,5
+Club/Bar/Restaurant,100.0,5,23
+Club/Bar/Restaurant,100.0,6,42
+Club/Bar/Restaurant,100.0,7,21
+Club/Bar/Restaurant,100.0,8,12
+Club/Bar/Restaurant,100.0,9,18
+Club/Bar/Restaurant,100.0,10,23
+Club/Bar/Restaurant,100.0,11,12
+Club/Bar/Restaurant,100.0,12,7
+Club/Bar/Restaurant,101.0,6,5
+Club/Bar/Restaurant,101.0,7,2
+Club/Bar/Restaurant,101.0,8,1
+Club/Bar/Restaurant,101.0,9,3
+Club/Bar/Restaurant,101.0,10,1
+Club/Bar/Restaurant,102.0,1,23
+Club/Bar/Restaurant,102.0,2,33
+Club/Bar/Restaurant,102.0,3,21
+Club/Bar/Restaurant,102.0,4,14
+Club/Bar/Restaurant,102.0,5,22
+Club/Bar/Restaurant,102.0,6,35
+Club/Bar/Restaurant,102.0,7,18
+Club/Bar/Restaurant,102.0,8,11
+Club/Bar/Restaurant,102.0,9,15
+Club/Bar/Restaurant,102.0,10,29
+Club/Bar/Restaurant,102.0,11,21
+Club/Bar/Restaurant,102.0,12,13
+Club/Bar/Restaurant,103.0,1,4
+Club/Bar/Restaurant,103.0,2,7
+Club/Bar/Restaurant,103.0,3,6
+Club/Bar/Restaurant,103.0,4,12
+Club/Bar/Restaurant,103.0,5,15
+Club/Bar/Restaurant,103.0,6,12
+Club/Bar/Restaurant,103.0,7,14
+Club/Bar/Restaurant,103.0,8,11
+Club/Bar/Restaurant,103.0,9,9
+Club/Bar/Restaurant,103.0,10,28
+Club/Bar/Restaurant,103.0,11,16
+Club/Bar/Restaurant,103.0,12,16
+Club/Bar/Restaurant,104.0,1,5
+Club/Bar/Restaurant,104.0,2,4
+Club/Bar/Restaurant,104.0,3,14
+Club/Bar/Restaurant,104.0,4,11
+Club/Bar/Restaurant,104.0,5,33
+Club/Bar/Restaurant,104.0,6,39
+Club/Bar/Restaurant,104.0,7,17
+Club/Bar/Restaurant,104.0,8,16
+Club/Bar/Restaurant,104.0,9,12
+Club/Bar/Restaurant,104.0,10,33
+Club/Bar/Restaurant,104.0,11,29
+Club/Bar/Restaurant,104.0,12,20
+Club/Bar/Restaurant,105.0,1,5
+Club/Bar/Restaurant,105.0,2,4
+Club/Bar/Restaurant,105.0,3,5
+Club/Bar/Restaurant,105.0,4,8
+Club/Bar/Restaurant,105.0,5,6
+Club/Bar/Restaurant,105.0,6,10
+Club/Bar/Restaurant,105.0,7,6
+Club/Bar/Restaurant,105.0,8,3
+Club/Bar/Restaurant,105.0,9,3
+Club/Bar/Restaurant,105.0,10,1
+Club/Bar/Restaurant,105.0,11,5
+Club/Bar/Restaurant,105.0,12,4
+Club/Bar/Restaurant,106.0,1,8
+Club/Bar/Restaurant,106.0,2,12
+Club/Bar/Restaurant,106.0,3,13
+Club/Bar/Restaurant,106.0,4,19
+Club/Bar/Restaurant,106.0,5,50
+Club/Bar/Restaurant,106.0,6,40
+Club/Bar/Restaurant,106.0,7,21
+Club/Bar/Restaurant,106.0,8,16
+Club/Bar/Restaurant,106.0,9,14
+Club/Bar/Restaurant,106.0,10,20
+Club/Bar/Restaurant,106.0,11,6
+Club/Bar/Restaurant,106.0,12,19
+Club/Bar/Restaurant,107.0,1,3
+Club/Bar/Restaurant,107.0,2,3
+Club/Bar/Restaurant,107.0,3,2
+Club/Bar/Restaurant,107.0,4,2
+Club/Bar/Restaurant,107.0,5,4
+Club/Bar/Restaurant,107.0,6,1
+Club/Bar/Restaurant,107.0,7,4
+Club/Bar/Restaurant,107.0,8,1
+Club/Bar/Restaurant,107.0,9,7
+Club/Bar/Restaurant,107.0,11,4
+Club/Bar/Restaurant,107.0,12,10
+Club/Bar/Restaurant,108.0,1,4
+Club/Bar/Restaurant,108.0,2,12
+Club/Bar/Restaurant,108.0,3,16
+Club/Bar/Restaurant,108.0,4,13
+Club/Bar/Restaurant,108.0,5,60
+Club/Bar/Restaurant,108.0,6,62
+Club/Bar/Restaurant,108.0,7,36
+Club/Bar/Restaurant,108.0,8,21
+Club/Bar/Restaurant,108.0,9,46
+Club/Bar/Restaurant,108.0,10,65
+Club/Bar/Restaurant,108.0,11,6
+Club/Bar/Restaurant,108.0,12,17
+Club/Bar/Restaurant,109.0,1,1
+Club/Bar/Restaurant,109.0,2,1
+Club/Bar/Restaurant,109.0,3,2
+Club/Bar/Restaurant,109.0,4,7
+Club/Bar/Restaurant,109.0,5,17
+Club/Bar/Restaurant,109.0,6,7
+Club/Bar/Restaurant,109.0,7,3
+Club/Bar/Restaurant,109.0,8,5
+Club/Bar/Restaurant,109.0,9,18
+Club/Bar/Restaurant,109.0,10,13
+Club/Bar/Restaurant,109.0,11,5
+Club/Bar/Restaurant,109.0,12,8
+Club/Bar/Restaurant,110.0,1,4
+Club/Bar/Restaurant,110.0,2,6
+Club/Bar/Restaurant,110.0,3,6
+Club/Bar/Restaurant,110.0,4,7
+Club/Bar/Restaurant,110.0,5,3
+Club/Bar/Restaurant,110.0,6,7
+Club/Bar/Restaurant,110.0,7,6
+Club/Bar/Restaurant,110.0,8,3
+Club/Bar/Restaurant,110.0,9,9
+Club/Bar/Restaurant,110.0,10,9
+Club/Bar/Restaurant,110.0,11,9
+Club/Bar/Restaurant,110.0,12,6
+Club/Bar/Restaurant,111.0,1,5
+Club/Bar/Restaurant,111.0,3,1
+Club/Bar/Restaurant,111.0,4,1
+Club/Bar/Restaurant,111.0,5,7
+Club/Bar/Restaurant,111.0,6,6
+Club/Bar/Restaurant,111.0,7,3
+Club/Bar/Restaurant,111.0,8,1
+Club/Bar/Restaurant,111.0,9,14
+Club/Bar/Restaurant,111.0,10,18
+Club/Bar/Restaurant,111.0,11,7
+Club/Bar/Restaurant,111.0,12,3
+Club/Bar/Restaurant,112.0,1,3
+Club/Bar/Restaurant,112.0,2,3
+Club/Bar/Restaurant,112.0,3,1
+Club/Bar/Restaurant,112.0,4,4
+Club/Bar/Restaurant,112.0,5,6
+Club/Bar/Restaurant,112.0,6,6
+Club/Bar/Restaurant,112.0,7,7
+Club/Bar/Restaurant,112.0,8,5
+Club/Bar/Restaurant,112.0,9,3
+Club/Bar/Restaurant,112.0,10,12
+Club/Bar/Restaurant,112.0,11,14
+Club/Bar/Restaurant,112.0,12,11
+Club/Bar/Restaurant,113.0,1,3
+Club/Bar/Restaurant,113.0,2,4
+Club/Bar/Restaurant,113.0,3,2
+Club/Bar/Restaurant,113.0,4,1
+Club/Bar/Restaurant,113.0,5,5
+Club/Bar/Restaurant,113.0,6,6
+Club/Bar/Restaurant,113.0,7,7
+Club/Bar/Restaurant,113.0,8,4
+Club/Bar/Restaurant,113.0,9,2
+Club/Bar/Restaurant,113.0,10,3
+Club/Bar/Restaurant,113.0,11,5
+Club/Bar/Restaurant,113.0,12,2
+Club/Bar/Restaurant,114.0,1,31
+Club/Bar/Restaurant,114.0,2,29
+Club/Bar/Restaurant,114.0,3,29
+Club/Bar/Restaurant,114.0,4,36
+Club/Bar/Restaurant,114.0,5,91
+Club/Bar/Restaurant,114.0,6,94
+Club/Bar/Restaurant,114.0,7,51
+Club/Bar/Restaurant,114.0,8,49
+Club/Bar/Restaurant,114.0,9,92
+Club/Bar/Restaurant,114.0,10,99
+Club/Bar/Restaurant,114.0,11,89
+Club/Bar/Restaurant,114.0,12,83
+Club/Bar/Restaurant,115.0,1,5
+Club/Bar/Restaurant,115.0,2,8
+Club/Bar/Restaurant,115.0,3,10
+Club/Bar/Restaurant,115.0,4,14
+Club/Bar/Restaurant,115.0,5,18
+Club/Bar/Restaurant,115.0,6,20
+Club/Bar/Restaurant,115.0,7,14
+Club/Bar/Restaurant,115.0,8,9
+Club/Bar/Restaurant,115.0,9,13
+Club/Bar/Restaurant,115.0,10,34
+Club/Bar/Restaurant,115.0,11,20
+Club/Bar/Restaurant,115.0,12,14
+Club/Bar/Restaurant,120.0,1,6
+Club/Bar/Restaurant,120.0,2,19
+Club/Bar/Restaurant,120.0,3,18
+Club/Bar/Restaurant,120.0,4,26
+Club/Bar/Restaurant,120.0,5,36
+Club/Bar/Restaurant,120.0,6,32
+Club/Bar/Restaurant,120.0,7,6
+Club/Bar/Restaurant,120.0,8,6
+Club/Bar/Restaurant,120.0,9,10
+Club/Bar/Restaurant,120.0,10,14
+Club/Bar/Restaurant,120.0,11,10
+Club/Bar/Restaurant,120.0,12,18
+Club/Bar/Restaurant,121.0,1,1
+Club/Bar/Restaurant,121.0,5,2
+Club/Bar/Restaurant,121.0,6,2
+Club/Bar/Restaurant,121.0,7,5
+Club/Bar/Restaurant,121.0,8,4
+Club/Bar/Restaurant,121.0,9,3
+Club/Bar/Restaurant,121.0,12,1
+Club/Bar/Restaurant,122.0,1,3
+Club/Bar/Restaurant,122.0,2,1
+Club/Bar/Restaurant,122.0,3,4
+Club/Bar/Restaurant,122.0,4,2
+Club/Bar/Restaurant,122.0,5,9
+Club/Bar/Restaurant,122.0,6,23
+Club/Bar/Restaurant,122.0,7,3
+Club/Bar/Restaurant,122.0,8,14
+Club/Bar/Restaurant,122.0,9,30
+Club/Bar/Restaurant,122.0,10,21
+Club/Bar/Restaurant,122.0,11,3
+Club/Bar/Restaurant,122.0,12,6
+Club/Bar/Restaurant,123.0,2,2
+Club/Bar/Restaurant,123.0,3,2
+Club/Bar/Restaurant,123.0,4,1
+Club/Bar/Restaurant,123.0,5,13
+Club/Bar/Restaurant,123.0,6,15
+Club/Bar/Restaurant,123.0,7,22
+Club/Bar/Restaurant,123.0,8,24
+Club/Bar/Restaurant,123.0,9,11
+Club/Bar/Restaurant,123.0,10,11
+Club/Bar/Restaurant,123.0,11,7
+Club/Bar/Restaurant,123.0,12,7
+House of Worship,6.0,10,1
+House of Worship,7.0,4,1
+House of Worship,9.0,3,3
+House of Worship,9.0,7,1
+House of Worship,9.0,9,2
+House of Worship,13.0,4,2
+House of Worship,13.0,9,1
+House of Worship,17.0,2,1
+House of Worship,18.0,1,1
+House of Worship,18.0,11,1
+House of Worship,19.0,1,1
+House of Worship,19.0,2,1
+House of Worship,19.0,7,2
+House of Worship,19.0,11,1
+House of Worship,20.0,1,1
+House of Worship,20.0,2,1
+House of Worship,20.0,5,1
+House of Worship,20.0,6,1
+House of Worship,20.0,9,1
+House of Worship,20.0,10,3
+House of Worship,20.0,11,1
+House of Worship,23.0,5,2
+House of Worship,23.0,6,1
+House of Worship,23.0,8,1
+House of Worship,23.0,10,1
+House of Worship,24.0,2,2
+House of Worship,25.0,3,1
+House of Worship,25.0,5,1
+House of Worship,25.0,6,2
+House of Worship,25.0,9,1
+House of Worship,26.0,9,1
+House of Worship,26.0,12,1
+House of Worship,28.0,1,1
+House of Worship,28.0,3,1
+House of Worship,28.0,4,4
+House of Worship,28.0,5,3
+House of Worship,28.0,9,1
+House of Worship,28.0,12,1
+House of Worship,30.0,3,1
+House of Worship,30.0,4,1
+House of Worship,30.0,5,5
+House of Worship,30.0,6,4
+House of Worship,30.0,7,1
+House of Worship,30.0,12,1
+House of Worship,32.0,1,2
+House of Worship,32.0,2,1
+House of Worship,32.0,3,2
+House of Worship,32.0,4,1
+House of Worship,32.0,6,2
+House of Worship,32.0,8,1
+House of Worship,32.0,9,4
+House of Worship,33.0,1,1
+House of Worship,33.0,2,1
+House of Worship,33.0,4,1
+House of Worship,33.0,7,2
+House of Worship,34.0,2,1
+House of Worship,34.0,3,1
+House of Worship,34.0,4,1
+House of Worship,34.0,5,2
+House of Worship,34.0,6,2
+House of Worship,34.0,7,2
+House of Worship,34.0,8,2
+House of Worship,34.0,10,12
+House of Worship,34.0,11,4
+House of Worship,34.0,12,1
+House of Worship,40.0,8,1
+House of Worship,40.0,9,3
+House of Worship,41.0,8,2
+House of Worship,42.0,2,1
+House of Worship,42.0,3,1
+House of Worship,42.0,4,3
+House of Worship,42.0,10,1
+House of Worship,42.0,11,1
+House of Worship,43.0,4,1
+House of Worship,43.0,6,1
+House of Worship,43.0,7,1
+House of Worship,43.0,12,1
+House of Worship,44.0,6,1
+House of Worship,44.0,8,1
+House of Worship,44.0,9,1
+House of Worship,45.0,4,1
+House of Worship,45.0,7,1
+House of Worship,45.0,8,1
+House of Worship,45.0,9,1
+House of Worship,46.0,2,1
+House of Worship,46.0,7,1
+House of Worship,46.0,10,1
+House of Worship,47.0,6,2
+House of Worship,47.0,7,2
+House of Worship,47.0,9,1
+House of Worship,47.0,10,1
+House of Worship,48.0,2,1
+House of Worship,48.0,3,1
+House of Worship,48.0,4,4
+House of Worship,48.0,5,8
+House of Worship,48.0,6,8
+House of Worship,48.0,7,1
+House of Worship,48.0,10,3
+House of Worship,48.0,12,1
+House of Worship,49.0,5,2
+House of Worship,49.0,6,1
+House of Worship,49.0,8,1
+House of Worship,49.0,9,1
+House of Worship,50.0,5,1
+House of Worship,50.0,9,1
+House of Worship,52.0,5,2
+House of Worship,52.0,6,1
+House of Worship,52.0,7,1
+House of Worship,52.0,8,1
+House of Worship,52.0,9,4
+House of Worship,52.0,10,1
+House of Worship,52.0,11,1
+House of Worship,52.0,12,1
+House of Worship,60.0,2,1
+House of Worship,60.0,4,1
+House of Worship,60.0,5,2
+House of Worship,60.0,7,3
+House of Worship,61.0,3,1
+House of Worship,61.0,4,1
+House of Worship,61.0,5,2
+House of Worship,61.0,6,2
+House of Worship,61.0,9,1
+House of Worship,61.0,10,2
+House of Worship,62.0,1,1
+House of Worship,62.0,3,1
+House of Worship,62.0,5,2
+House of Worship,62.0,6,2
+House of Worship,62.0,9,1
+House of Worship,62.0,11,2
+House of Worship,62.0,12,3
+House of Worship,63.0,4,1
+House of Worship,63.0,9,1
+House of Worship,66.0,3,4
+House of Worship,66.0,5,4
+House of Worship,66.0,6,3
+House of Worship,66.0,10,3
+House of Worship,66.0,11,2
+House of Worship,66.0,12,1
+House of Worship,67.0,2,1
+House of Worship,67.0,4,2
+House of Worship,67.0,5,2
+House of Worship,67.0,7,2
+House of Worship,67.0,8,1
+House of Worship,67.0,9,4
+House of Worship,67.0,10,1
+House of Worship,67.0,12,2
+House of Worship,68.0,1,2
+House of Worship,68.0,3,1
+House of Worship,68.0,5,2
+House of Worship,68.0,11,2
+House of Worship,70.0,2,1
+House of Worship,70.0,3,4
+House of Worship,70.0,4,2
+House of Worship,70.0,6,2
+House of Worship,70.0,7,2
+House of Worship,70.0,9,3
+House of Worship,70.0,10,1
+House of Worship,70.0,11,4
+House of Worship,71.0,1,1
+House of Worship,71.0,2,1
+House of Worship,71.0,3,3
+House of Worship,71.0,4,2
+House of Worship,71.0,5,1
+House of Worship,71.0,6,2
+House of Worship,71.0,7,1
+House of Worship,71.0,8,2
+House of Worship,71.0,9,1
+House of Worship,71.0,12,1
+House of Worship,72.0,7,1
+House of Worship,72.0,8,4
+House of Worship,72.0,9,7
+House of Worship,72.0,10,4
+House of Worship,72.0,12,2
+House of Worship,73.0,1,4
+House of Worship,73.0,2,1
+House of Worship,73.0,3,1
+House of Worship,73.0,6,2
+House of Worship,73.0,8,1
+House of Worship,73.0,12,1
+House of Worship,75.0,1,2
+House of Worship,75.0,2,3
+House of Worship,75.0,3,3
+House of Worship,75.0,4,2
+House of Worship,75.0,5,2
+House of Worship,75.0,6,2
+House of Worship,75.0,8,1
+House of Worship,75.0,9,1
+House of Worship,75.0,11,4
+House of Worship,75.0,12,3
+House of Worship,76.0,11,1
+House of Worship,77.0,1,1
+House of Worship,77.0,2,1
+House of Worship,77.0,4,1
+House of Worship,77.0,5,1
+House of Worship,77.0,6,2
+House of Worship,77.0,7,3
+House of Worship,77.0,8,1
+House of Worship,77.0,9,1
+House of Worship,77.0,10,8
+House of Worship,77.0,12,3
+House of Worship,78.0,3,1
+House of Worship,78.0,6,2
+House of Worship,78.0,7,1
+House of Worship,78.0,8,1
+House of Worship,78.0,9,3
+House of Worship,78.0,10,1
+House of Worship,79.0,5,2
+House of Worship,79.0,7,7
+House of Worship,79.0,8,13
+House of Worship,79.0,9,6
+House of Worship,79.0,10,10
+House of Worship,79.0,11,4
+House of Worship,79.0,12,1
+House of Worship,81.0,3,1
+House of Worship,81.0,7,1
+House of Worship,83.0,3,2
+House of Worship,83.0,4,2
+House of Worship,83.0,6,2
+House of Worship,83.0,7,4
+House of Worship,83.0,8,3
+House of Worship,83.0,10,2
+House of Worship,83.0,12,1
+House of Worship,84.0,6,1
+House of Worship,84.0,8,1
+House of Worship,84.0,10,1
+House of Worship,84.0,11,1
+House of Worship,88.0,1,3
+House of Worship,88.0,2,3
+House of Worship,88.0,4,2
+House of Worship,88.0,5,2
+House of Worship,88.0,8,1
+House of Worship,88.0,9,2
+House of Worship,88.0,11,1
+House of Worship,88.0,12,1
+House of Worship,90.0,3,1
+House of Worship,90.0,4,3
+House of Worship,90.0,5,4
+House of Worship,90.0,6,3
+House of Worship,90.0,7,2
+House of Worship,90.0,8,3
+House of Worship,94.0,8,2
+House of Worship,94.0,9,3
+House of Worship,94.0,10,1
+House of Worship,94.0,11,2
+House of Worship,100.0,6,3
+House of Worship,100.0,9,3
+House of Worship,100.0,10,3
+House of Worship,101.0,9,1
+House of Worship,101.0,10,3
+House of Worship,103.0,3,1
+House of Worship,103.0,4,1
+House of Worship,103.0,6,3
+House of Worship,103.0,8,1
+House of Worship,103.0,9,1
+House of Worship,103.0,10,1
+House of Worship,103.0,11,1
+House of Worship,103.0,12,3
+House of Worship,104.0,2,2
+House of Worship,104.0,3,1
+House of Worship,104.0,6,3
+House of Worship,104.0,7,2
+House of Worship,105.0,2,1
+House of Worship,105.0,3,1
+House of Worship,105.0,6,1
+House of Worship,105.0,10,1
+House of Worship,106.0,2,1
+House of Worship,106.0,5,1
+House of Worship,106.0,6,1
+House of Worship,106.0,9,1
+House of Worship,106.0,10,1
+House of Worship,106.0,11,1
+House of Worship,107.0,5,1
+House of Worship,107.0,6,1
+House of Worship,107.0,8,1
+House of Worship,107.0,10,1
+House of Worship,108.0,1,2
+House of Worship,108.0,4,5
+House of Worship,108.0,5,8
+House of Worship,108.0,6,2
+House of Worship,108.0,9,2
+House of Worship,109.0,2,1
+House of Worship,109.0,4,2
+House of Worship,109.0,5,3
+House of Worship,109.0,6,3
+House of Worship,109.0,8,2
+House of Worship,109.0,9,1
+House of Worship,110.0,3,2
+House of Worship,110.0,4,1
+House of Worship,110.0,5,1
+House of Worship,111.0,5,1
+House of Worship,111.0,10,1
+House of Worship,112.0,5,1
+House of Worship,112.0,6,1
+House of Worship,112.0,9,2
+House of Worship,112.0,10,1
+House of Worship,113.0,2,1
+House of Worship,113.0,9,1
+House of Worship,113.0,11,1
+House of Worship,114.0,5,1
+House of Worship,114.0,6,1
+House of Worship,114.0,9,1
+House of Worship,114.0,10,2
+House of Worship,114.0,11,1
+House of Worship,114.0,12,1
+House of Worship,115.0,1,1
+House of Worship,115.0,4,4
+House of Worship,115.0,6,1
+House of Worship,115.0,7,2
+House of Worship,115.0,8,4
+House of Worship,115.0,10,1
+House of Worship,115.0,12,2
+House of Worship,120.0,6,1
+House of Worship,120.0,7,1
+House of Worship,121.0,5,1
+Park/Playground,1.0,1,3
+Park/Playground,1.0,3,1
+Park/Playground,1.0,4,1
+Park/Playground,1.0,5,1
+Park/Playground,1.0,6,5
+Park/Playground,1.0,7,4
+Park/Playground,1.0,8,5
+Park/Playground,1.0,9,5
+Park/Playground,1.0,10,1
+Park/Playground,1.0,12,1
+Park/Playground,5.0,1,1
+Park/Playground,5.0,3,3
+Park/Playground,5.0,5,5
+Park/Playground,5.0,6,6
+Park/Playground,5.0,7,6
+Park/Playground,5.0,8,2
+Park/Playground,5.0,9,1
+Park/Playground,5.0,10,1
+Park/Playground,5.0,12,2
+Park/Playground,6.0,1,5
+Park/Playground,6.0,2,7
+Park/Playground,6.0,3,31
+Park/Playground,6.0,4,19
+Park/Playground,6.0,5,26
+Park/Playground,6.0,6,4
+Park/Playground,6.0,7,9
+Park/Playground,6.0,8,4
+Park/Playground,6.0,9,12
+Park/Playground,6.0,10,8
+Park/Playground,6.0,11,12
+Park/Playground,6.0,12,6
+Park/Playground,7.0,4,2
+Park/Playground,7.0,5,4
+Park/Playground,7.0,6,13
+Park/Playground,7.0,7,8
+Park/Playground,7.0,8,6
+Park/Playground,7.0,9,11
+Park/Playground,7.0,10,4
+Park/Playground,7.0,11,4
+Park/Playground,9.0,3,8
+Park/Playground,9.0,4,9
+Park/Playground,9.0,5,16
+Park/Playground,9.0,6,15
+Park/Playground,9.0,7,7
+Park/Playground,9.0,8,13
+Park/Playground,9.0,9,13
+Park/Playground,9.0,10,3
+Park/Playground,9.0,11,3
+Park/Playground,9.0,12,1
+Park/Playground,10.0,1,1
+Park/Playground,10.0,4,1
+Park/Playground,10.0,5,2
+Park/Playground,10.0,6,4
+Park/Playground,10.0,7,2
+Park/Playground,10.0,8,1
+Park/Playground,10.0,9,1
+Park/Playground,13.0,3,4
+Park/Playground,13.0,4,4
+Park/Playground,13.0,5,3
+Park/Playground,13.0,6,3
+Park/Playground,13.0,7,2
+Park/Playground,13.0,8,5
+Park/Playground,13.0,9,3
+Park/Playground,13.0,10,10
+Park/Playground,13.0,12,1
+Park/Playground,14.0,3,2
+Park/Playground,14.0,5,1
+Park/Playground,14.0,7,2
+Park/Playground,14.0,9,1
+Park/Playground,17.0,6,1
+Park/Playground,17.0,9,3
+Park/Playground,17.0,10,1
+Park/Playground,18.0,3,1
+Park/Playground,18.0,4,1
+Park/Playground,18.0,6,2
+Park/Playground,18.0,9,4
+Park/Playground,18.0,10,1
+Park/Playground,19.0,1,1
+Park/Playground,19.0,6,1
+Park/Playground,19.0,8,1
+Park/Playground,20.0,3,1
+Park/Playground,20.0,4,4
+Park/Playground,20.0,5,5
+Park/Playground,20.0,6,7
+Park/Playground,20.0,7,4
+Park/Playground,20.0,8,4
+Park/Playground,20.0,9,13
+Park/Playground,20.0,10,2
+Park/Playground,20.0,11,1
+Park/Playground,20.0,12,2
+Park/Playground,22.0,1,2
+Park/Playground,22.0,2,1
+Park/Playground,22.0,3,3
+Park/Playground,22.0,4,2
+Park/Playground,22.0,5,4
+Park/Playground,22.0,6,8
+Park/Playground,22.0,7,4
+Park/Playground,22.0,8,4
+Park/Playground,22.0,9,18
+Park/Playground,22.0,10,1
+Park/Playground,22.0,11,2
+Park/Playground,22.0,12,3
+Park/Playground,23.0,4,1
+Park/Playground,23.0,5,3
+Park/Playground,23.0,6,7
+Park/Playground,23.0,7,5
+Park/Playground,23.0,8,7
+Park/Playground,23.0,9,7
+Park/Playground,23.0,10,2
+Park/Playground,24.0,4,2
+Park/Playground,24.0,5,1
+Park/Playground,24.0,6,1
+Park/Playground,24.0,7,7
+Park/Playground,24.0,8,14
+Park/Playground,24.0,9,4
+Park/Playground,24.0,10,4
+Park/Playground,24.0,11,1
+Park/Playground,24.0,12,1
+Park/Playground,25.0,4,2
+Park/Playground,25.0,5,4
+Park/Playground,25.0,6,10
+Park/Playground,25.0,7,1
+Park/Playground,25.0,8,12
+Park/Playground,25.0,9,6
+Park/Playground,25.0,10,6
+Park/Playground,25.0,11,1
+Park/Playground,26.0,4,2
+Park/Playground,26.0,6,13
+Park/Playground,26.0,7,8
+Park/Playground,26.0,8,12
+Park/Playground,26.0,9,3
+Park/Playground,26.0,11,1
+Park/Playground,28.0,5,2
+Park/Playground,28.0,6,9
+Park/Playground,28.0,7,4
+Park/Playground,28.0,8,6
+Park/Playground,28.0,9,17
+Park/Playground,28.0,10,3
+Park/Playground,30.0,4,1
+Park/Playground,30.0,5,2
+Park/Playground,30.0,6,5
+Park/Playground,30.0,7,7
+Park/Playground,30.0,8,11
+Park/Playground,30.0,9,1
+Park/Playground,30.0,10,2
+Park/Playground,32.0,3,1
+Park/Playground,32.0,4,2
+Park/Playground,32.0,5,11
+Park/Playground,32.0,6,13
+Park/Playground,32.0,7,19
+Park/Playground,32.0,8,12
+Park/Playground,32.0,9,22
+Park/Playground,32.0,11,2
+Park/Playground,33.0,3,1
+Park/Playground,33.0,4,1
+Park/Playground,33.0,6,12
+Park/Playground,33.0,7,5
+Park/Playground,33.0,8,2
+Park/Playground,33.0,9,13
+Park/Playground,33.0,10,2
+Park/Playground,34.0,3,6
+Park/Playground,34.0,4,3
+Park/Playground,34.0,5,12
+Park/Playground,34.0,6,28
+Park/Playground,34.0,7,32
+Park/Playground,34.0,8,32
+Park/Playground,34.0,9,26
+Park/Playground,34.0,10,8
+Park/Playground,34.0,11,1
+Park/Playground,40.0,3,1
+Park/Playground,40.0,4,1
+Park/Playground,40.0,5,5
+Park/Playground,40.0,6,9
+Park/Playground,40.0,7,6
+Park/Playground,40.0,8,2
+Park/Playground,40.0,9,19
+Park/Playground,40.0,11,1
+Park/Playground,41.0,4,2
+Park/Playground,41.0,5,2
+Park/Playground,41.0,6,2
+Park/Playground,41.0,7,5
+Park/Playground,41.0,8,1
+Park/Playground,41.0,9,2
+Park/Playground,41.0,10,3
+Park/Playground,41.0,11,1
+Park/Playground,42.0,2,1
+Park/Playground,42.0,5,5
+Park/Playground,42.0,6,5
+Park/Playground,42.0,7,13
+Park/Playground,42.0,8,12
+Park/Playground,42.0,9,4
+Park/Playground,43.0,4,1
+Park/Playground,43.0,5,11
+Park/Playground,43.0,6,13
+Park/Playground,43.0,7,26
+Park/Playground,43.0,8,24
+Park/Playground,43.0,9,21
+Park/Playground,43.0,10,1
+Park/Playground,43.0,11,1
+Park/Playground,44.0,3,1
+Park/Playground,44.0,4,3
+Park/Playground,44.0,5,4
+Park/Playground,44.0,6,26
+Park/Playground,44.0,7,8
+Park/Playground,44.0,8,19
+Park/Playground,44.0,9,25
+Park/Playground,44.0,10,2
+Park/Playground,45.0,4,1
+Park/Playground,45.0,6,2
+Park/Playground,45.0,7,1
+Park/Playground,45.0,8,3
+Park/Playground,45.0,9,5
+Park/Playground,45.0,10,4
+Park/Playground,45.0,11,1
+Park/Playground,46.0,5,2
+Park/Playground,46.0,7,3
+Park/Playground,46.0,8,1
+Park/Playground,46.0,9,2
+Park/Playground,46.0,10,2
+Park/Playground,47.0,2,1
+Park/Playground,47.0,5,3
+Park/Playground,47.0,6,9
+Park/Playground,47.0,7,12
+Park/Playground,47.0,8,19
+Park/Playground,47.0,9,3
+Park/Playground,48.0,2,1
+Park/Playground,48.0,4,1
+Park/Playground,48.0,5,3
+Park/Playground,48.0,6,8
+Park/Playground,48.0,7,7
+Park/Playground,48.0,8,1
+Park/Playground,48.0,10,1
+Park/Playground,49.0,3,1
+Park/Playground,49.0,4,2
+Park/Playground,49.0,6,1
+Park/Playground,49.0,7,3
+Park/Playground,49.0,8,3
+Park/Playground,49.0,9,1
+Park/Playground,50.0,2,1
+Park/Playground,50.0,3,2
+Park/Playground,50.0,4,6
+Park/Playground,50.0,5,4
+Park/Playground,50.0,6,8
+Park/Playground,50.0,7,15
+Park/Playground,50.0,8,15
+Park/Playground,50.0,9,7
+Park/Playground,52.0,4,1
+Park/Playground,52.0,5,4
+Park/Playground,52.0,6,7
+Park/Playground,52.0,7,39
+Park/Playground,52.0,8,26
+Park/Playground,52.0,9,9
+Park/Playground,52.0,10,1
+Park/Playground,60.0,4,1
+Park/Playground,60.0,5,9
+Park/Playground,60.0,6,9
+Park/Playground,60.0,7,12
+Park/Playground,60.0,8,22
+Park/Playground,60.0,9,4
+Park/Playground,61.0,4,1
+Park/Playground,61.0,5,1
+Park/Playground,61.0,6,3
+Park/Playground,61.0,7,2
+Park/Playground,61.0,8,2
+Park/Playground,61.0,10,1
+Park/Playground,62.0,5,3
+Park/Playground,62.0,6,1
+Park/Playground,62.0,7,5
+Park/Playground,62.0,8,1
+Park/Playground,62.0,9,6
+Park/Playground,62.0,10,3
+Park/Playground,62.0,12,3
+Park/Playground,63.0,6,1
+Park/Playground,63.0,7,2
+Park/Playground,63.0,8,1
+Park/Playground,63.0,9,1
+Park/Playground,63.0,10,3
+Park/Playground,66.0,1,1
+Park/Playground,66.0,2,1
+Park/Playground,66.0,3,1
+Park/Playground,66.0,4,1
+Park/Playground,66.0,5,4
+Park/Playground,66.0,6,6
+Park/Playground,66.0,7,4
+Park/Playground,66.0,8,7
+Park/Playground,66.0,9,2
+Park/Playground,66.0,10,2
+Park/Playground,66.0,11,1
+Park/Playground,67.0,7,1
+Park/Playground,68.0,4,2
+Park/Playground,68.0,5,6
+Park/Playground,68.0,6,12
+Park/Playground,68.0,7,19
+Park/Playground,68.0,8,28
+Park/Playground,68.0,9,17
+Park/Playground,68.0,10,11
+Park/Playground,68.0,11,1
+Park/Playground,69.0,6,5
+Park/Playground,69.0,7,4
+Park/Playground,69.0,8,2
+Park/Playground,70.0,4,1
+Park/Playground,70.0,5,4
+Park/Playground,70.0,6,5
+Park/Playground,70.0,7,3
+Park/Playground,70.0,8,2
+Park/Playground,71.0,5,4
+Park/Playground,71.0,6,6
+Park/Playground,71.0,7,14
+Park/Playground,71.0,8,2
+Park/Playground,71.0,9,3
+Park/Playground,71.0,10,12
+Park/Playground,72.0,1,1
+Park/Playground,72.0,2,3
+Park/Playground,72.0,3,6
+Park/Playground,72.0,4,14
+Park/Playground,72.0,5,46
+Park/Playground,72.0,6,45
+Park/Playground,72.0,7,25
+Park/Playground,72.0,8,26
+Park/Playground,72.0,9,73
+Park/Playground,72.0,10,47
+Park/Playground,72.0,11,9
+Park/Playground,72.0,12,4
+Park/Playground,73.0,3,1
+Park/Playground,73.0,6,5
+Park/Playground,73.0,8,3
+Park/Playground,73.0,9,3
+Park/Playground,75.0,6,1
+Park/Playground,75.0,7,3
+Park/Playground,75.0,8,8
+Park/Playground,75.0,9,1
+Park/Playground,76.0,6,1
+Park/Playground,76.0,7,2
+Park/Playground,76.0,8,3
+Park/Playground,76.0,9,2
+Park/Playground,76.0,10,1
+Park/Playground,77.0,5,2
+Park/Playground,77.0,6,12
+Park/Playground,77.0,7,2
+Park/Playground,77.0,8,11
+Park/Playground,77.0,9,6
+Park/Playground,77.0,10,1
+Park/Playground,77.0,11,1
+Park/Playground,78.0,5,7
+Park/Playground,78.0,6,10
+Park/Playground,78.0,7,5
+Park/Playground,78.0,8,7
+Park/Playground,78.0,9,9
+Park/Playground,78.0,10,8
+Park/Playground,78.0,11,1
+Park/Playground,79.0,5,4
+Park/Playground,79.0,6,8
+Park/Playground,79.0,7,26
+Park/Playground,79.0,8,4
+Park/Playground,79.0,9,12
+Park/Playground,79.0,10,1
+Park/Playground,81.0,4,4
+Park/Playground,81.0,5,2
+Park/Playground,81.0,6,13
+Park/Playground,81.0,7,7
+Park/Playground,81.0,8,6
+Park/Playground,81.0,9,5
+Park/Playground,81.0,10,2
+Park/Playground,83.0,6,3
+Park/Playground,83.0,7,1
+Park/Playground,83.0,8,3
+Park/Playground,83.0,9,2
+Park/Playground,83.0,10,4
+Park/Playground,83.0,11,2
+Park/Playground,84.0,4,2
+Park/Playground,84.0,5,5
+Park/Playground,84.0,6,18
+Park/Playground,84.0,7,5
+Park/Playground,84.0,8,4
+Park/Playground,84.0,9,32
+Park/Playground,84.0,10,1
+Park/Playground,88.0,3,1
+Park/Playground,88.0,4,3
+Park/Playground,88.0,5,10
+Park/Playground,88.0,6,6
+Park/Playground,88.0,7,15
+Park/Playground,88.0,8,31
+Park/Playground,90.0,4,2
+Park/Playground,90.0,5,13
+Park/Playground,90.0,6,11
+Park/Playground,90.0,7,9
+Park/Playground,90.0,8,12
+Park/Playground,90.0,9,9
+Park/Playground,90.0,10,1
+Park/Playground,94.0,4,1
+Park/Playground,94.0,5,2
+Park/Playground,94.0,6,11
+Park/Playground,94.0,7,10
+Park/Playground,94.0,8,5
+Park/Playground,94.0,9,5
+Park/Playground,94.0,10,1
+Park/Playground,94.0,11,1
+Park/Playground,94.0,12,1
+Park/Playground,100.0,5,1
+Park/Playground,100.0,6,2
+Park/Playground,100.0,7,1
+Park/Playground,100.0,8,7
+Park/Playground,100.0,10,2
+Park/Playground,101.0,5,1
+Park/Playground,101.0,6,2
+Park/Playground,101.0,7,3
+Park/Playground,101.0,8,8
+Park/Playground,101.0,9,7
+Park/Playground,101.0,10,1
+Park/Playground,101.0,12,1
+Park/Playground,102.0,5,1
+Park/Playground,102.0,6,4
+Park/Playground,102.0,8,3
+Park/Playground,102.0,10,1
+Park/Playground,102.0,12,1
+Park/Playground,103.0,4,1
+Park/Playground,103.0,5,4
+Park/Playground,103.0,6,1
+Park/Playground,103.0,7,2
+Park/Playground,103.0,8,4
+Park/Playground,103.0,9,2
+Park/Playground,104.0,1,2
+Park/Playground,104.0,3,2
+Park/Playground,104.0,4,4
+Park/Playground,104.0,5,3
+Park/Playground,104.0,6,8
+Park/Playground,104.0,7,1
+Park/Playground,104.0,8,1
+Park/Playground,104.0,9,2
+Park/Playground,105.0,6,2
+Park/Playground,105.0,7,2
+Park/Playground,105.0,8,4
+Park/Playground,106.0,5,3
+Park/Playground,106.0,6,1
+Park/Playground,106.0,7,2
+Park/Playground,106.0,8,3
+Park/Playground,106.0,9,5
+Park/Playground,106.0,10,1
+Park/Playground,106.0,11,1
+Park/Playground,107.0,3,1
+Park/Playground,107.0,4,1
+Park/Playground,107.0,5,2
+Park/Playground,107.0,6,8
+Park/Playground,107.0,7,3
+Park/Playground,107.0,8,5
+Park/Playground,107.0,9,1
+Park/Playground,108.0,3,1
+Park/Playground,108.0,4,3
+Park/Playground,108.0,5,6
+Park/Playground,108.0,6,10
+Park/Playground,108.0,7,2
+Park/Playground,108.0,8,1
+Park/Playground,108.0,9,3
+Park/Playground,108.0,10,7
+Park/Playground,108.0,11,8
+Park/Playground,108.0,12,6
+Park/Playground,109.0,3,1
+Park/Playground,109.0,4,2
+Park/Playground,109.0,5,8
+Park/Playground,109.0,6,16
+Park/Playground,109.0,7,7
+Park/Playground,109.0,8,10
+Park/Playground,109.0,9,6
+Park/Playground,109.0,10,6
+Park/Playground,109.0,11,5
+Park/Playground,110.0,3,2
+Park/Playground,110.0,4,4
+Park/Playground,110.0,5,7
+Park/Playground,110.0,6,5
+Park/Playground,110.0,7,1
+Park/Playground,110.0,9,3
+Park/Playground,110.0,10,5
+Park/Playground,110.0,11,1
+Park/Playground,110.0,12,1
+Park/Playground,111.0,4,1
+Park/Playground,111.0,7,1
+Park/Playground,112.0,3,2
+Park/Playground,112.0,5,3
+Park/Playground,112.0,6,1
+Park/Playground,112.0,8,5
+Park/Playground,112.0,10,1
+Park/Playground,113.0,5,1
+Park/Playground,113.0,6,8
+Park/Playground,113.0,7,2
+Park/Playground,113.0,8,3
+Park/Playground,113.0,9,2
+Park/Playground,113.0,11,1
+Park/Playground,114.0,3,3
+Park/Playground,114.0,4,4
+Park/Playground,114.0,5,2
+Park/Playground,114.0,6,6
+Park/Playground,114.0,7,9
+Park/Playground,114.0,8,12
+Park/Playground,114.0,9,7
+Park/Playground,114.0,10,3
+Park/Playground,114.0,11,2
+Park/Playground,115.0,5,3
+Park/Playground,115.0,6,1
+Park/Playground,115.0,7,2
+Park/Playground,115.0,8,4
+Park/Playground,115.0,9,4
+Park/Playground,115.0,10,5
+Park/Playground,115.0,11,1
+Park/Playground,120.0,5,2
+Park/Playground,120.0,6,7
+Park/Playground,120.0,7,2
+Park/Playground,120.0,8,1
+Park/Playground,120.0,9,3
+Park/Playground,120.0,10,3
+Park/Playground,121.0,7,1
+Park/Playground,121.0,10,1
+Park/Playground,122.0,5,2
+Park/Playground,122.0,6,2
+Park/Playground,123.0,3,1
+Residential Building/House,1.0,1,47
+Residential Building/House,1.0,2,37
+Residential Building/House,1.0,3,46
+Residential Building/House,1.0,4,64
+Residential Building/House,1.0,5,53
+Residential Building/House,1.0,6,82
+Residential Building/House,1.0,7,25
+Residential Building/House,1.0,8,25
+Residential Building/House,1.0,9,60
+Residential Building/House,1.0,10,85
+Residential Building/House,1.0,11,46
+Residential Building/House,1.0,12,74
+Residential Building/House,5.0,1,67
+Residential Building/House,5.0,2,59
+Residential Building/House,5.0,3,72
+Residential Building/House,5.0,4,79
+Residential Building/House,5.0,5,108
+Residential Building/House,5.0,6,54
+Residential Building/House,5.0,7,37
+Residential Building/House,5.0,8,23
+Residential Building/House,5.0,9,43
+Residential Building/House,5.0,10,56
+Residential Building/House,5.0,11,33
+Residential Building/House,5.0,12,62
+Residential Building/House,6.0,1,80
+Residential Building/House,6.0,2,49
+Residential Building/House,6.0,3,76
+Residential Building/House,6.0,4,89
+Residential Building/House,6.0,5,111
+Residential Building/House,6.0,6,58
+Residential Building/House,6.0,7,48
+Residential Building/House,6.0,8,26
+Residential Building/House,6.0,9,82
+Residential Building/House,6.0,10,144
+Residential Building/House,6.0,11,69
+Residential Building/House,6.0,12,80
+Residential Building/House,7.0,1,123
+Residential Building/House,7.0,2,87
+Residential Building/House,7.0,3,102
+Residential Building/House,7.0,4,109
+Residential Building/House,7.0,5,122
+Residential Building/House,7.0,6,67
+Residential Building/House,7.0,7,99
+Residential Building/House,7.0,8,86
+Residential Building/House,7.0,9,133
+Residential Building/House,7.0,10,104
+Residential Building/House,7.0,11,79
+Residential Building/House,7.0,12,122
+Residential Building/House,9.0,1,166
+Residential Building/House,9.0,2,175
+Residential Building/House,9.0,3,205
+Residential Building/House,9.0,4,242
+Residential Building/House,9.0,5,265
+Residential Building/House,9.0,6,248
+Residential Building/House,9.0,7,131
+Residential Building/House,9.0,8,155
+Residential Building/House,9.0,9,216
+Residential Building/House,9.0,10,237
+Residential Building/House,9.0,11,191
+Residential Building/House,9.0,12,190
+Residential Building/House,10.0,1,54
+Residential Building/House,10.0,2,50
+Residential Building/House,10.0,3,70
+Residential Building/House,10.0,4,89
+Residential Building/House,10.0,5,70
+Residential Building/House,10.0,6,60
+Residential Building/House,10.0,7,45
+Residential Building/House,10.0,8,28
+Residential Building/House,10.0,9,41
+Residential Building/House,10.0,10,66
+Residential Building/House,10.0,11,51
+Residential Building/House,10.0,12,63
+Residential Building/House,13.0,1,97
+Residential Building/House,13.0,2,64
+Residential Building/House,13.0,3,54
+Residential Building/House,13.0,4,88
+Residential Building/House,13.0,5,93
+Residential Building/House,13.0,6,72
+Residential Building/House,13.0,7,29
+Residential Building/House,13.0,8,37
+Residential Building/House,13.0,9,72
+Residential Building/House,13.0,10,115
+Residential Building/House,13.0,11,75
+Residential Building/House,13.0,12,83
+Residential Building/House,14.0,1,21
+Residential Building/House,14.0,2,28
+Residential Building/House,14.0,3,27
+Residential Building/House,14.0,4,25
+Residential Building/House,14.0,5,28
+Residential Building/House,14.0,6,10
+Residential Building/House,14.0,7,38
+Residential Building/House,14.0,8,17
+Residential Building/House,14.0,9,11
+Residential Building/House,14.0,10,34
+Residential Building/House,14.0,11,27
+Residential Building/House,14.0,12,21
+Residential Building/House,17.0,1,26
+Residential Building/House,17.0,2,47
+Residential Building/House,17.0,3,41
+Residential Building/House,17.0,4,45
+Residential Building/House,17.0,5,52
+Residential Building/House,17.0,6,77
+Residential Building/House,17.0,7,21
+Residential Building/House,17.0,8,27
+Residential Building/House,17.0,9,33
+Residential Building/House,17.0,10,64
+Residential Building/House,17.0,11,41
+Residential Building/House,17.0,12,28
+Residential Building/House,18.0,1,71
+Residential Building/House,18.0,2,70
+Residential Building/House,18.0,3,31
+Residential Building/House,18.0,4,48
+Residential Building/House,18.0,5,59
+Residential Building/House,18.0,6,55
+Residential Building/House,18.0,7,47
+Residential Building/House,18.0,8,27
+Residential Building/House,18.0,9,45
+Residential Building/House,18.0,10,75
+Residential Building/House,18.0,11,46
+Residential Building/House,18.0,12,52
+Residential Building/House,19.0,1,107
+Residential Building/House,19.0,2,116
+Residential Building/House,19.0,3,98
+Residential Building/House,19.0,4,120
+Residential Building/House,19.0,5,117
+Residential Building/House,19.0,6,80
+Residential Building/House,19.0,7,63
+Residential Building/House,19.0,8,63
+Residential Building/House,19.0,9,88
+Residential Building/House,19.0,10,151
+Residential Building/House,19.0,11,73
+Residential Building/House,19.0,12,119
+Residential Building/House,20.0,1,47
+Residential Building/House,20.0,2,39
+Residential Building/House,20.0,3,47
+Residential Building/House,20.0,4,66
+Residential Building/House,20.0,5,63
+Residential Building/House,20.0,6,102
+Residential Building/House,20.0,7,64
+Residential Building/House,20.0,8,32
+Residential Building/House,20.0,9,40
+Residential Building/House,20.0,10,91
+Residential Building/House,20.0,11,23
+Residential Building/House,20.0,12,67
+Residential Building/House,22.0,3,2
+Residential Building/House,22.0,5,2
+Residential Building/House,22.0,6,2
+Residential Building/House,22.0,7,1
+Residential Building/House,22.0,9,3
+Residential Building/House,23.0,1,118
+Residential Building/House,23.0,2,123
+Residential Building/House,23.0,3,148
+Residential Building/House,23.0,4,150
+Residential Building/House,23.0,5,132
+Residential Building/House,23.0,6,113
+Residential Building/House,23.0,7,94
+Residential Building/House,23.0,8,89
+Residential Building/House,23.0,9,92
+Residential Building/House,23.0,10,163
+Residential Building/House,23.0,11,123
+Residential Building/House,23.0,12,127
+Residential Building/House,24.0,1,104
+Residential Building/House,24.0,2,84
+Residential Building/House,24.0,3,111
+Residential Building/House,24.0,4,131
+Residential Building/House,24.0,5,152
+Residential Building/House,24.0,6,82
+Residential Building/House,24.0,7,75
+Residential Building/House,24.0,8,54
+Residential Building/House,24.0,9,84
+Residential Building/House,24.0,10,116
+Residential Building/House,24.0,11,134
+Residential Building/House,24.0,12,184
+Residential Building/House,25.0,1,71
+Residential Building/House,25.0,2,60
+Residential Building/House,25.0,3,77
+Residential Building/House,25.0,4,100
+Residential Building/House,25.0,5,137
+Residential Building/House,25.0,6,108
+Residential Building/House,25.0,7,125
+Residential Building/House,25.0,8,102
+Residential Building/House,25.0,9,100
+Residential Building/House,25.0,10,137
+Residential Building/House,25.0,11,101
+Residential Building/House,25.0,12,121
+Residential Building/House,26.0,1,69
+Residential Building/House,26.0,2,64
+Residential Building/House,26.0,3,79
+Residential Building/House,26.0,4,95
+Residential Building/House,26.0,5,93
+Residential Building/House,26.0,6,40
+Residential Building/House,26.0,7,44
+Residential Building/House,26.0,8,49
+Residential Building/House,26.0,9,88
+Residential Building/House,26.0,10,97
+Residential Building/House,26.0,11,47
+Residential Building/House,26.0,12,91
+Residential Building/House,28.0,1,107
+Residential Building/House,28.0,2,117
+Residential Building/House,28.0,3,99
+Residential Building/House,28.0,4,136
+Residential Building/House,28.0,5,149
+Residential Building/House,28.0,6,101
+Residential Building/House,28.0,7,122
+Residential Building/House,28.0,8,103
+Residential Building/House,28.0,9,138
+Residential Building/House,28.0,10,141
+Residential Building/House,28.0,11,123
+Residential Building/House,28.0,12,117
+Residential Building/House,30.0,1,325
+Residential Building/House,30.0,2,240
+Residential Building/House,30.0,3,263
+Residential Building/House,30.0,4,271
+Residential Building/House,30.0,5,290
+Residential Building/House,30.0,6,253
+Residential Building/House,30.0,7,228
+Residential Building/House,30.0,8,219
+Residential Building/House,30.0,9,194
+Residential Building/House,30.0,10,250
+Residential Building/House,30.0,11,268
+Residential Building/House,30.0,12,251
+Residential Building/House,32.0,1,280
+Residential Building/House,32.0,2,240
+Residential Building/House,32.0,3,249
+Residential Building/House,32.0,4,333
+Residential Building/House,32.0,5,278
+Residential Building/House,32.0,6,218
+Residential Building/House,32.0,7,212
+Residential Building/House,32.0,8,170
+Residential Building/House,32.0,9,258
+Residential Building/House,32.0,10,228
+Residential Building/House,32.0,11,250
+Residential Building/House,32.0,12,241
+Residential Building/House,33.0,1,280
+Residential Building/House,33.0,2,233
+Residential Building/House,33.0,3,238
+Residential Building/House,33.0,4,231
+Residential Building/House,33.0,5,285
+Residential Building/House,33.0,6,225
+Residential Building/House,33.0,7,170
+Residential Building/House,33.0,8,158
+Residential Building/House,33.0,9,195
+Residential Building/House,33.0,10,225
+Residential Building/House,33.0,11,257
+Residential Building/House,33.0,12,273
+Residential Building/House,34.0,1,480
+Residential Building/House,34.0,2,481
+Residential Building/House,34.0,3,525
+Residential Building/House,34.0,4,665
+Residential Building/House,34.0,5,611
+Residential Building/House,34.0,6,435
+Residential Building/House,34.0,7,391
+Residential Building/House,34.0,8,314
+Residential Building/House,34.0,9,412
+Residential Building/House,34.0,10,431
+Residential Building/House,34.0,11,506
+Residential Building/House,34.0,12,548
+Residential Building/House,40.0,1,146
+Residential Building/House,40.0,2,111
+Residential Building/House,40.0,3,139
+Residential Building/House,40.0,4,178
+Residential Building/House,40.0,5,197
+Residential Building/House,40.0,6,173
+Residential Building/House,40.0,7,213
+Residential Building/House,40.0,8,156
+Residential Building/House,40.0,9,168
+Residential Building/House,40.0,10,202
+Residential Building/House,40.0,11,188
+Residential Building/House,40.0,12,217
+Residential Building/House,41.0,1,123
+Residential Building/House,41.0,2,104
+Residential Building/House,41.0,3,108
+Residential Building/House,41.0,4,104
+Residential Building/House,41.0,5,139
+Residential Building/House,41.0,6,116
+Residential Building/House,41.0,7,108
+Residential Building/House,41.0,8,94
+Residential Building/House,41.0,9,121
+Residential Building/House,41.0,10,125
+Residential Building/House,41.0,11,150
+Residential Building/House,41.0,12,133
+Residential Building/House,42.0,1,157
+Residential Building/House,42.0,2,164
+Residential Building/House,42.0,3,160
+Residential Building/House,42.0,4,207
+Residential Building/House,42.0,5,175
+Residential Building/House,42.0,6,226
+Residential Building/House,42.0,7,208
+Residential Building/House,42.0,8,188
+Residential Building/House,42.0,9,223
+Residential Building/House,42.0,10,272
+Residential Building/House,42.0,11,182
+Residential Building/House,42.0,12,243
+Residential Building/House,43.0,1,215
+Residential Building/House,43.0,2,166
+Residential Building/House,43.0,3,171
+Residential Building/House,43.0,4,232
+Residential Building/House,43.0,5,349
+Residential Building/House,43.0,6,435
+Residential Building/House,43.0,7,379
+Residential Building/House,43.0,8,296
+Residential Building/House,43.0,9,352
+Residential Building/House,43.0,10,227
+Residential Building/House,43.0,11,210
+Residential Building/House,43.0,12,249
+Residential Building/House,44.0,1,445
+Residential Building/House,44.0,2,351
+Residential Building/House,44.0,3,403
+Residential Building/House,44.0,4,455
+Residential Building/House,44.0,5,666
+Residential Building/House,44.0,6,466
+Residential Building/House,44.0,7,432
+Residential Building/House,44.0,8,411
+Residential Building/House,44.0,9,463
+Residential Building/House,44.0,10,451
+Residential Building/House,44.0,11,464
+Residential Building/House,44.0,12,630
+Residential Building/House,45.0,1,85
+Residential Building/House,45.0,2,54
+Residential Building/House,45.0,3,75
+Residential Building/House,45.0,4,89
+Residential Building/House,45.0,5,161
+Residential Building/House,45.0,6,152
+Residential Building/House,45.0,7,206
+Residential Building/House,45.0,8,119
+Residential Building/House,45.0,9,157
+Residential Building/House,45.0,10,102
+Residential Building/House,45.0,11,76
+Residential Building/House,45.0,12,120
+Residential Building/House,46.0,1,322
+Residential Building/House,46.0,2,288
+Residential Building/House,46.0,3,299
+Residential Building/House,46.0,4,284
+Residential Building/House,46.0,5,312
+Residential Building/House,46.0,6,309
+Residential Building/House,46.0,7,325
+Residential Building/House,46.0,8,274
+Residential Building/House,46.0,9,269
+Residential Building/House,46.0,10,346
+Residential Building/House,46.0,11,316
+Residential Building/House,46.0,12,365
+Residential Building/House,47.0,1,149
+Residential Building/House,47.0,2,164
+Residential Building/House,47.0,3,173
+Residential Building/House,47.0,4,199
+Residential Building/House,47.0,5,313
+Residential Building/House,47.0,6,344
+Residential Building/House,47.0,7,389
+Residential Building/House,47.0,8,411
+Residential Building/House,47.0,9,322
+Residential Building/House,47.0,10,251
+Residential Building/House,47.0,11,184
+Residential Building/House,47.0,12,195
+Residential Building/House,48.0,1,191
+Residential Building/House,48.0,2,174
+Residential Building/House,48.0,3,202
+Residential Building/House,48.0,4,223
+Residential Building/House,48.0,5,244
+Residential Building/House,48.0,6,181
+Residential Building/House,48.0,7,222
+Residential Building/House,48.0,8,225
+Residential Building/House,48.0,9,202
+Residential Building/House,48.0,10,266
+Residential Building/House,48.0,11,230
+Residential Building/House,48.0,12,281
+Residential Building/House,49.0,1,218
+Residential Building/House,49.0,2,157
+Residential Building/House,49.0,3,216
+Residential Building/House,49.0,4,263
+Residential Building/House,49.0,5,270
+Residential Building/House,49.0,6,246
+Residential Building/House,49.0,7,340
+Residential Building/House,49.0,8,226
+Residential Building/House,49.0,9,249
+Residential Building/House,49.0,10,183
+Residential Building/House,49.0,11,187
+Residential Building/House,49.0,12,215
+Residential Building/House,50.0,1,215
+Residential Building/House,50.0,2,141
+Residential Building/House,50.0,3,162
+Residential Building/House,50.0,4,210
+Residential Building/House,50.0,5,183
+Residential Building/House,50.0,6,217
+Residential Building/House,50.0,7,153
+Residential Building/House,50.0,8,119
+Residential Building/House,50.0,9,150
+Residential Building/House,50.0,10,159
+Residential Building/House,50.0,11,189
+Residential Building/House,50.0,12,247
+Residential Building/House,52.0,1,437
+Residential Building/House,52.0,2,385
+Residential Building/House,52.0,3,391
+Residential Building/House,52.0,4,467
+Residential Building/House,52.0,5,613
+Residential Building/House,52.0,6,417
+Residential Building/House,52.0,7,446
+Residential Building/House,52.0,8,375
+Residential Building/House,52.0,9,412
+Residential Building/House,52.0,10,465
+Residential Building/House,52.0,11,441
+Residential Building/House,52.0,12,512
+Residential Building/House,60.0,1,57
+Residential Building/House,60.0,2,45
+Residential Building/House,60.0,3,76
+Residential Building/House,60.0,4,65
+Residential Building/House,60.0,5,96
+Residential Building/House,60.0,6,96
+Residential Building/House,60.0,7,105
+Residential Building/House,60.0,8,87
+Residential Building/House,60.0,9,72
+Residential Building/House,60.0,10,71
+Residential Building/House,60.0,11,81
+Residential Building/House,60.0,12,70
+Residential Building/House,61.0,1,53
+Residential Building/House,61.0,2,53
+Residential Building/House,61.0,3,67
+Residential Building/House,61.0,4,49
+Residential Building/House,61.0,5,110
+Residential Building/House,61.0,6,90
+Residential Building/House,61.0,7,70
+Residential Building/House,61.0,8,46
+Residential Building/House,61.0,9,94
+Residential Building/House,61.0,10,70
+Residential Building/House,61.0,11,60
+Residential Building/House,61.0,12,82
+Residential Building/House,62.0,1,83
+Residential Building/House,62.0,2,72
+Residential Building/House,62.0,3,92
+Residential Building/House,62.0,4,75
+Residential Building/House,62.0,5,162
+Residential Building/House,62.0,6,76
+Residential Building/House,62.0,7,90
+Residential Building/House,62.0,8,67
+Residential Building/House,62.0,9,73
+Residential Building/House,62.0,10,107
+Residential Building/House,62.0,11,107
+Residential Building/House,62.0,12,99
+Residential Building/House,63.0,1,33
+Residential Building/House,63.0,2,23
+Residential Building/House,63.0,3,53
+Residential Building/House,63.0,4,49
+Residential Building/House,63.0,5,134
+Residential Building/House,63.0,6,180
+Residential Building/House,63.0,7,210
+Residential Building/House,63.0,8,187
+Residential Building/House,63.0,9,179
+Residential Building/House,63.0,10,71
+Residential Building/House,63.0,11,62
+Residential Building/House,63.0,12,39
+Residential Building/House,66.0,1,71
+Residential Building/House,66.0,2,68
+Residential Building/House,66.0,3,115
+Residential Building/House,66.0,4,94
+Residential Building/House,66.0,5,103
+Residential Building/House,66.0,6,66
+Residential Building/House,66.0,7,98
+Residential Building/House,66.0,8,59
+Residential Building/House,66.0,9,92
+Residential Building/House,66.0,10,91
+Residential Building/House,66.0,11,85
+Residential Building/House,66.0,12,86
+Residential Building/House,67.0,1,174
+Residential Building/House,67.0,2,143
+Residential Building/House,67.0,3,178
+Residential Building/House,67.0,4,190
+Residential Building/House,67.0,5,346
+Residential Building/House,67.0,6,362
+Residential Building/House,67.0,7,452
+Residential Building/House,67.0,8,402
+Residential Building/House,67.0,9,366
+Residential Building/House,67.0,10,166
+Residential Building/House,67.0,11,169
+Residential Building/House,67.0,12,201
+Residential Building/House,68.0,1,69
+Residential Building/House,68.0,2,63
+Residential Building/House,68.0,3,39
+Residential Building/House,68.0,4,63
+Residential Building/House,68.0,5,102
+Residential Building/House,68.0,6,65
+Residential Building/House,68.0,7,51
+Residential Building/House,68.0,8,58
+Residential Building/House,68.0,9,91
+Residential Building/House,68.0,10,82
+Residential Building/House,68.0,11,62
+Residential Building/House,68.0,12,85
+Residential Building/House,69.0,1,32
+Residential Building/House,69.0,2,44
+Residential Building/House,69.0,3,61
+Residential Building/House,69.0,4,51
+Residential Building/House,69.0,5,135
+Residential Building/House,69.0,6,244
+Residential Building/House,69.0,7,281
+Residential Building/House,69.0,8,225
+Residential Building/House,69.0,9,206
+Residential Building/House,69.0,10,70
+Residential Building/House,69.0,11,50
+Residential Building/House,69.0,12,51
+Residential Building/House,70.0,1,198
+Residential Building/House,70.0,2,182
+Residential Building/House,70.0,3,172
+Residential Building/House,70.0,4,241
+Residential Building/House,70.0,5,289
+Residential Building/House,70.0,6,186
+Residential Building/House,70.0,7,223
+Residential Building/House,70.0,8,186
+Residential Building/House,70.0,9,236
+Residential Building/House,70.0,10,214
+Residential Building/House,70.0,11,157
+Residential Building/House,70.0,12,249
+Residential Building/House,71.0,1,210
+Residential Building/House,71.0,2,143
+Residential Building/House,71.0,3,206
+Residential Building/House,71.0,4,185
+Residential Building/House,71.0,5,257
+Residential Building/House,71.0,6,255
+Residential Building/House,71.0,7,267
+Residential Building/House,71.0,8,206
+Residential Building/House,71.0,9,284
+Residential Building/House,71.0,10,252
+Residential Building/House,71.0,11,197
+Residential Building/House,71.0,12,256
+Residential Building/House,72.0,1,67
+Residential Building/House,72.0,2,61
+Residential Building/House,72.0,3,62
+Residential Building/House,72.0,4,64
+Residential Building/House,72.0,5,192
+Residential Building/House,72.0,6,227
+Residential Building/House,72.0,7,218
+Residential Building/House,72.0,8,145
+Residential Building/House,72.0,9,183
+Residential Building/House,72.0,10,119
+Residential Building/House,72.0,11,53
+Residential Building/House,72.0,12,79
+Residential Building/House,73.0,1,128
+Residential Building/House,73.0,2,103
+Residential Building/House,73.0,3,137
+Residential Building/House,73.0,4,189
+Residential Building/House,73.0,5,221
+Residential Building/House,73.0,6,244
+Residential Building/House,73.0,7,232
+Residential Building/House,73.0,8,161
+Residential Building/House,73.0,9,188
+Residential Building/House,73.0,10,131
+Residential Building/House,73.0,11,103
+Residential Building/House,73.0,12,112
+Residential Building/House,75.0,1,178
+Residential Building/House,75.0,2,208
+Residential Building/House,75.0,3,175
+Residential Building/House,75.0,4,254
+Residential Building/House,75.0,5,419
+Residential Building/House,75.0,6,504
+Residential Building/House,75.0,7,543
+Residential Building/House,75.0,8,366
+Residential Building/House,75.0,9,444
+Residential Building/House,75.0,10,208
+Residential Building/House,75.0,11,174
+Residential Building/House,75.0,12,166
+Residential Building/House,76.0,1,21
+Residential Building/House,76.0,2,21
+Residential Building/House,76.0,3,44
+Residential Building/House,76.0,4,40
+Residential Building/House,76.0,5,56
+Residential Building/House,76.0,6,77
+Residential Building/House,76.0,7,48
+Residential Building/House,76.0,8,47
+Residential Building/House,76.0,9,34
+Residential Building/House,76.0,10,30
+Residential Building/House,76.0,11,20
+Residential Building/House,76.0,12,40
+Residential Building/House,77.0,1,210
+Residential Building/House,77.0,2,163
+Residential Building/House,77.0,3,163
+Residential Building/House,77.0,4,227
+Residential Building/House,77.0,5,322
+Residential Building/House,77.0,6,322
+Residential Building/House,77.0,7,336
+Residential Building/House,77.0,8,283
+Residential Building/House,77.0,9,338
+Residential Building/House,77.0,10,193
+Residential Building/House,77.0,11,121
+Residential Building/House,77.0,12,179
+Residential Building/House,78.0,1,66
+Residential Building/House,78.0,2,39
+Residential Building/House,78.0,3,52
+Residential Building/House,78.0,4,60
+Residential Building/House,78.0,5,88
+Residential Building/House,78.0,6,71
+Residential Building/House,78.0,7,47
+Residential Building/House,78.0,8,53
+Residential Building/House,78.0,9,85
+Residential Building/House,78.0,10,86
+Residential Building/House,78.0,11,35
+Residential Building/House,78.0,12,48
+Residential Building/House,79.0,1,107
+Residential Building/House,79.0,2,126
+Residential Building/House,79.0,3,180
+Residential Building/House,79.0,4,239
+Residential Building/House,79.0,5,342
+Residential Building/House,79.0,6,382
+Residential Building/House,79.0,7,353
+Residential Building/House,79.0,8,334
+Residential Building/House,79.0,9,326
+Residential Building/House,79.0,10,220
+Residential Building/House,79.0,11,134
+Residential Building/House,79.0,12,180
+Residential Building/House,81.0,1,57
+Residential Building/House,81.0,2,61
+Residential Building/House,81.0,3,92
+Residential Building/House,81.0,4,90
+Residential Building/House,81.0,5,174
+Residential Building/House,81.0,6,245
+Residential Building/House,81.0,7,196
+Residential Building/House,81.0,8,213
+Residential Building/House,81.0,9,225
+Residential Building/House,81.0,10,149
+Residential Building/House,81.0,11,101
+Residential Building/House,81.0,12,84
+Residential Building/House,83.0,1,269
+Residential Building/House,83.0,2,308
+Residential Building/House,83.0,3,293
+Residential Building/House,83.0,4,405
+Residential Building/House,83.0,5,635
+Residential Building/House,83.0,6,550
+Residential Building/House,83.0,7,575
+Residential Building/House,83.0,8,443
+Residential Building/House,83.0,9,509
+Residential Building/House,83.0,10,457
+Residential Building/House,83.0,11,291
+Residential Building/House,83.0,12,331
+Residential Building/House,84.0,1,31
+Residential Building/House,84.0,2,25
+Residential Building/House,84.0,3,30
+Residential Building/House,84.0,4,42
+Residential Building/House,84.0,5,60
+Residential Building/House,84.0,6,61
+Residential Building/House,84.0,7,39
+Residential Building/House,84.0,8,41
+Residential Building/House,84.0,9,44
+Residential Building/House,84.0,10,50
+Residential Building/House,84.0,11,46
+Residential Building/House,84.0,12,38
+Residential Building/House,88.0,1,90
+Residential Building/House,88.0,2,115
+Residential Building/House,88.0,3,88
+Residential Building/House,88.0,4,254
+Residential Building/House,88.0,5,195
+Residential Building/House,88.0,6,205
+Residential Building/House,88.0,7,156
+Residential Building/House,88.0,8,421
+Residential Building/House,88.0,9,1541
+Residential Building/House,88.0,10,171
+Residential Building/House,88.0,11,71
+Residential Building/House,88.0,12,68
+Residential Building/House,90.0,1,159
+Residential Building/House,90.0,2,168
+Residential Building/House,90.0,3,215
+Residential Building/House,90.0,4,288
+Residential Building/House,90.0,5,324
+Residential Building/House,90.0,6,306
+Residential Building/House,90.0,7,193
+Residential Building/House,90.0,8,170
+Residential Building/House,90.0,9,192
+Residential Building/House,90.0,10,289
+Residential Building/House,90.0,11,167
+Residential Building/House,90.0,12,165
+Residential Building/House,94.0,1,92
+Residential Building/House,94.0,2,68
+Residential Building/House,94.0,3,87
+Residential Building/House,94.0,4,143
+Residential Building/House,94.0,5,124
+Residential Building/House,94.0,6,172
+Residential Building/House,94.0,7,150
+Residential Building/House,94.0,8,101
+Residential Building/House,94.0,9,150
+Residential Building/House,94.0,10,187
+Residential Building/House,94.0,11,99
+Residential Building/House,94.0,12,105
+Residential Building/House,100.0,1,28
+Residential Building/House,100.0,2,23
+Residential Building/House,100.0,3,42
+Residential Building/House,100.0,4,41
+Residential Building/House,100.0,5,80
+Residential Building/House,100.0,6,104
+Residential Building/House,100.0,7,105
+Residential Building/House,100.0,8,57
+Residential Building/House,100.0,9,59
+Residential Building/House,100.0,10,65
+Residential Building/House,100.0,11,39
+Residential Building/House,100.0,12,36
+Residential Building/House,101.0,1,85
+Residential Building/House,101.0,2,79
+Residential Building/House,101.0,3,118
+Residential Building/House,101.0,4,88
+Residential Building/House,101.0,5,92
+Residential Building/House,101.0,6,111
+Residential Building/House,101.0,7,145
+Residential Building/House,101.0,8,140
+Residential Building/House,101.0,9,140
+Residential Building/House,101.0,10,72
+Residential Building/House,101.0,11,90
+Residential Building/House,101.0,12,110
+Residential Building/House,102.0,1,106
+Residential Building/House,102.0,2,82
+Residential Building/House,102.0,3,170
+Residential Building/House,102.0,4,268
+Residential Building/House,102.0,5,370
+Residential Building/House,102.0,6,520
+Residential Building/House,102.0,7,620
+Residential Building/House,102.0,8,340
+Residential Building/House,102.0,9,460
+Residential Building/House,102.0,10,281
+Residential Building/House,102.0,11,198
+Residential Building/House,102.0,12,129
+Residential Building/House,103.0,1,58
+Residential Building/House,103.0,2,70
+Residential Building/House,103.0,3,110
+Residential Building/House,103.0,4,124
+Residential Building/House,103.0,5,284
+Residential Building/House,103.0,6,202
+Residential Building/House,103.0,7,297
+Residential Building/House,103.0,8,280
+Residential Building/House,103.0,9,256
+Residential Building/House,103.0,10,105
+Residential Building/House,103.0,11,85
+Residential Building/House,103.0,12,71
+Residential Building/House,104.0,1,106
+Residential Building/House,104.0,2,117
+Residential Building/House,104.0,3,113
+Residential Building/House,104.0,4,170
+Residential Building/House,104.0,5,228
+Residential Building/House,104.0,6,199
+Residential Building/House,104.0,7,231
+Residential Building/House,104.0,8,129
+Residential Building/House,104.0,9,147
+Residential Building/House,104.0,10,217
+Residential Building/House,104.0,11,115
+Residential Building/House,104.0,12,134
+Residential Building/House,105.0,1,66
+Residential Building/House,105.0,2,61
+Residential Building/House,105.0,3,76
+Residential Building/House,105.0,4,121
+Residential Building/House,105.0,5,196
+Residential Building/House,105.0,6,237
+Residential Building/House,105.0,7,347
+Residential Building/House,105.0,8,306
+Residential Building/House,105.0,9,288
+Residential Building/House,105.0,10,106
+Residential Building/House,105.0,11,35
+Residential Building/House,105.0,12,42
+Residential Building/House,106.0,1,81
+Residential Building/House,106.0,2,79
+Residential Building/House,106.0,3,119
+Residential Building/House,106.0,4,202
+Residential Building/House,106.0,5,428
+Residential Building/House,106.0,6,400
+Residential Building/House,106.0,7,559
+Residential Building/House,106.0,8,425
+Residential Building/House,106.0,9,510
+Residential Building/House,106.0,10,192
+Residential Building/House,106.0,11,112
+Residential Building/House,106.0,12,127
+Residential Building/House,107.0,1,101
+Residential Building/House,107.0,2,74
+Residential Building/House,107.0,3,123
+Residential Building/House,107.0,4,123
+Residential Building/House,107.0,5,141
+Residential Building/House,107.0,6,175
+Residential Building/House,107.0,7,129
+Residential Building/House,107.0,8,100
+Residential Building/House,107.0,9,163
+Residential Building/House,107.0,10,168
+Residential Building/House,107.0,11,147
+Residential Building/House,107.0,12,130
+Residential Building/House,108.0,1,97
+Residential Building/House,108.0,2,65
+Residential Building/House,108.0,3,78
+Residential Building/House,108.0,4,112
+Residential Building/House,108.0,5,114
+Residential Building/House,108.0,6,131
+Residential Building/House,108.0,7,93
+Residential Building/House,108.0,8,66
+Residential Building/House,108.0,9,126
+Residential Building/House,108.0,10,112
+Residential Building/House,108.0,11,101
+Residential Building/House,108.0,12,92
+Residential Building/House,109.0,1,64
+Residential Building/House,109.0,2,46
+Residential Building/House,109.0,3,61
+Residential Building/House,109.0,4,100
+Residential Building/House,109.0,5,211
+Residential Building/House,109.0,6,225
+Residential Building/House,109.0,7,141
+Residential Building/House,109.0,8,143
+Residential Building/House,109.0,9,259
+Residential Building/House,109.0,10,138
+Residential Building/House,109.0,11,90
+Residential Building/House,109.0,12,90
+Residential Building/House,110.0,1,118
+Residential Building/House,110.0,2,85
+Residential Building/House,110.0,3,117
+Residential Building/House,110.0,4,120
+Residential Building/House,110.0,5,321
+Residential Building/House,110.0,6,262
+Residential Building/House,110.0,7,288
+Residential Building/House,110.0,8,167
+Residential Building/House,110.0,9,182
+Residential Building/House,110.0,10,207
+Residential Building/House,110.0,11,88
+Residential Building/House,110.0,12,100
+Residential Building/House,111.0,1,13
+Residential Building/House,111.0,2,13
+Residential Building/House,111.0,3,18
+Residential Building/House,111.0,4,38
+Residential Building/House,111.0,5,56
+Residential Building/House,111.0,6,68
+Residential Building/House,111.0,7,52
+Residential Building/House,111.0,8,27
+Residential Building/House,111.0,9,51
+Residential Building/House,111.0,10,24
+Residential Building/House,111.0,11,27
+Residential Building/House,111.0,12,27
+Residential Building/House,112.0,1,62
+Residential Building/House,112.0,2,42
+Residential Building/House,112.0,3,45
+Residential Building/House,112.0,4,50
+Residential Building/House,112.0,5,52
+Residential Building/House,112.0,6,52
+Residential Building/House,112.0,7,45
+Residential Building/House,112.0,8,83
+Residential Building/House,112.0,9,35
+Residential Building/House,112.0,10,50
+Residential Building/House,112.0,11,42
+Residential Building/House,112.0,12,52
+Residential Building/House,113.0,1,48
+Residential Building/House,113.0,2,40
+Residential Building/House,113.0,3,76
+Residential Building/House,113.0,4,105
+Residential Building/House,113.0,5,177
+Residential Building/House,113.0,6,260
+Residential Building/House,113.0,7,288
+Residential Building/House,113.0,8,265
+Residential Building/House,113.0,9,302
+Residential Building/House,113.0,10,140
+Residential Building/House,113.0,11,74
+Residential Building/House,113.0,12,90
+Residential Building/House,114.0,1,181
+Residential Building/House,114.0,2,186
+Residential Building/House,114.0,3,207
+Residential Building/House,114.0,4,282
+Residential Building/House,114.0,5,242
+Residential Building/House,114.0,6,197
+Residential Building/House,114.0,7,207
+Residential Building/House,114.0,8,173
+Residential Building/House,114.0,9,167
+Residential Building/House,114.0,10,259
+Residential Building/House,114.0,11,157
+Residential Building/House,114.0,12,234
+Residential Building/House,115.0,1,95
+Residential Building/House,115.0,2,116
+Residential Building/House,115.0,3,147
+Residential Building/House,115.0,4,240
+Residential Building/House,115.0,5,386
+Residential Building/House,115.0,6,354
+Residential Building/House,115.0,7,333
+Residential Building/House,115.0,8,272
+Residential Building/House,115.0,9,297
+Residential Building/House,115.0,10,231
+Residential Building/House,115.0,11,105
+Residential Building/House,115.0,12,140
+Residential Building/House,120.0,1,98
+Residential Building/House,120.0,2,87
+Residential Building/House,120.0,3,105
+Residential Building/House,120.0,4,172
+Residential Building/House,120.0,5,191
+Residential Building/House,120.0,6,259
+Residential Building/House,120.0,7,219
+Residential Building/House,120.0,8,177
+Residential Building/House,120.0,9,178
+Residential Building/House,120.0,10,156
+Residential Building/House,120.0,11,106
+Residential Building/House,120.0,12,110
+Residential Building/House,121.0,1,18
+Residential Building/House,121.0,2,40
+Residential Building/House,121.0,3,45
+Residential Building/House,121.0,4,76
+Residential Building/House,121.0,5,112
+Residential Building/House,121.0,6,201
+Residential Building/House,121.0,7,179
+Residential Building/House,121.0,8,156
+Residential Building/House,121.0,9,136
+Residential Building/House,121.0,10,82
+Residential Building/House,121.0,11,34
+Residential Building/House,121.0,12,54
+Residential Building/House,122.0,1,41
+Residential Building/House,122.0,2,33
+Residential Building/House,122.0,3,55
+Residential Building/House,122.0,4,47
+Residential Building/House,122.0,5,95
+Residential Building/House,122.0,6,130
+Residential Building/House,122.0,7,106
+Residential Building/House,122.0,8,108
+Residential Building/House,122.0,9,103
+Residential Building/House,122.0,10,79
+Residential Building/House,122.0,11,81
+Residential Building/House,122.0,12,58
+Residential Building/House,123.0,1,8
+Residential Building/House,123.0,2,6
+Residential Building/House,123.0,3,2
+Residential Building/House,123.0,4,7
+Residential Building/House,123.0,5,33
+Residential Building/House,123.0,6,65
+Residential Building/House,123.0,7,67
+Residential Building/House,123.0,8,42
+Residential Building/House,123.0,9,29
+Residential Building/House,123.0,10,24
+Residential Building/House,123.0,11,5
+Residential Building/House,123.0,12,14
+Store/Commercial,1.0,1,15
+Store/Commercial,1.0,2,12
+Store/Commercial,1.0,3,17
+Store/Commercial,1.0,4,22
+Store/Commercial,1.0,5,47
+Store/Commercial,1.0,6,59
+Store/Commercial,1.0,7,35
+Store/Commercial,1.0,8,16
+Store/Commercial,1.0,9,41
+Store/Commercial,1.0,10,10
+Store/Commercial,1.0,11,22
+Store/Commercial,1.0,12,31
+Store/Commercial,5.0,1,22
+Store/Commercial,5.0,2,26
+Store/Commercial,5.0,3,29
+Store/Commercial,5.0,4,32
+Store/Commercial,5.0,5,37
+Store/Commercial,5.0,6,32
+Store/Commercial,5.0,7,22
+Store/Commercial,5.0,8,23
+Store/Commercial,5.0,9,12
+Store/Commercial,5.0,10,25
+Store/Commercial,5.0,11,38
+Store/Commercial,5.0,12,56
+Store/Commercial,6.0,1,45
+Store/Commercial,6.0,2,40
+Store/Commercial,6.0,3,32
+Store/Commercial,6.0,4,32
+Store/Commercial,6.0,5,37
+Store/Commercial,6.0,6,38
+Store/Commercial,6.0,7,36
+Store/Commercial,6.0,8,32
+Store/Commercial,6.0,9,30
+Store/Commercial,6.0,10,38
+Store/Commercial,6.0,11,69
+Store/Commercial,6.0,12,68
+Store/Commercial,7.0,1,35
+Store/Commercial,7.0,2,33
+Store/Commercial,7.0,3,33
+Store/Commercial,7.0,4,46
+Store/Commercial,7.0,5,29
+Store/Commercial,7.0,6,28
+Store/Commercial,7.0,7,10
+Store/Commercial,7.0,8,25
+Store/Commercial,7.0,9,29
+Store/Commercial,7.0,10,26
+Store/Commercial,7.0,11,46
+Store/Commercial,7.0,12,44
+Store/Commercial,9.0,1,88
+Store/Commercial,9.0,2,117
+Store/Commercial,9.0,3,112
+Store/Commercial,9.0,4,107
+Store/Commercial,9.0,5,106
+Store/Commercial,9.0,6,66
+Store/Commercial,9.0,7,53
+Store/Commercial,9.0,8,25
+Store/Commercial,9.0,9,64
+Store/Commercial,9.0,10,119
+Store/Commercial,9.0,11,101
+Store/Commercial,9.0,12,72
+Store/Commercial,10.0,1,10
+Store/Commercial,10.0,2,7
+Store/Commercial,10.0,3,5
+Store/Commercial,10.0,4,5
+Store/Commercial,10.0,5,11
+Store/Commercial,10.0,6,7
+Store/Commercial,10.0,7,6
+Store/Commercial,10.0,8,9
+Store/Commercial,10.0,9,7
+Store/Commercial,10.0,10,11
+Store/Commercial,10.0,11,4
+Store/Commercial,10.0,12,11
+Store/Commercial,13.0,1,23
+Store/Commercial,13.0,2,18
+Store/Commercial,13.0,3,19
+Store/Commercial,13.0,4,16
+Store/Commercial,13.0,5,36
+Store/Commercial,13.0,6,24
+Store/Commercial,13.0,7,16
+Store/Commercial,13.0,8,9
+Store/Commercial,13.0,9,36
+Store/Commercial,13.0,10,32
+Store/Commercial,13.0,11,13
+Store/Commercial,13.0,12,28
+Store/Commercial,14.0,1,19
+Store/Commercial,14.0,2,7
+Store/Commercial,14.0,3,7
+Store/Commercial,14.0,4,17
+Store/Commercial,14.0,5,16
+Store/Commercial,14.0,6,14
+Store/Commercial,14.0,7,11
+Store/Commercial,14.0,8,11
+Store/Commercial,14.0,9,12
+Store/Commercial,14.0,10,13
+Store/Commercial,14.0,11,28
+Store/Commercial,14.0,12,13
+Store/Commercial,17.0,1,4
+Store/Commercial,17.0,2,2
+Store/Commercial,17.0,3,7
+Store/Commercial,17.0,4,7
+Store/Commercial,17.0,5,25
+Store/Commercial,17.0,6,32
+Store/Commercial,17.0,7,28
+Store/Commercial,17.0,8,13
+Store/Commercial,17.0,9,14
+Store/Commercial,17.0,10,5
+Store/Commercial,17.0,11,15
+Store/Commercial,17.0,12,12
+Store/Commercial,18.0,1,63
+Store/Commercial,18.0,2,37
+Store/Commercial,18.0,3,44
+Store/Commercial,18.0,4,47
+Store/Commercial,18.0,5,83
+Store/Commercial,18.0,6,41
+Store/Commercial,18.0,7,17
+Store/Commercial,18.0,8,8
+Store/Commercial,18.0,9,27
+Store/Commercial,18.0,10,24
+Store/Commercial,18.0,11,39
+Store/Commercial,18.0,12,70
+Store/Commercial,19.0,1,36
+Store/Commercial,19.0,2,57
+Store/Commercial,19.0,3,60
+Store/Commercial,19.0,4,27
+Store/Commercial,19.0,5,35
+Store/Commercial,19.0,6,19
+Store/Commercial,19.0,7,43
+Store/Commercial,19.0,8,28
+Store/Commercial,19.0,9,29
+Store/Commercial,19.0,10,29
+Store/Commercial,19.0,11,24
+Store/Commercial,19.0,12,26
+Store/Commercial,20.0,1,7
+Store/Commercial,20.0,2,4
+Store/Commercial,20.0,3,9
+Store/Commercial,20.0,4,10
+Store/Commercial,20.0,5,9
+Store/Commercial,20.0,6,9
+Store/Commercial,20.0,7,3
+Store/Commercial,20.0,8,2
+Store/Commercial,20.0,9,1
+Store/Commercial,20.0,10,6
+Store/Commercial,20.0,11,4
+Store/Commercial,20.0,12,8
+Store/Commercial,22.0,1,1
+Store/Commercial,22.0,10,1
+Store/Commercial,22.0,12,2
+Store/Commercial,23.0,1,17
+Store/Commercial,23.0,2,24
+Store/Commercial,23.0,3,30
+Store/Commercial,23.0,4,31
+Store/Commercial,23.0,5,44
+Store/Commercial,23.0,6,24
+Store/Commercial,23.0,7,14
+Store/Commercial,23.0,8,11
+Store/Commercial,23.0,9,24
+Store/Commercial,23.0,10,13
+Store/Commercial,23.0,11,18
+Store/Commercial,23.0,12,9
+Store/Commercial,24.0,1,28
+Store/Commercial,24.0,2,10
+Store/Commercial,24.0,3,23
+Store/Commercial,24.0,4,14
+Store/Commercial,24.0,5,8
+Store/Commercial,24.0,6,5
+Store/Commercial,24.0,7,5
+Store/Commercial,24.0,8,3
+Store/Commercial,24.0,9,9
+Store/Commercial,24.0,10,25
+Store/Commercial,24.0,11,19
+Store/Commercial,24.0,12,14
+Store/Commercial,25.0,1,15
+Store/Commercial,25.0,2,24
+Store/Commercial,25.0,3,22
+Store/Commercial,25.0,4,15
+Store/Commercial,25.0,5,20
+Store/Commercial,25.0,6,19
+Store/Commercial,25.0,7,16
+Store/Commercial,25.0,8,25
+Store/Commercial,25.0,9,36
+Store/Commercial,25.0,10,23
+Store/Commercial,25.0,11,21
+Store/Commercial,25.0,12,43
+Store/Commercial,26.0,1,1
+Store/Commercial,26.0,3,6
+Store/Commercial,26.0,4,2
+Store/Commercial,26.0,5,4
+Store/Commercial,26.0,6,3
+Store/Commercial,26.0,9,8
+Store/Commercial,26.0,10,2
+Store/Commercial,26.0,11,6
+Store/Commercial,26.0,12,15
+Store/Commercial,28.0,1,8
+Store/Commercial,28.0,2,15
+Store/Commercial,28.0,3,28
+Store/Commercial,28.0,4,67
+Store/Commercial,28.0,5,27
+Store/Commercial,28.0,6,26
+Store/Commercial,28.0,7,9
+Store/Commercial,28.0,8,14
+Store/Commercial,28.0,9,20
+Store/Commercial,28.0,10,18
+Store/Commercial,28.0,11,26
+Store/Commercial,28.0,12,21
+Store/Commercial,30.0,1,13
+Store/Commercial,30.0,2,28
+Store/Commercial,30.0,3,56
+Store/Commercial,30.0,4,42
+Store/Commercial,30.0,5,14
+Store/Commercial,30.0,6,20
+Store/Commercial,30.0,7,9
+Store/Commercial,30.0,8,13
+Store/Commercial,30.0,9,22
+Store/Commercial,30.0,10,32
+Store/Commercial,30.0,11,81
+Store/Commercial,30.0,12,46
+Store/Commercial,32.0,1,2
+Store/Commercial,32.0,2,1
+Store/Commercial,32.0,3,12
+Store/Commercial,32.0,4,11
+Store/Commercial,32.0,5,13
+Store/Commercial,32.0,6,18
+Store/Commercial,32.0,7,13
+Store/Commercial,32.0,8,16
+Store/Commercial,32.0,9,32
+Store/Commercial,32.0,10,23
+Store/Commercial,32.0,11,17
+Store/Commercial,32.0,12,13
+Store/Commercial,33.0,1,33
+Store/Commercial,33.0,2,23
+Store/Commercial,33.0,3,26
+Store/Commercial,33.0,4,18
+Store/Commercial,33.0,5,42
+Store/Commercial,33.0,6,22
+Store/Commercial,33.0,7,17
+Store/Commercial,33.0,8,20
+Store/Commercial,33.0,9,43
+Store/Commercial,33.0,10,37
+Store/Commercial,33.0,11,44
+Store/Commercial,33.0,12,55
+Store/Commercial,34.0,1,88
+Store/Commercial,34.0,2,115
+Store/Commercial,34.0,3,113
+Store/Commercial,34.0,4,97
+Store/Commercial,34.0,5,102
+Store/Commercial,34.0,6,71
+Store/Commercial,34.0,7,41
+Store/Commercial,34.0,8,71
+Store/Commercial,34.0,9,58
+Store/Commercial,34.0,10,86
+Store/Commercial,34.0,11,84
+Store/Commercial,34.0,12,77
+Store/Commercial,40.0,1,3
+Store/Commercial,40.0,2,4
+Store/Commercial,40.0,3,5
+Store/Commercial,40.0,4,5
+Store/Commercial,40.0,5,3
+Store/Commercial,40.0,6,2
+Store/Commercial,40.0,7,3
+Store/Commercial,40.0,8,1
+Store/Commercial,40.0,9,7
+Store/Commercial,40.0,10,5
+Store/Commercial,40.0,11,1
+Store/Commercial,40.0,12,3
+Store/Commercial,41.0,1,3
+Store/Commercial,41.0,2,4
+Store/Commercial,41.0,3,4
+Store/Commercial,41.0,4,8
+Store/Commercial,41.0,5,4
+Store/Commercial,41.0,6,3
+Store/Commercial,41.0,7,1
+Store/Commercial,41.0,8,1
+Store/Commercial,41.0,10,4
+Store/Commercial,41.0,11,1
+Store/Commercial,41.0,12,1
+Store/Commercial,42.0,2,2
+Store/Commercial,42.0,3,8
+Store/Commercial,42.0,4,2
+Store/Commercial,42.0,5,5
+Store/Commercial,42.0,6,11
+Store/Commercial,42.0,7,14
+Store/Commercial,42.0,8,4
+Store/Commercial,42.0,9,11
+Store/Commercial,42.0,10,4
+Store/Commercial,42.0,11,5
+Store/Commercial,42.0,12,2
+Store/Commercial,43.0,1,3
+Store/Commercial,43.0,2,3
+Store/Commercial,43.0,3,6
+Store/Commercial,43.0,4,5
+Store/Commercial,43.0,5,10
+Store/Commercial,43.0,6,12
+Store/Commercial,43.0,7,10
+Store/Commercial,43.0,8,21
+Store/Commercial,43.0,9,24
+Store/Commercial,43.0,10,14
+Store/Commercial,43.0,11,10
+Store/Commercial,43.0,12,6
+Store/Commercial,44.0,1,5
+Store/Commercial,44.0,2,2
+Store/Commercial,44.0,3,8
+Store/Commercial,44.0,4,12
+Store/Commercial,44.0,5,9
+Store/Commercial,44.0,6,26
+Store/Commercial,44.0,7,16
+Store/Commercial,44.0,8,12
+Store/Commercial,44.0,9,12
+Store/Commercial,44.0,10,6
+Store/Commercial,44.0,12,8
+Store/Commercial,45.0,1,8
+Store/Commercial,45.0,2,17
+Store/Commercial,45.0,3,25
+Store/Commercial,45.0,4,12
+Store/Commercial,45.0,5,21
+Store/Commercial,45.0,6,18
+Store/Commercial,45.0,7,11
+Store/Commercial,45.0,8,4
+Store/Commercial,45.0,9,11
+Store/Commercial,45.0,10,7
+Store/Commercial,45.0,11,6
+Store/Commercial,45.0,12,3
+Store/Commercial,46.0,1,6
+Store/Commercial,46.0,2,7
+Store/Commercial,46.0,4,5
+Store/Commercial,46.0,5,9
+Store/Commercial,46.0,6,9
+Store/Commercial,46.0,7,5
+Store/Commercial,46.0,8,5
+Store/Commercial,46.0,9,7
+Store/Commercial,46.0,10,6
+Store/Commercial,46.0,11,39
+Store/Commercial,46.0,12,75
+Store/Commercial,47.0,1,9
+Store/Commercial,47.0,2,5
+Store/Commercial,47.0,3,3
+Store/Commercial,47.0,4,8
+Store/Commercial,47.0,5,10
+Store/Commercial,47.0,6,24
+Store/Commercial,47.0,7,15
+Store/Commercial,47.0,8,27
+Store/Commercial,47.0,9,20
+Store/Commercial,47.0,10,7
+Store/Commercial,47.0,11,4
+Store/Commercial,47.0,12,8
+Store/Commercial,48.0,1,16
+Store/Commercial,48.0,2,5
+Store/Commercial,48.0,3,12
+Store/Commercial,48.0,4,16
+Store/Commercial,48.0,5,5
+Store/Commercial,48.0,6,22
+Store/Commercial,48.0,7,6
+Store/Commercial,48.0,8,1
+Store/Commercial,48.0,9,7
+Store/Commercial,48.0,10,9
+Store/Commercial,48.0,11,1
+Store/Commercial,48.0,12,15
+Store/Commercial,49.0,1,3
+Store/Commercial,49.0,2,2
+Store/Commercial,49.0,3,10
+Store/Commercial,49.0,4,12
+Store/Commercial,49.0,5,8
+Store/Commercial,49.0,6,9
+Store/Commercial,49.0,7,6
+Store/Commercial,49.0,8,1
+Store/Commercial,49.0,9,10
+Store/Commercial,49.0,10,10
+Store/Commercial,49.0,11,14
+Store/Commercial,49.0,12,2
+Store/Commercial,50.0,1,5
+Store/Commercial,50.0,2,6
+Store/Commercial,50.0,3,12
+Store/Commercial,50.0,4,7
+Store/Commercial,50.0,5,11
+Store/Commercial,50.0,6,8
+Store/Commercial,50.0,7,1
+Store/Commercial,50.0,8,3
+Store/Commercial,50.0,9,4
+Store/Commercial,50.0,10,1
+Store/Commercial,50.0,11,3
+Store/Commercial,50.0,12,16
+Store/Commercial,52.0,1,20
+Store/Commercial,52.0,2,15
+Store/Commercial,52.0,3,13
+Store/Commercial,52.0,4,22
+Store/Commercial,52.0,5,11
+Store/Commercial,52.0,6,16
+Store/Commercial,52.0,7,23
+Store/Commercial,52.0,8,9
+Store/Commercial,52.0,9,4
+Store/Commercial,52.0,10,4
+Store/Commercial,52.0,11,7
+Store/Commercial,52.0,12,6
+Store/Commercial,60.0,1,6
+Store/Commercial,60.0,2,1
+Store/Commercial,60.0,4,11
+Store/Commercial,60.0,5,12
+Store/Commercial,60.0,6,4
+Store/Commercial,60.0,7,4
+Store/Commercial,60.0,8,13
+Store/Commercial,60.0,9,10
+Store/Commercial,60.0,10,1
+Store/Commercial,60.0,12,1
+Store/Commercial,61.0,1,8
+Store/Commercial,61.0,2,4
+Store/Commercial,61.0,3,12
+Store/Commercial,61.0,4,5
+Store/Commercial,61.0,5,11
+Store/Commercial,61.0,6,11
+Store/Commercial,61.0,7,2
+Store/Commercial,61.0,8,3
+Store/Commercial,61.0,9,11
+Store/Commercial,61.0,10,2
+Store/Commercial,61.0,11,11
+Store/Commercial,61.0,12,12
+Store/Commercial,62.0,1,17
+Store/Commercial,62.0,2,21
+Store/Commercial,62.0,3,12
+Store/Commercial,62.0,4,13
+Store/Commercial,62.0,5,11
+Store/Commercial,62.0,6,9
+Store/Commercial,62.0,8,2
+Store/Commercial,62.0,9,1
+Store/Commercial,62.0,10,9
+Store/Commercial,62.0,11,2
+Store/Commercial,62.0,12,13
+Store/Commercial,63.0,1,4
+Store/Commercial,63.0,2,3
+Store/Commercial,63.0,3,30
+Store/Commercial,63.0,4,44
+Store/Commercial,63.0,5,29
+Store/Commercial,63.0,6,25
+Store/Commercial,63.0,7,17
+Store/Commercial,63.0,8,10
+Store/Commercial,63.0,9,19
+Store/Commercial,63.0,10,15
+Store/Commercial,63.0,11,23
+Store/Commercial,63.0,12,17
+Store/Commercial,66.0,1,4
+Store/Commercial,66.0,2,4
+Store/Commercial,66.0,3,10
+Store/Commercial,66.0,4,12
+Store/Commercial,66.0,5,7
+Store/Commercial,66.0,6,9
+Store/Commercial,66.0,7,4
+Store/Commercial,66.0,8,4
+Store/Commercial,66.0,9,7
+Store/Commercial,66.0,10,10
+Store/Commercial,66.0,11,5
+Store/Commercial,66.0,12,5
+Store/Commercial,67.0,1,15
+Store/Commercial,67.0,2,18
+Store/Commercial,67.0,3,12
+Store/Commercial,67.0,4,14
+Store/Commercial,67.0,5,10
+Store/Commercial,67.0,6,7
+Store/Commercial,67.0,7,15
+Store/Commercial,67.0,8,11
+Store/Commercial,67.0,9,15
+Store/Commercial,67.0,10,12
+Store/Commercial,67.0,11,10
+Store/Commercial,67.0,12,22
+Store/Commercial,68.0,1,5
+Store/Commercial,68.0,2,2
+Store/Commercial,68.0,3,6
+Store/Commercial,68.0,4,12
+Store/Commercial,68.0,5,13
+Store/Commercial,68.0,6,17
+Store/Commercial,68.0,7,11
+Store/Commercial,68.0,8,7
+Store/Commercial,68.0,9,15
+Store/Commercial,68.0,10,31
+Store/Commercial,68.0,11,16
+Store/Commercial,68.0,12,21
+Store/Commercial,69.0,1,2
+Store/Commercial,69.0,2,1
+Store/Commercial,69.0,3,2
+Store/Commercial,69.0,4,2
+Store/Commercial,69.0,5,4
+Store/Commercial,69.0,6,1
+Store/Commercial,69.0,11,1
+Store/Commercial,70.0,1,8
+Store/Commercial,70.0,2,20
+Store/Commercial,70.0,3,18
+Store/Commercial,70.0,4,18
+Store/Commercial,70.0,5,17
+Store/Commercial,70.0,6,13
+Store/Commercial,70.0,7,15
+Store/Commercial,70.0,8,18
+Store/Commercial,70.0,9,9
+Store/Commercial,70.0,10,13
+Store/Commercial,70.0,11,50
+Store/Commercial,70.0,12,26
+Store/Commercial,71.0,1,7
+Store/Commercial,71.0,2,7
+Store/Commercial,71.0,3,22
+Store/Commercial,71.0,4,15
+Store/Commercial,71.0,5,18
+Store/Commercial,71.0,6,29
+Store/Commercial,71.0,7,21
+Store/Commercial,71.0,8,14
+Store/Commercial,71.0,9,14
+Store/Commercial,71.0,10,8
+Store/Commercial,71.0,11,14
+Store/Commercial,71.0,12,28
+Store/Commercial,72.0,1,19
+Store/Commercial,72.0,2,17
+Store/Commercial,72.0,3,39
+Store/Commercial,72.0,4,20
+Store/Commercial,72.0,5,20
+Store/Commercial,72.0,6,31
+Store/Commercial,72.0,7,15
+Store/Commercial,72.0,8,15
+Store/Commercial,72.0,9,32
+Store/Commercial,72.0,10,23
+Store/Commercial,72.0,11,10
+Store/Commercial,72.0,12,14
+Store/Commercial,73.0,2,1
+Store/Commercial,73.0,3,2
+Store/Commercial,73.0,4,3
+Store/Commercial,73.0,5,1
+Store/Commercial,73.0,6,4
+Store/Commercial,73.0,7,9
+Store/Commercial,73.0,8,4
+Store/Commercial,73.0,9,5
+Store/Commercial,73.0,10,3
+Store/Commercial,73.0,11,1
+Store/Commercial,73.0,12,3
+Store/Commercial,75.0,1,8
+Store/Commercial,75.0,2,1
+Store/Commercial,75.0,3,5
+Store/Commercial,75.0,4,8
+Store/Commercial,75.0,5,12
+Store/Commercial,75.0,6,14
+Store/Commercial,75.0,7,4
+Store/Commercial,75.0,8,9
+Store/Commercial,75.0,9,26
+Store/Commercial,75.0,10,20
+Store/Commercial,75.0,11,16
+Store/Commercial,75.0,12,11
+Store/Commercial,76.0,2,2
+Store/Commercial,76.0,3,1
+Store/Commercial,76.0,4,6
+Store/Commercial,76.0,5,5
+Store/Commercial,76.0,6,10
+Store/Commercial,76.0,7,3
+Store/Commercial,76.0,8,2
+Store/Commercial,76.0,9,2
+Store/Commercial,76.0,10,9
+Store/Commercial,76.0,11,11
+Store/Commercial,76.0,12,2
+Store/Commercial,77.0,1,53
+Store/Commercial,77.0,2,47
+Store/Commercial,77.0,3,92
+Store/Commercial,77.0,4,104
+Store/Commercial,77.0,5,61
+Store/Commercial,77.0,6,69
+Store/Commercial,77.0,7,69
+Store/Commercial,77.0,8,57
+Store/Commercial,77.0,9,57
+Store/Commercial,77.0,10,53
+Store/Commercial,77.0,11,31
+Store/Commercial,77.0,12,28
+Store/Commercial,78.0,1,7
+Store/Commercial,78.0,2,3
+Store/Commercial,78.0,3,17
+Store/Commercial,78.0,4,18
+Store/Commercial,78.0,5,37
+Store/Commercial,78.0,6,54
+Store/Commercial,78.0,7,32
+Store/Commercial,78.0,8,35
+Store/Commercial,78.0,9,33
+Store/Commercial,78.0,10,20
+Store/Commercial,78.0,11,9
+Store/Commercial,78.0,12,14
+Store/Commercial,79.0,1,54
+Store/Commercial,79.0,2,31
+Store/Commercial,79.0,3,49
+Store/Commercial,79.0,4,136
+Store/Commercial,79.0,5,151
+Store/Commercial,79.0,6,240
+Store/Commercial,79.0,7,37
+Store/Commercial,79.0,8,51
+Store/Commercial,79.0,9,86
+Store/Commercial,79.0,10,55
+Store/Commercial,79.0,11,41
+Store/Commercial,79.0,12,70
+Store/Commercial,81.0,1,8
+Store/Commercial,81.0,2,32
+Store/Commercial,81.0,3,23
+Store/Commercial,81.0,4,33
+Store/Commercial,81.0,5,33
+Store/Commercial,81.0,6,16
+Store/Commercial,81.0,7,11
+Store/Commercial,81.0,8,6
+Store/Commercial,81.0,9,14
+Store/Commercial,81.0,10,20
+Store/Commercial,81.0,11,18
+Store/Commercial,81.0,12,17
+Store/Commercial,83.0,1,21
+Store/Commercial,83.0,2,38
+Store/Commercial,83.0,3,40
+Store/Commercial,83.0,4,59
+Store/Commercial,83.0,5,89
+Store/Commercial,83.0,6,114
+Store/Commercial,83.0,7,22
+Store/Commercial,83.0,8,30
+Store/Commercial,83.0,9,33
+Store/Commercial,83.0,10,53
+Store/Commercial,83.0,11,33
+Store/Commercial,83.0,12,30
+Store/Commercial,84.0,1,4
+Store/Commercial,84.0,2,5
+Store/Commercial,84.0,3,5
+Store/Commercial,84.0,4,15
+Store/Commercial,84.0,5,14
+Store/Commercial,84.0,6,27
+Store/Commercial,84.0,7,11
+Store/Commercial,84.0,8,9
+Store/Commercial,84.0,9,5
+Store/Commercial,84.0,10,20
+Store/Commercial,84.0,11,10
+Store/Commercial,84.0,12,3
+Store/Commercial,88.0,1,8
+Store/Commercial,88.0,2,12
+Store/Commercial,88.0,3,14
+Store/Commercial,88.0,4,25
+Store/Commercial,88.0,5,18
+Store/Commercial,88.0,6,26
+Store/Commercial,88.0,7,12
+Store/Commercial,88.0,8,19
+Store/Commercial,88.0,9,11
+Store/Commercial,88.0,10,12
+Store/Commercial,88.0,11,17
+Store/Commercial,88.0,12,17
+Store/Commercial,90.0,1,72
+Store/Commercial,90.0,2,50
+Store/Commercial,90.0,3,71
+Store/Commercial,90.0,4,138
+Store/Commercial,90.0,5,143
+Store/Commercial,90.0,6,118
+Store/Commercial,90.0,7,80
+Store/Commercial,90.0,8,60
+Store/Commercial,90.0,9,116
+Store/Commercial,90.0,10,103
+Store/Commercial,90.0,11,105
+Store/Commercial,90.0,12,87
+Store/Commercial,94.0,1,10
+Store/Commercial,94.0,2,20
+Store/Commercial,94.0,3,25
+Store/Commercial,94.0,4,25
+Store/Commercial,94.0,5,50
+Store/Commercial,94.0,6,52
+Store/Commercial,94.0,7,43
+Store/Commercial,94.0,8,36
+Store/Commercial,94.0,9,51
+Store/Commercial,94.0,10,32
+Store/Commercial,94.0,11,26
+Store/Commercial,94.0,12,27
+Store/Commercial,100.0,4,1
+Store/Commercial,100.0,5,4
+Store/Commercial,100.0,6,2
+Store/Commercial,100.0,7,2
+Store/Commercial,100.0,9,1
+Store/Commercial,100.0,10,2
+Store/Commercial,100.0,11,3
+Store/Commercial,101.0,5,1
+Store/Commercial,101.0,8,1
+Store/Commercial,101.0,9,3
+Store/Commercial,101.0,10,5
+Store/Commercial,101.0,11,3
+Store/Commercial,101.0,12,3
+Store/Commercial,102.0,1,4
+Store/Commercial,102.0,2,8
+Store/Commercial,102.0,3,17
+Store/Commercial,102.0,4,27
+Store/Commercial,102.0,5,19
+Store/Commercial,102.0,6,26
+Store/Commercial,102.0,7,16
+Store/Commercial,102.0,8,9
+Store/Commercial,102.0,9,16
+Store/Commercial,102.0,10,19
+Store/Commercial,102.0,11,13
+Store/Commercial,102.0,12,24
+Store/Commercial,103.0,1,9
+Store/Commercial,103.0,2,9
+Store/Commercial,103.0,3,9
+Store/Commercial,103.0,4,10
+Store/Commercial,103.0,5,13
+Store/Commercial,103.0,6,4
+Store/Commercial,103.0,7,6
+Store/Commercial,103.0,8,5
+Store/Commercial,103.0,9,7
+Store/Commercial,103.0,10,5
+Store/Commercial,103.0,11,3
+Store/Commercial,103.0,12,1
+Store/Commercial,104.0,1,21
+Store/Commercial,104.0,2,10
+Store/Commercial,104.0,3,9
+Store/Commercial,104.0,4,18
+Store/Commercial,104.0,5,26
+Store/Commercial,104.0,6,16
+Store/Commercial,104.0,7,17
+Store/Commercial,104.0,8,11
+Store/Commercial,104.0,9,30
+Store/Commercial,104.0,10,36
+Store/Commercial,104.0,11,37
+Store/Commercial,104.0,12,46
+Store/Commercial,105.0,1,2
+Store/Commercial,105.0,2,6
+Store/Commercial,105.0,3,9
+Store/Commercial,105.0,4,15
+Store/Commercial,105.0,5,16
+Store/Commercial,105.0,6,8
+Store/Commercial,105.0,7,1
+Store/Commercial,105.0,8,3
+Store/Commercial,105.0,9,8
+Store/Commercial,105.0,10,14
+Store/Commercial,105.0,11,3
+Store/Commercial,105.0,12,9
+Store/Commercial,106.0,1,16
+Store/Commercial,106.0,2,14
+Store/Commercial,106.0,3,5
+Store/Commercial,106.0,4,10
+Store/Commercial,106.0,5,15
+Store/Commercial,106.0,6,14
+Store/Commercial,106.0,7,6
+Store/Commercial,106.0,8,9
+Store/Commercial,106.0,9,7
+Store/Commercial,106.0,10,12
+Store/Commercial,106.0,11,11
+Store/Commercial,106.0,12,17
+Store/Commercial,107.0,3,1
+Store/Commercial,107.0,5,18
+Store/Commercial,107.0,6,4
+Store/Commercial,107.0,7,2
+Store/Commercial,107.0,8,4
+Store/Commercial,107.0,9,11
+Store/Commercial,107.0,10,3
+Store/Commercial,107.0,11,3
+Store/Commercial,107.0,12,7
+Store/Commercial,108.0,1,9
+Store/Commercial,108.0,2,12
+Store/Commercial,108.0,3,15
+Store/Commercial,108.0,4,48
+Store/Commercial,108.0,5,23
+Store/Commercial,108.0,6,15
+Store/Commercial,108.0,7,14
+Store/Commercial,108.0,8,12
+Store/Commercial,108.0,9,21
+Store/Commercial,108.0,10,42
+Store/Commercial,108.0,11,27
+Store/Commercial,108.0,12,13
+Store/Commercial,109.0,1,1
+Store/Commercial,109.0,2,10
+Store/Commercial,109.0,3,3
+Store/Commercial,109.0,4,13
+Store/Commercial,109.0,5,17
+Store/Commercial,109.0,6,14
+Store/Commercial,109.0,7,4
+Store/Commercial,109.0,8,3
+Store/Commercial,109.0,9,7
+Store/Commercial,109.0,10,7
+Store/Commercial,109.0,11,5
+Store/Commercial,109.0,12,10
+Store/Commercial,110.0,1,14
+Store/Commercial,110.0,2,16
+Store/Commercial,110.0,3,14
+Store/Commercial,110.0,4,10
+Store/Commercial,110.0,5,13
+Store/Commercial,110.0,6,9
+Store/Commercial,110.0,7,9
+Store/Commercial,110.0,8,8
+Store/Commercial,110.0,9,10
+Store/Commercial,110.0,10,14
+Store/Commercial,110.0,11,8
+Store/Commercial,110.0,12,5
+Store/Commercial,111.0,1,12
+Store/Commercial,111.0,2,10
+Store/Commercial,111.0,3,5
+Store/Commercial,111.0,4,6
+Store/Commercial,111.0,5,17
+Store/Commercial,111.0,6,9
+Store/Commercial,111.0,7,5
+Store/Commercial,111.0,8,1
+Store/Commercial,111.0,9,8
+Store/Commercial,111.0,10,5
+Store/Commercial,111.0,11,1
+Store/Commercial,111.0,12,3
+Store/Commercial,112.0,1,7
+Store/Commercial,112.0,2,8
+Store/Commercial,112.0,3,3
+Store/Commercial,112.0,4,3
+Store/Commercial,112.0,5,7
+Store/Commercial,112.0,6,1
+Store/Commercial,112.0,7,4
+Store/Commercial,112.0,8,4
+Store/Commercial,112.0,9,3
+Store/Commercial,112.0,10,11
+Store/Commercial,112.0,11,3
+Store/Commercial,112.0,12,5
+Store/Commercial,113.0,1,3
+Store/Commercial,113.0,2,2
+Store/Commercial,113.0,3,2
+Store/Commercial,113.0,4,2
+Store/Commercial,113.0,5,3
+Store/Commercial,113.0,6,5
+Store/Commercial,113.0,7,1
+Store/Commercial,113.0,8,3
+Store/Commercial,113.0,10,7
+Store/Commercial,113.0,11,10
+Store/Commercial,113.0,12,5
+Store/Commercial,114.0,1,29
+Store/Commercial,114.0,2,39
+Store/Commercial,114.0,3,53
+Store/Commercial,114.0,4,40
+Store/Commercial,114.0,5,67
+Store/Commercial,114.0,6,38
+Store/Commercial,114.0,7,35
+Store/Commercial,114.0,8,32
+Store/Commercial,114.0,9,53
+Store/Commercial,114.0,10,47
+Store/Commercial,114.0,11,51
+Store/Commercial,114.0,12,56
+Store/Commercial,115.0,1,19
+Store/Commercial,115.0,2,18
+Store/Commercial,115.0,3,17
+Store/Commercial,115.0,4,15
+Store/Commercial,115.0,5,17
+Store/Commercial,115.0,6,18
+Store/Commercial,115.0,7,18
+Store/Commercial,115.0,8,17
+Store/Commercial,115.0,9,25
+Store/Commercial,115.0,10,19
+Store/Commercial,115.0,11,17
+Store/Commercial,115.0,12,18
+Store/Commercial,120.0,1,2
+Store/Commercial,120.0,2,13
+Store/Commercial,120.0,3,3
+Store/Commercial,120.0,4,10
+Store/Commercial,120.0,5,17
+Store/Commercial,120.0,6,26
+Store/Commercial,120.0,7,9
+Store/Commercial,120.0,8,5
+Store/Commercial,120.0,9,9
+Store/Commercial,120.0,10,9
+Store/Commercial,120.0,11,6
+Store/Commercial,120.0,12,9
+Store/Commercial,121.0,1,1
+Store/Commercial,121.0,4,3
+Store/Commercial,121.0,5,5
+Store/Commercial,121.0,6,4
+Store/Commercial,121.0,7,2
+Store/Commercial,121.0,9,3
+Store/Commercial,121.0,10,2
+Store/Commercial,121.0,11,2
+Store/Commercial,121.0,12,8
+Store/Commercial,122.0,1,3
+Store/Commercial,122.0,2,1
+Store/Commercial,122.0,3,2
+Store/Commercial,122.0,4,4
+Store/Commercial,122.0,5,8
+Store/Commercial,122.0,6,29
+Store/Commercial,122.0,7,12
+Store/Commercial,122.0,8,17
+Store/Commercial,122.0,9,8
+Store/Commercial,122.0,10,8
+Store/Commercial,122.0,11,2
+Store/Commercial,122.0,12,7
+Store/Commercial,123.0,3,2
+Store/Commercial,123.0,4,1
+Store/Commercial,123.0,5,4
+Store/Commercial,123.0,6,1
+Store/Commercial,123.0,8,3
+Store/Commercial,123.0,10,1
+Street/Sidewalk,1.0,1,53
+Street/Sidewalk,1.0,2,45
+Street/Sidewalk,1.0,3,53
+Street/Sidewalk,1.0,4,166
+Street/Sidewalk,1.0,5,239
+Street/Sidewalk,1.0,6,56
+Street/Sidewalk,1.0,7,30
+Street/Sidewalk,1.0,8,45
+Street/Sidewalk,1.0,9,80
+Street/Sidewalk,1.0,10,39
+Street/Sidewalk,1.0,11,27
+Street/Sidewalk,1.0,12,55
+Street/Sidewalk,5.0,1,8
+Street/Sidewalk,5.0,2,14
+Street/Sidewalk,5.0,3,14
+Street/Sidewalk,5.0,4,40
+Street/Sidewalk,5.0,5,28
+Street/Sidewalk,5.0,6,48
+Street/Sidewalk,5.0,7,45
+Street/Sidewalk,5.0,8,33
+Street/Sidewalk,5.0,9,56
+Street/Sidewalk,5.0,10,30
+Street/Sidewalk,5.0,11,56
+Street/Sidewalk,5.0,12,20
+Street/Sidewalk,6.0,1,12
+Street/Sidewalk,6.0,2,5
+Street/Sidewalk,6.0,3,32
+Street/Sidewalk,6.0,4,34
+Street/Sidewalk,6.0,5,42
+Street/Sidewalk,6.0,6,53
+Street/Sidewalk,6.0,7,39
+Street/Sidewalk,6.0,8,32
+Street/Sidewalk,6.0,9,46
+Street/Sidewalk,6.0,10,47
+Street/Sidewalk,6.0,11,37
+Street/Sidewalk,6.0,12,20
+Street/Sidewalk,7.0,1,12
+Street/Sidewalk,7.0,2,12
+Street/Sidewalk,7.0,3,11
+Street/Sidewalk,7.0,4,25
+Street/Sidewalk,7.0,5,39
+Street/Sidewalk,7.0,6,51
+Street/Sidewalk,7.0,7,50
+Street/Sidewalk,7.0,8,36
+Street/Sidewalk,7.0,9,41
+Street/Sidewalk,7.0,10,23
+Street/Sidewalk,7.0,11,19
+Street/Sidewalk,7.0,12,10
+Street/Sidewalk,9.0,1,19
+Street/Sidewalk,9.0,2,26
+Street/Sidewalk,9.0,3,41
+Street/Sidewalk,9.0,4,61
+Street/Sidewalk,9.0,5,96
+Street/Sidewalk,9.0,6,96
+Street/Sidewalk,9.0,7,58
+Street/Sidewalk,9.0,8,56
+Street/Sidewalk,9.0,9,81
+Street/Sidewalk,9.0,10,63
+Street/Sidewalk,9.0,11,48
+Street/Sidewalk,9.0,12,52
+Street/Sidewalk,10.0,1,9
+Street/Sidewalk,10.0,2,7
+Street/Sidewalk,10.0,3,7
+Street/Sidewalk,10.0,4,15
+Street/Sidewalk,10.0,5,29
+Street/Sidewalk,10.0,6,26
+Street/Sidewalk,10.0,7,21
+Street/Sidewalk,10.0,8,16
+Street/Sidewalk,10.0,9,15
+Street/Sidewalk,10.0,10,7
+Street/Sidewalk,10.0,11,12
+Street/Sidewalk,10.0,12,14
+Street/Sidewalk,13.0,1,4
+Street/Sidewalk,13.0,2,15
+Street/Sidewalk,13.0,3,37
+Street/Sidewalk,13.0,4,75
+Street/Sidewalk,13.0,5,38
+Street/Sidewalk,13.0,6,21
+Street/Sidewalk,13.0,7,11
+Street/Sidewalk,13.0,8,13
+Street/Sidewalk,13.0,9,15
+Street/Sidewalk,13.0,10,29
+Street/Sidewalk,13.0,11,21
+Street/Sidewalk,13.0,12,18
+Street/Sidewalk,14.0,1,20
+Street/Sidewalk,14.0,2,9
+Street/Sidewalk,14.0,3,30
+Street/Sidewalk,14.0,4,135
+Street/Sidewalk,14.0,5,68
+Street/Sidewalk,14.0,6,188
+Street/Sidewalk,14.0,7,166
+Street/Sidewalk,14.0,8,84
+Street/Sidewalk,14.0,9,74
+Street/Sidewalk,14.0,10,94
+Street/Sidewalk,14.0,11,34
+Street/Sidewalk,14.0,12,329
+Street/Sidewalk,17.0,1,7
+Street/Sidewalk,17.0,2,2
+Street/Sidewalk,17.0,3,12
+Street/Sidewalk,17.0,4,14
+Street/Sidewalk,17.0,5,18
+Street/Sidewalk,17.0,6,13
+Street/Sidewalk,17.0,7,5
+Street/Sidewalk,17.0,8,11
+Street/Sidewalk,17.0,9,10
+Street/Sidewalk,17.0,10,8
+Street/Sidewalk,17.0,11,19
+Street/Sidewalk,17.0,12,9
+Street/Sidewalk,18.0,1,17
+Street/Sidewalk,18.0,2,20
+Street/Sidewalk,18.0,3,26
+Street/Sidewalk,18.0,4,92
+Street/Sidewalk,18.0,5,59
+Street/Sidewalk,18.0,6,51
+Street/Sidewalk,18.0,7,34
+Street/Sidewalk,18.0,8,20
+Street/Sidewalk,18.0,9,38
+Street/Sidewalk,18.0,10,33
+Street/Sidewalk,18.0,11,35
+Street/Sidewalk,18.0,12,40
+Street/Sidewalk,19.0,1,5
+Street/Sidewalk,19.0,2,12
+Street/Sidewalk,19.0,3,22
+Street/Sidewalk,19.0,4,54
+Street/Sidewalk,19.0,5,29
+Street/Sidewalk,19.0,6,46
+Street/Sidewalk,19.0,7,18
+Street/Sidewalk,19.0,8,11
+Street/Sidewalk,19.0,9,25
+Street/Sidewalk,19.0,10,18
+Street/Sidewalk,19.0,11,20
+Street/Sidewalk,19.0,12,21
+Street/Sidewalk,20.0,1,17
+Street/Sidewalk,20.0,2,18
+Street/Sidewalk,20.0,3,26
+Street/Sidewalk,20.0,4,28
+Street/Sidewalk,20.0,5,40
+Street/Sidewalk,20.0,6,49
+Street/Sidewalk,20.0,7,36
+Street/Sidewalk,20.0,8,20
+Street/Sidewalk,20.0,9,31
+Street/Sidewalk,20.0,10,46
+Street/Sidewalk,20.0,11,21
+Street/Sidewalk,20.0,12,10
+Street/Sidewalk,22.0,1,1
+Street/Sidewalk,22.0,2,4
+Street/Sidewalk,22.0,3,14
+Street/Sidewalk,22.0,4,11
+Street/Sidewalk,22.0,5,8
+Street/Sidewalk,22.0,6,7
+Street/Sidewalk,22.0,7,7
+Street/Sidewalk,22.0,8,6
+Street/Sidewalk,22.0,9,9
+Street/Sidewalk,22.0,10,22
+Street/Sidewalk,22.0,11,15
+Street/Sidewalk,22.0,12,5
+Street/Sidewalk,23.0,1,10
+Street/Sidewalk,23.0,2,7
+Street/Sidewalk,23.0,3,12
+Street/Sidewalk,23.0,4,33
+Street/Sidewalk,23.0,5,40
+Street/Sidewalk,23.0,6,83
+Street/Sidewalk,23.0,7,85
+Street/Sidewalk,23.0,8,64
+Street/Sidewalk,23.0,9,69
+Street/Sidewalk,23.0,10,56
+Street/Sidewalk,23.0,11,19
+Street/Sidewalk,23.0,12,13
+Street/Sidewalk,24.0,1,17
+Street/Sidewalk,24.0,2,20
+Street/Sidewalk,24.0,3,29
+Street/Sidewalk,24.0,4,70
+Street/Sidewalk,24.0,5,54
+Street/Sidewalk,24.0,6,63
+Street/Sidewalk,24.0,7,79
+Street/Sidewalk,24.0,8,38
+Street/Sidewalk,24.0,9,49
+Street/Sidewalk,24.0,10,39
+Street/Sidewalk,24.0,11,28
+Street/Sidewalk,24.0,12,22
+Street/Sidewalk,25.0,1,4
+Street/Sidewalk,25.0,2,12
+Street/Sidewalk,25.0,3,18
+Street/Sidewalk,25.0,4,36
+Street/Sidewalk,25.0,5,61
+Street/Sidewalk,25.0,6,135
+Street/Sidewalk,25.0,7,86
+Street/Sidewalk,25.0,8,74
+Street/Sidewalk,25.0,9,62
+Street/Sidewalk,25.0,10,26
+Street/Sidewalk,25.0,11,20
+Street/Sidewalk,25.0,12,11
+Street/Sidewalk,26.0,1,6
+Street/Sidewalk,26.0,2,5
+Street/Sidewalk,26.0,3,26
+Street/Sidewalk,26.0,4,35
+Street/Sidewalk,26.0,5,50
+Street/Sidewalk,26.0,6,66
+Street/Sidewalk,26.0,7,69
+Street/Sidewalk,26.0,8,67
+Street/Sidewalk,26.0,9,39
+Street/Sidewalk,26.0,10,32
+Street/Sidewalk,26.0,11,7
+Street/Sidewalk,26.0,12,4
+Street/Sidewalk,28.0,1,35
+Street/Sidewalk,28.0,2,24
+Street/Sidewalk,28.0,3,83
+Street/Sidewalk,28.0,4,100
+Street/Sidewalk,28.0,5,245
+Street/Sidewalk,28.0,6,225
+Street/Sidewalk,28.0,7,181
+Street/Sidewalk,28.0,8,130
+Street/Sidewalk,28.0,9,127
+Street/Sidewalk,28.0,10,95
+Street/Sidewalk,28.0,11,35
+Street/Sidewalk,28.0,12,33
+Street/Sidewalk,30.0,1,41
+Street/Sidewalk,30.0,2,25
+Street/Sidewalk,30.0,3,79
+Street/Sidewalk,30.0,4,86
+Street/Sidewalk,30.0,5,205
+Street/Sidewalk,30.0,6,278
+Street/Sidewalk,30.0,7,296
+Street/Sidewalk,30.0,8,226
+Street/Sidewalk,30.0,9,224
+Street/Sidewalk,30.0,10,85
+Street/Sidewalk,30.0,11,62
+Street/Sidewalk,30.0,12,44
+Street/Sidewalk,32.0,1,10
+Street/Sidewalk,32.0,2,19
+Street/Sidewalk,32.0,3,33
+Street/Sidewalk,32.0,4,70
+Street/Sidewalk,32.0,5,123
+Street/Sidewalk,32.0,6,171
+Street/Sidewalk,32.0,7,205
+Street/Sidewalk,32.0,8,218
+Street/Sidewalk,32.0,9,169
+Street/Sidewalk,32.0,10,61
+Street/Sidewalk,32.0,11,22
+Street/Sidewalk,32.0,12,16
+Street/Sidewalk,33.0,1,58
+Street/Sidewalk,33.0,2,41
+Street/Sidewalk,33.0,3,107
+Street/Sidewalk,33.0,4,143
+Street/Sidewalk,33.0,5,205
+Street/Sidewalk,33.0,6,244
+Street/Sidewalk,33.0,7,249
+Street/Sidewalk,33.0,8,266
+Street/Sidewalk,33.0,9,243
+Street/Sidewalk,33.0,10,128
+Street/Sidewalk,33.0,11,117
+Street/Sidewalk,33.0,12,84
+Street/Sidewalk,34.0,1,66
+Street/Sidewalk,34.0,2,84
+Street/Sidewalk,34.0,3,184
+Street/Sidewalk,34.0,4,211
+Street/Sidewalk,34.0,5,504
+Street/Sidewalk,34.0,6,668
+Street/Sidewalk,34.0,7,593
+Street/Sidewalk,34.0,8,416
+Street/Sidewalk,34.0,9,567
+Street/Sidewalk,34.0,10,293
+Street/Sidewalk,34.0,11,137
+Street/Sidewalk,34.0,12,100
+Street/Sidewalk,40.0,1,4
+Street/Sidewalk,40.0,2,6
+Street/Sidewalk,40.0,3,22
+Street/Sidewalk,40.0,4,36
+Street/Sidewalk,40.0,5,97
+Street/Sidewalk,40.0,6,123
+Street/Sidewalk,40.0,7,98
+Street/Sidewalk,40.0,8,87
+Street/Sidewalk,40.0,9,154
+Street/Sidewalk,40.0,10,70
+Street/Sidewalk,40.0,11,19
+Street/Sidewalk,40.0,12,6
+Street/Sidewalk,41.0,1,3
+Street/Sidewalk,41.0,2,5
+Street/Sidewalk,41.0,3,7
+Street/Sidewalk,41.0,4,7
+Street/Sidewalk,41.0,5,20
+Street/Sidewalk,41.0,6,40
+Street/Sidewalk,41.0,7,91
+Street/Sidewalk,41.0,8,55
+Street/Sidewalk,41.0,9,73
+Street/Sidewalk,41.0,10,26
+Street/Sidewalk,41.0,11,3
+Street/Sidewalk,41.0,12,3
+Street/Sidewalk,42.0,1,4
+Street/Sidewalk,42.0,2,2
+Street/Sidewalk,42.0,3,19
+Street/Sidewalk,42.0,4,35
+Street/Sidewalk,42.0,5,35
+Street/Sidewalk,42.0,6,61
+Street/Sidewalk,42.0,7,82
+Street/Sidewalk,42.0,8,82
+Street/Sidewalk,42.0,9,78
+Street/Sidewalk,42.0,10,20
+Street/Sidewalk,42.0,11,15
+Street/Sidewalk,42.0,12,6
+Street/Sidewalk,43.0,1,4
+Street/Sidewalk,43.0,2,5
+Street/Sidewalk,43.0,3,15
+Street/Sidewalk,43.0,4,26
+Street/Sidewalk,43.0,5,52
+Street/Sidewalk,43.0,6,90
+Street/Sidewalk,43.0,7,97
+Street/Sidewalk,43.0,8,61
+Street/Sidewalk,43.0,9,81
+Street/Sidewalk,43.0,10,35
+Street/Sidewalk,43.0,11,13
+Street/Sidewalk,43.0,12,5
+Street/Sidewalk,44.0,1,12
+Street/Sidewalk,44.0,2,18
+Street/Sidewalk,44.0,3,73
+Street/Sidewalk,44.0,4,135
+Street/Sidewalk,44.0,5,421
+Street/Sidewalk,44.0,6,453
+Street/Sidewalk,44.0,7,498
+Street/Sidewalk,44.0,8,517
+Street/Sidewalk,44.0,9,383
+Street/Sidewalk,44.0,10,130
+Street/Sidewalk,44.0,11,52
+Street/Sidewalk,44.0,12,20
+Street/Sidewalk,45.0,1,15
+Street/Sidewalk,45.0,2,13
+Street/Sidewalk,45.0,3,7
+Street/Sidewalk,45.0,4,18
+Street/Sidewalk,45.0,5,34
+Street/Sidewalk,45.0,6,52
+Street/Sidewalk,45.0,7,80
+Street/Sidewalk,45.0,8,28
+Street/Sidewalk,45.0,9,29
+Street/Sidewalk,45.0,10,18
+Street/Sidewalk,45.0,11,15
+Street/Sidewalk,45.0,12,3
+Street/Sidewalk,46.0,1,10
+Street/Sidewalk,46.0,2,9
+Street/Sidewalk,46.0,3,20
+Street/Sidewalk,46.0,4,38
+Street/Sidewalk,46.0,5,136
+Street/Sidewalk,46.0,6,195
+Street/Sidewalk,46.0,7,263
+Street/Sidewalk,46.0,8,218
+Street/Sidewalk,46.0,9,206
+Street/Sidewalk,46.0,10,61
+Street/Sidewalk,46.0,11,27
+Street/Sidewalk,46.0,12,10
+Street/Sidewalk,47.0,1,2
+Street/Sidewalk,47.0,3,10
+Street/Sidewalk,47.0,4,16
+Street/Sidewalk,47.0,5,48
+Street/Sidewalk,47.0,6,41
+Street/Sidewalk,47.0,7,69
+Street/Sidewalk,47.0,8,69
+Street/Sidewalk,47.0,9,46
+Street/Sidewalk,47.0,10,14
+Street/Sidewalk,47.0,11,5
+Street/Sidewalk,47.0,12,6
+Street/Sidewalk,48.0,1,1
+Street/Sidewalk,48.0,2,4
+Street/Sidewalk,48.0,3,21
+Street/Sidewalk,48.0,4,20
+Street/Sidewalk,48.0,5,51
+Street/Sidewalk,48.0,6,97
+Street/Sidewalk,48.0,7,169
+Street/Sidewalk,48.0,8,141
+Street/Sidewalk,48.0,9,98
+Street/Sidewalk,48.0,10,40
+Street/Sidewalk,48.0,11,13
+Street/Sidewalk,48.0,12,4
+Street/Sidewalk,49.0,1,8
+Street/Sidewalk,49.0,2,3
+Street/Sidewalk,49.0,3,10
+Street/Sidewalk,49.0,4,16
+Street/Sidewalk,49.0,5,16
+Street/Sidewalk,49.0,6,37
+Street/Sidewalk,49.0,7,54
+Street/Sidewalk,49.0,8,38
+Street/Sidewalk,49.0,9,23
+Street/Sidewalk,49.0,10,16
+Street/Sidewalk,49.0,11,4
+Street/Sidewalk,49.0,12,4
+Street/Sidewalk,50.0,1,8
+Street/Sidewalk,50.0,2,3
+Street/Sidewalk,50.0,3,18
+Street/Sidewalk,50.0,4,23
+Street/Sidewalk,50.0,5,31
+Street/Sidewalk,50.0,6,53
+Street/Sidewalk,50.0,7,67
+Street/Sidewalk,50.0,8,43
+Street/Sidewalk,50.0,9,31
+Street/Sidewalk,50.0,10,24
+Street/Sidewalk,50.0,11,13
+Street/Sidewalk,50.0,12,12
+Street/Sidewalk,52.0,1,15
+Street/Sidewalk,52.0,2,14
+Street/Sidewalk,52.0,3,34
+Street/Sidewalk,52.0,4,49
+Street/Sidewalk,52.0,5,183
+Street/Sidewalk,52.0,6,202
+Street/Sidewalk,52.0,7,218
+Street/Sidewalk,52.0,8,174
+Street/Sidewalk,52.0,9,133
+Street/Sidewalk,52.0,10,93
+Street/Sidewalk,52.0,11,30
+Street/Sidewalk,52.0,12,15
+Street/Sidewalk,60.0,1,3
+Street/Sidewalk,60.0,2,5
+Street/Sidewalk,60.0,3,11
+Street/Sidewalk,60.0,4,4
+Street/Sidewalk,60.0,5,25
+Street/Sidewalk,60.0,6,27
+Street/Sidewalk,60.0,7,37
+Street/Sidewalk,60.0,8,59
+Street/Sidewalk,60.0,9,21
+Street/Sidewalk,60.0,10,15
+Street/Sidewalk,60.0,11,7
+Street/Sidewalk,60.0,12,19
+Street/Sidewalk,61.0,1,3
+Street/Sidewalk,61.0,2,2
+Street/Sidewalk,61.0,3,3
+Street/Sidewalk,61.0,4,11
+Street/Sidewalk,61.0,5,10
+Street/Sidewalk,61.0,6,10
+Street/Sidewalk,61.0,7,18
+Street/Sidewalk,61.0,8,14
+Street/Sidewalk,61.0,9,13
+Street/Sidewalk,61.0,10,7
+Street/Sidewalk,61.0,11,1
+Street/Sidewalk,61.0,12,4
+Street/Sidewalk,62.0,1,3
+Street/Sidewalk,62.0,2,4
+Street/Sidewalk,62.0,3,14
+Street/Sidewalk,62.0,4,10
+Street/Sidewalk,62.0,5,11
+Street/Sidewalk,62.0,6,11
+Street/Sidewalk,62.0,7,25
+Street/Sidewalk,62.0,8,14
+Street/Sidewalk,62.0,9,9
+Street/Sidewalk,62.0,10,20
+Street/Sidewalk,62.0,11,4
+Street/Sidewalk,62.0,12,3
+Street/Sidewalk,63.0,2,1
+Street/Sidewalk,63.0,3,6
+Street/Sidewalk,63.0,4,1
+Street/Sidewalk,63.0,5,15
+Street/Sidewalk,63.0,6,30
+Street/Sidewalk,63.0,7,30
+Street/Sidewalk,63.0,8,31
+Street/Sidewalk,63.0,9,33
+Street/Sidewalk,63.0,10,5
+Street/Sidewalk,63.0,11,8
+Street/Sidewalk,63.0,12,4
+Street/Sidewalk,66.0,1,5
+Street/Sidewalk,66.0,2,13
+Street/Sidewalk,66.0,3,28
+Street/Sidewalk,66.0,4,16
+Street/Sidewalk,66.0,5,52
+Street/Sidewalk,66.0,6,22
+Street/Sidewalk,66.0,7,23
+Street/Sidewalk,66.0,8,14
+Street/Sidewalk,66.0,9,25
+Street/Sidewalk,66.0,10,25
+Street/Sidewalk,66.0,11,5
+Street/Sidewalk,66.0,12,3
+Street/Sidewalk,67.0,1,7
+Street/Sidewalk,67.0,2,8
+Street/Sidewalk,67.0,3,13
+Street/Sidewalk,67.0,4,27
+Street/Sidewalk,67.0,5,67
+Street/Sidewalk,67.0,6,89
+Street/Sidewalk,67.0,7,113
+Street/Sidewalk,67.0,8,75
+Street/Sidewalk,67.0,9,106
+Street/Sidewalk,67.0,10,28
+Street/Sidewalk,67.0,11,25
+Street/Sidewalk,67.0,12,27
+Street/Sidewalk,68.0,1,11
+Street/Sidewalk,68.0,2,4
+Street/Sidewalk,68.0,3,10
+Street/Sidewalk,68.0,4,12
+Street/Sidewalk,68.0,5,15
+Street/Sidewalk,68.0,6,34
+Street/Sidewalk,68.0,7,17
+Street/Sidewalk,68.0,8,25
+Street/Sidewalk,68.0,9,19
+Street/Sidewalk,68.0,10,22
+Street/Sidewalk,68.0,11,13
+Street/Sidewalk,68.0,12,10
+Street/Sidewalk,69.0,3,1
+Street/Sidewalk,69.0,4,3
+Street/Sidewalk,69.0,5,7
+Street/Sidewalk,69.0,6,22
+Street/Sidewalk,69.0,7,23
+Street/Sidewalk,69.0,8,29
+Street/Sidewalk,69.0,9,28
+Street/Sidewalk,69.0,10,10
+Street/Sidewalk,69.0,11,2
+Street/Sidewalk,70.0,1,12
+Street/Sidewalk,70.0,2,19
+Street/Sidewalk,70.0,3,27
+Street/Sidewalk,70.0,4,46
+Street/Sidewalk,70.0,5,87
+Street/Sidewalk,70.0,6,124
+Street/Sidewalk,70.0,7,131
+Street/Sidewalk,70.0,8,95
+Street/Sidewalk,70.0,9,114
+Street/Sidewalk,70.0,10,102
+Street/Sidewalk,70.0,11,56
+Street/Sidewalk,70.0,12,22
+Street/Sidewalk,71.0,1,7
+Street/Sidewalk,71.0,2,4
+Street/Sidewalk,71.0,3,38
+Street/Sidewalk,71.0,4,34
+Street/Sidewalk,71.0,5,90
+Street/Sidewalk,71.0,6,150
+Street/Sidewalk,71.0,7,155
+Street/Sidewalk,71.0,8,163
+Street/Sidewalk,71.0,9,187
+Street/Sidewalk,71.0,10,93
+Street/Sidewalk,71.0,11,22
+Street/Sidewalk,71.0,12,19
+Street/Sidewalk,72.0,1,3
+Street/Sidewalk,72.0,2,7
+Street/Sidewalk,72.0,3,12
+Street/Sidewalk,72.0,4,23
+Street/Sidewalk,72.0,5,31
+Street/Sidewalk,72.0,6,74
+Street/Sidewalk,72.0,7,50
+Street/Sidewalk,72.0,8,49
+Street/Sidewalk,72.0,9,42
+Street/Sidewalk,72.0,10,35
+Street/Sidewalk,72.0,11,13
+Street/Sidewalk,72.0,12,15
+Street/Sidewalk,73.0,1,4
+Street/Sidewalk,73.0,2,3
+Street/Sidewalk,73.0,3,7
+Street/Sidewalk,73.0,4,11
+Street/Sidewalk,73.0,5,26
+Street/Sidewalk,73.0,6,57
+Street/Sidewalk,73.0,7,74
+Street/Sidewalk,73.0,8,44
+Street/Sidewalk,73.0,9,35
+Street/Sidewalk,73.0,10,12
+Street/Sidewalk,73.0,11,3
+Street/Sidewalk,73.0,12,5
+Street/Sidewalk,75.0,1,7
+Street/Sidewalk,75.0,3,25
+Street/Sidewalk,75.0,4,22
+Street/Sidewalk,75.0,5,52
+Street/Sidewalk,75.0,6,98
+Street/Sidewalk,75.0,7,95
+Street/Sidewalk,75.0,8,81
+Street/Sidewalk,75.0,9,78
+Street/Sidewalk,75.0,10,16
+Street/Sidewalk,75.0,11,13
+Street/Sidewalk,75.0,12,10
+Street/Sidewalk,76.0,1,2
+Street/Sidewalk,76.0,2,4
+Street/Sidewalk,76.0,3,8
+Street/Sidewalk,76.0,4,13
+Street/Sidewalk,76.0,5,13
+Street/Sidewalk,76.0,6,33
+Street/Sidewalk,76.0,7,26
+Street/Sidewalk,76.0,8,22
+Street/Sidewalk,76.0,9,18
+Street/Sidewalk,76.0,10,8
+Street/Sidewalk,76.0,11,3
+Street/Sidewalk,76.0,12,1
+Street/Sidewalk,77.0,1,19
+Street/Sidewalk,77.0,2,12
+Street/Sidewalk,77.0,3,41
+Street/Sidewalk,77.0,4,64
+Street/Sidewalk,77.0,5,133
+Street/Sidewalk,77.0,6,164
+Street/Sidewalk,77.0,7,165
+Street/Sidewalk,77.0,8,168
+Street/Sidewalk,77.0,9,193
+Street/Sidewalk,77.0,10,78
+Street/Sidewalk,77.0,11,22
+Street/Sidewalk,77.0,12,18
+Street/Sidewalk,78.0,1,6
+Street/Sidewalk,78.0,2,2
+Street/Sidewalk,78.0,3,10
+Street/Sidewalk,78.0,4,22
+Street/Sidewalk,78.0,5,39
+Street/Sidewalk,78.0,6,45
+Street/Sidewalk,78.0,7,46
+Street/Sidewalk,78.0,8,61
+Street/Sidewalk,78.0,9,68
+Street/Sidewalk,78.0,10,47
+Street/Sidewalk,78.0,11,15
+Street/Sidewalk,78.0,12,13
+Street/Sidewalk,79.0,1,16
+Street/Sidewalk,79.0,2,22
+Street/Sidewalk,79.0,3,38
+Street/Sidewalk,79.0,4,82
+Street/Sidewalk,79.0,5,73
+Street/Sidewalk,79.0,6,135
+Street/Sidewalk,79.0,7,162
+Street/Sidewalk,79.0,8,119
+Street/Sidewalk,79.0,9,116
+Street/Sidewalk,79.0,10,77
+Street/Sidewalk,79.0,11,21
+Street/Sidewalk,79.0,12,18
+Street/Sidewalk,81.0,1,10
+Street/Sidewalk,81.0,2,5
+Street/Sidewalk,81.0,3,15
+Street/Sidewalk,81.0,4,25
+Street/Sidewalk,81.0,5,58
+Street/Sidewalk,81.0,6,84
+Street/Sidewalk,81.0,7,75
+Street/Sidewalk,81.0,8,69
+Street/Sidewalk,81.0,9,63
+Street/Sidewalk,81.0,10,22
+Street/Sidewalk,81.0,11,9
+Street/Sidewalk,81.0,12,10
+Street/Sidewalk,83.0,1,24
+Street/Sidewalk,83.0,2,18
+Street/Sidewalk,83.0,3,48
+Street/Sidewalk,83.0,4,73
+Street/Sidewalk,83.0,5,135
+Street/Sidewalk,83.0,6,237
+Street/Sidewalk,83.0,7,200
+Street/Sidewalk,83.0,8,188
+Street/Sidewalk,83.0,9,183
+Street/Sidewalk,83.0,10,133
+Street/Sidewalk,83.0,11,67
+Street/Sidewalk,83.0,12,23
+Street/Sidewalk,84.0,1,3
+Street/Sidewalk,84.0,2,6
+Street/Sidewalk,84.0,3,14
+Street/Sidewalk,84.0,4,21
+Street/Sidewalk,84.0,5,29
+Street/Sidewalk,84.0,6,45
+Street/Sidewalk,84.0,7,25
+Street/Sidewalk,84.0,8,48
+Street/Sidewalk,84.0,9,56
+Street/Sidewalk,84.0,10,32
+Street/Sidewalk,84.0,11,24
+Street/Sidewalk,84.0,12,12
+Street/Sidewalk,88.0,1,9
+Street/Sidewalk,88.0,2,8
+Street/Sidewalk,88.0,3,29
+Street/Sidewalk,88.0,4,27
+Street/Sidewalk,88.0,5,43
+Street/Sidewalk,88.0,6,79
+Street/Sidewalk,88.0,7,63
+Street/Sidewalk,88.0,8,71
+Street/Sidewalk,88.0,9,56
+Street/Sidewalk,88.0,10,23
+Street/Sidewalk,88.0,11,8
+Street/Sidewalk,88.0,12,7
+Street/Sidewalk,90.0,1,54
+Street/Sidewalk,90.0,2,26
+Street/Sidewalk,90.0,3,58
+Street/Sidewalk,90.0,4,57
+Street/Sidewalk,90.0,5,133
+Street/Sidewalk,90.0,6,184
+Street/Sidewalk,90.0,7,100
+Street/Sidewalk,90.0,8,113
+Street/Sidewalk,90.0,9,97
+Street/Sidewalk,90.0,10,67
+Street/Sidewalk,90.0,11,33
+Street/Sidewalk,90.0,12,26
+Street/Sidewalk,94.0,1,13
+Street/Sidewalk,94.0,2,5
+Street/Sidewalk,94.0,3,24
+Street/Sidewalk,94.0,4,54
+Street/Sidewalk,94.0,5,56
+Street/Sidewalk,94.0,6,106
+Street/Sidewalk,94.0,7,82
+Street/Sidewalk,94.0,8,63
+Street/Sidewalk,94.0,9,78
+Street/Sidewalk,94.0,10,61
+Street/Sidewalk,94.0,11,31
+Street/Sidewalk,94.0,12,19
+Street/Sidewalk,100.0,3,3
+Street/Sidewalk,100.0,4,8
+Street/Sidewalk,100.0,5,12
+Street/Sidewalk,100.0,6,24
+Street/Sidewalk,100.0,7,29
+Street/Sidewalk,100.0,8,13
+Street/Sidewalk,100.0,9,9
+Street/Sidewalk,100.0,10,4
+Street/Sidewalk,101.0,1,3
+Street/Sidewalk,101.0,3,1
+Street/Sidewalk,101.0,4,3
+Street/Sidewalk,101.0,5,9
+Street/Sidewalk,101.0,6,13
+Street/Sidewalk,101.0,7,28
+Street/Sidewalk,101.0,8,22
+Street/Sidewalk,101.0,9,23
+Street/Sidewalk,101.0,10,2
+Street/Sidewalk,101.0,11,3
+Street/Sidewalk,101.0,12,1
+Street/Sidewalk,102.0,1,3
+Street/Sidewalk,102.0,2,5
+Street/Sidewalk,102.0,3,8
+Street/Sidewalk,102.0,4,11
+Street/Sidewalk,102.0,5,20
+Street/Sidewalk,102.0,6,48
+Street/Sidewalk,102.0,7,68
+Street/Sidewalk,102.0,8,28
+Street/Sidewalk,102.0,9,35
+Street/Sidewalk,102.0,10,30
+Street/Sidewalk,102.0,11,10
+Street/Sidewalk,102.0,12,6
+Street/Sidewalk,103.0,1,1
+Street/Sidewalk,103.0,2,3
+Street/Sidewalk,103.0,3,6
+Street/Sidewalk,103.0,4,9
+Street/Sidewalk,103.0,5,17
+Street/Sidewalk,103.0,6,25
+Street/Sidewalk,103.0,7,37
+Street/Sidewalk,103.0,8,28
+Street/Sidewalk,103.0,9,19
+Street/Sidewalk,103.0,10,17
+Street/Sidewalk,103.0,11,8
+Street/Sidewalk,103.0,12,2
+Street/Sidewalk,104.0,1,12
+Street/Sidewalk,104.0,2,14
+Street/Sidewalk,104.0,3,14
+Street/Sidewalk,104.0,4,29
+Street/Sidewalk,104.0,5,56
+Street/Sidewalk,104.0,6,60
+Street/Sidewalk,104.0,7,76
+Street/Sidewalk,104.0,8,47
+Street/Sidewalk,104.0,9,60
+Street/Sidewalk,104.0,10,36
+Street/Sidewalk,104.0,11,29
+Street/Sidewalk,104.0,12,10
+Street/Sidewalk,105.0,1,2
+Street/Sidewalk,105.0,2,2
+Street/Sidewalk,105.0,3,5
+Street/Sidewalk,105.0,4,8
+Street/Sidewalk,105.0,5,10
+Street/Sidewalk,105.0,6,21
+Street/Sidewalk,105.0,7,21
+Street/Sidewalk,105.0,8,27
+Street/Sidewalk,105.0,9,29
+Street/Sidewalk,105.0,10,11
+Street/Sidewalk,105.0,11,5
+Street/Sidewalk,105.0,12,8
+Street/Sidewalk,106.0,1,4
+Street/Sidewalk,106.0,3,6
+Street/Sidewalk,106.0,4,9
+Street/Sidewalk,106.0,5,10
+Street/Sidewalk,106.0,6,34
+Street/Sidewalk,106.0,7,48
+Street/Sidewalk,106.0,8,30
+Street/Sidewalk,106.0,9,42
+Street/Sidewalk,106.0,10,9
+Street/Sidewalk,106.0,11,6
+Street/Sidewalk,106.0,12,8
+Street/Sidewalk,107.0,1,3
+Street/Sidewalk,107.0,2,3
+Street/Sidewalk,107.0,3,9
+Street/Sidewalk,107.0,4,3
+Street/Sidewalk,107.0,5,12
+Street/Sidewalk,107.0,6,11
+Street/Sidewalk,107.0,7,9
+Street/Sidewalk,107.0,8,8
+Street/Sidewalk,107.0,9,20
+Street/Sidewalk,107.0,10,16
+Street/Sidewalk,107.0,11,6
+Street/Sidewalk,107.0,12,5
+Street/Sidewalk,108.0,1,7
+Street/Sidewalk,108.0,2,2
+Street/Sidewalk,108.0,3,9
+Street/Sidewalk,108.0,4,21
+Street/Sidewalk,108.0,5,23
+Street/Sidewalk,108.0,6,37
+Street/Sidewalk,108.0,7,28
+Street/Sidewalk,108.0,8,26
+Street/Sidewalk,108.0,9,27
+Street/Sidewalk,108.0,10,21
+Street/Sidewalk,108.0,11,4
+Street/Sidewalk,108.0,12,6
+Street/Sidewalk,109.0,2,3
+Street/Sidewalk,109.0,3,25
+Street/Sidewalk,109.0,4,18
+Street/Sidewalk,109.0,5,60
+Street/Sidewalk,109.0,6,42
+Street/Sidewalk,109.0,7,26
+Street/Sidewalk,109.0,8,25
+Street/Sidewalk,109.0,9,76
+Street/Sidewalk,109.0,10,27
+Street/Sidewalk,109.0,11,17
+Street/Sidewalk,109.0,12,12
+Street/Sidewalk,110.0,1,4
+Street/Sidewalk,110.0,2,10
+Street/Sidewalk,110.0,3,11
+Street/Sidewalk,110.0,4,31
+Street/Sidewalk,110.0,5,73
+Street/Sidewalk,110.0,6,61
+Street/Sidewalk,110.0,7,52
+Street/Sidewalk,110.0,8,35
+Street/Sidewalk,110.0,9,132
+Street/Sidewalk,110.0,10,52
+Street/Sidewalk,110.0,11,15
+Street/Sidewalk,110.0,12,5
+Street/Sidewalk,111.0,1,1
+Street/Sidewalk,111.0,3,1
+Street/Sidewalk,111.0,4,1
+Street/Sidewalk,111.0,5,7
+Street/Sidewalk,111.0,6,2
+Street/Sidewalk,111.0,7,2
+Street/Sidewalk,111.0,8,2
+Street/Sidewalk,111.0,9,4
+Street/Sidewalk,111.0,10,7
+Street/Sidewalk,111.0,12,1
+Street/Sidewalk,112.0,1,3
+Street/Sidewalk,112.0,2,3
+Street/Sidewalk,112.0,3,5
+Street/Sidewalk,112.0,4,9
+Street/Sidewalk,112.0,5,9
+Street/Sidewalk,112.0,6,12
+Street/Sidewalk,112.0,7,6
+Street/Sidewalk,112.0,8,1
+Street/Sidewalk,112.0,9,10
+Street/Sidewalk,112.0,10,6
+Street/Sidewalk,112.0,11,6
+Street/Sidewalk,112.0,12,4
+Street/Sidewalk,113.0,1,2
+Street/Sidewalk,113.0,2,3
+Street/Sidewalk,113.0,3,2
+Street/Sidewalk,113.0,4,12
+Street/Sidewalk,113.0,5,13
+Street/Sidewalk,113.0,6,27
+Street/Sidewalk,113.0,7,32
+Street/Sidewalk,113.0,8,23
+Street/Sidewalk,113.0,9,28
+Street/Sidewalk,113.0,10,12
+Street/Sidewalk,113.0,12,5
+Street/Sidewalk,114.0,1,13
+Street/Sidewalk,114.0,2,24
+Street/Sidewalk,114.0,3,13
+Street/Sidewalk,114.0,4,33
+Street/Sidewalk,114.0,5,67
+Street/Sidewalk,114.0,6,66
+Street/Sidewalk,114.0,7,86
+Street/Sidewalk,114.0,8,75
+Street/Sidewalk,114.0,9,84
+Street/Sidewalk,114.0,10,55
+Street/Sidewalk,114.0,11,27
+Street/Sidewalk,114.0,12,10
+Street/Sidewalk,115.0,1,5
+Street/Sidewalk,115.0,2,8
+Street/Sidewalk,115.0,3,14
+Street/Sidewalk,115.0,4,49
+Street/Sidewalk,115.0,5,22
+Street/Sidewalk,115.0,6,38
+Street/Sidewalk,115.0,7,53
+Street/Sidewalk,115.0,8,37
+Street/Sidewalk,115.0,9,48
+Street/Sidewalk,115.0,10,30
+Street/Sidewalk,115.0,11,13
+Street/Sidewalk,115.0,12,7
+Street/Sidewalk,120.0,1,4
+Street/Sidewalk,120.0,2,1
+Street/Sidewalk,120.0,3,24
+Street/Sidewalk,120.0,4,17
+Street/Sidewalk,120.0,5,28
+Street/Sidewalk,120.0,6,29
+Street/Sidewalk,120.0,7,22
+Street/Sidewalk,120.0,8,32
+Street/Sidewalk,120.0,9,12
+Street/Sidewalk,120.0,10,12
+Street/Sidewalk,120.0,11,4
+Street/Sidewalk,120.0,12,10
+Street/Sidewalk,121.0,1,3
+Street/Sidewalk,121.0,2,2
+Street/Sidewalk,121.0,3,5
+Street/Sidewalk,121.0,4,5
+Street/Sidewalk,121.0,5,11
+Street/Sidewalk,121.0,6,13
+Street/Sidewalk,121.0,7,16
+Street/Sidewalk,121.0,8,15
+Street/Sidewalk,121.0,9,16
+Street/Sidewalk,121.0,10,6
+Street/Sidewalk,121.0,11,4
+Street/Sidewalk,121.0,12,6
+Street/Sidewalk,122.0,1,3
+Street/Sidewalk,122.0,2,2
+Street/Sidewalk,122.0,3,11
+Street/Sidewalk,122.0,4,6
+Street/Sidewalk,122.0,5,6
+Street/Sidewalk,122.0,6,18
+Street/Sidewalk,122.0,7,37
+Street/Sidewalk,122.0,8,13
+Street/Sidewalk,122.0,9,7
+Street/Sidewalk,122.0,10,3
+Street/Sidewalk,122.0,11,3
+Street/Sidewalk,122.0,12,4
+Street/Sidewalk,123.0,3,1
+Street/Sidewalk,123.0,4,2
+Street/Sidewalk,123.0,5,2
+Street/Sidewalk,123.0,6,4
+Street/Sidewalk,123.0,7,7
+Street/Sidewalk,123.0,9,5
+Street/Sidewalk,123.0,10,3
+Street/Sidewalk,123.0,11,1

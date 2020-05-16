@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, jsonify
 import json
 import pandas as pd
 
-from analysis.out_getData import getBarLocation 
+from analysis.out_getData import getMainData 
 
 app = Flask(__name__)
 
@@ -25,11 +25,8 @@ if __name__ == "__main__":
 
 @app.route("/updateData")
 def updateData():
-
-    #make an empty dictionary
-    data = {}
     
     #added the neede data to the dictionary
-    data["BarLoc"] = getBarLocation()
+    data = getMainData()
     
     return data

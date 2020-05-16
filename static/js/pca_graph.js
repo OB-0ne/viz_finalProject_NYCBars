@@ -16,8 +16,8 @@ function d3_ScatterPlot(data,graph_title_text){
     var yAxis = d3.axisLeft(y);
 
     // add the graph canvas to the body of the webpage
-    var svg = d3.select("#svg-holder").append("svg")
-        .attr("class","multi_scatter")
+    var svg = d3.select("#svg-holder-BarLoc").append("svg")
+        .attr("class","multi-scatter")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
     .append("g")
