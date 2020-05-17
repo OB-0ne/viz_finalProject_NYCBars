@@ -14,6 +14,7 @@ function drawGraphs(){
         d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc",col2num('Longitude'),col2num('Latitude'),col2num('Borough'));
         d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc-test",col2num('Longitude'),col2num('Latitude'),col2num('Borough'));
         d3_PieChart(response.ComplainPie);
+        d3_BarChart(response.BarCities);
     });
 
 }
