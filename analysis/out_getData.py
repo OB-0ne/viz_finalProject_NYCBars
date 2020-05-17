@@ -1,5 +1,5 @@
 import pandas as pd
-
+from collections import Counter
 
 def getMainData():
 
@@ -10,6 +10,8 @@ def getMainData():
 
     #get complain data for pie chart
     data["ComplainPie"] = getComplainData()
+    
+    data["BarCities"] = getCityData()
 
     return data
 
