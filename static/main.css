@@ -16,3 +16,8 @@ position: fixed;
 #assignment_info{
     display: inline;
 }
+
+.non_brushed{
+    fill: grey;
+    opacity: 0.5;
+}

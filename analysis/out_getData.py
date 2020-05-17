@@ -19,10 +19,11 @@ def getBarLocation():
     bar_data = pd.read_csv("data/processed/bar_locations.csv")
     
     #needed column names
-    col = ['Longitude','Latitude']
+    col = ['index','Longitude','Latitude','Borough']
 
     #get only the needed columns
     bar_data = bar_data[col].values.tolist()
+    #bar_data = bar_data[col]
 
     return bar_data
 
