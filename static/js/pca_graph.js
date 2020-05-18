@@ -1,9 +1,11 @@
 
-function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, scatter_color){
+function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, scatter_color, dot_radius){
+
+    var resetBar = false;
 
     var margin = {top: 30, right: 30, bottom: 60, left: 30},
-    width = 550 - margin.left - margin.right,
-    height = 550 - margin.top - margin.bottom;
+    width = 500 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
     var x = d3.scaleLinear()
         .range([0, width]);
@@ -15,9 +17,6 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
 
     var yAxis = d3.axisLeft(y);
 
-    var color = d3.scaleOrdinal()
-        .domain(["MANHATTAN","BROOKLYN","QUEENS","STATEN ISLAND","BRONX"])
-        .range(["#d11141", "#00b159", "#00aedb","#f37735", "#ffc425","#000000"]);
 
     // add the graph canvas to the body of the webpage
     var svg = d3.select("#" + div_id).append("svg")
@@ -60,11 +59,11 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
         .data(data)
         .enter()
         .append("circle")
-        .attr("r", 2)
+        .attr("r", dot_radius)
         .attr("cx", function(d) { return x(d[scatter_x]); })
         .attr("cy", function(d) { return y(d[scatter_y]); })
         .attr("fill", function(d) { return color(d[scatter_color]); })
-        .attr("index", function(d) { return d[col2num('index')]; });
+        .attr("precinct", function(d) { return d[col2num('precinct')]; });
 
     // Title to the x axis
     svg.append("text")
@@ -81,6 +80,10 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
         circles.attr("class","brushed");
         //reset other graph selections too
         resetAllGraphs(d3.set([]), div_id,"start");
+        if(resetBar){
+            resetCateGrahs(d3.set(''));
+            resetBar = false;
+        }
     }
 
     //brushing function for the dots
@@ -105,7 +108,7 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
             .attr("class", "brushed");
 
             //get the data of all the dots under the selection
-            d_brushed =  d3.set(svg.selectAll(".brushed").data().map(function(d){return d[col2num('index')];}));
+            d_brushed =  d3.set(svg.selectAll(".brushed").data().map(function(d){return d[col2num('precinct')];}));
             // check if any dots have been selected to update the other graphs as well
             if (d_brushed.size() > 0) {
                 resetAllGraphs(d_brushed, div_id,"brush");
@@ -127,7 +130,7 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
         // ref: https://github.com/d3/d3-brush/issues/10
         //d3.select(this).call(brush.move, null);
 
-        //get the index of the brushed data
+        //get the precinct of the brushed data
         var d_brushed =  svg.selectAll(".brushed").data();
 
         // populate table if one or more elements is brushed
@@ -135,7 +138,16 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
             //reset the selection if no point was selected
             d3.select(this).call(brush.move, null);
             //circles.attr("class","brushed");
+            if(resetBar){
+                resetCateGrahs(d3.set(''));
+                resetBar = false;
+            }
         }
+        else{
+            d_brushed =  d3.set(d_brushed.map(function(d){return d[col2num('precinct')];}));
+            resetCateGrahs(d_brushed);
+            resetBar = true;
+        }        
     }
 
 
@@ -156,5 +168,8 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
 
     svg.append("g")
         .call(brush);
+
+    //svg.select('.overlay')
+        //.style('display','none');
 
 }

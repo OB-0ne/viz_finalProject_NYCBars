@@ -1,5 +1,10 @@
 //making a range for all the data column names
-data_col_names = ['index','Longitude','Latitude','Borough'];
+data_col_names = ['precinct','Longitude','Latitude','Borough'];
+
+//making color range for all
+var color = d3.scaleOrdinal()
+    .domain(["MANHATTAN","BROOKLYN","QUEENS","STATEN ISLAND","BRONX"])
+    .range(["#d11141", "#00b159", "#00aedb","#f37735", "#ffc425","#000000"]);
 
 var col2num = d3.scaleOrdinal()
     .domain(data_col_names)
@@ -11,15 +16,16 @@ function drawGraphs(){
 
     //get the data
     $.get('/updateData', function(response){
-        d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc",col2num('Longitude'),col2num('Latitude'),col2num('Borough'));
-        d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc-test",col2num('Longitude'),col2num('Latitude'),col2num('Borough'));
+        d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),1.5);
+        d3_ScatterPlot(response.PCA1, "Precinct Safety PCA1","svg-holder-PCA1",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),4);
+        d3_ScatterPlot(response.PCA2, "Precinct Safety PCA2","svg-holder-PCA2",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),4);
         d3_PieChart(response.ComplainPie);
         d3_BarChart(response.BarCities);
     });
 
 }
 
-var all_scatter_graphs = ['svg-holder-BarLoc','svg-holder-BarLoc-test']
+var all_scatter_graphs = ['svg-holder-BarLoc','svg-holder-PCA1','svg-holder-PCA2']
 
 function resetAllGraphs(data, current_svg, event_type){
     
@@ -59,9 +65,24 @@ function brushScatterGraph(svg_id, data){
 
     //only color the dows which have been selected in the other graph
     circles.filter(function (){
-        var index = d3.select(this).attr("index")
-        return data.has(index); 
+        var pecinct = d3.select(this).attr("precinct")
+        return data.has(pecinct); 
     })
     .attr("class", "brushed");
 
+}
+
+function resetCateGrahs(data){
+    console.log(data)
+    if(data.size() > 0){
+        data = data.values();
+    }
+    else{
+        data="reset"
+    }
+    //get the data
+    $.get('/updateCateData/' + data, function(response){
+        d3_PieChart(response.ComplainPie);
+        d3_BarChart(response.BarCities);
+    });
 }

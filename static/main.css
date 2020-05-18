@@ -13,11 +13,34 @@ position: fixed;
    width: 100%;
 }
 
+#svg-holder{
+    margin: auto;
+    width: 1650px;
+}
+#svg-holder div{
+    display: inline-block;
+    margin: auto;
+    width: 500px;
+}
+
 #assignment_info{
     display: inline;
 }
 
 .non_brushed{
     fill: grey;
+    opacity: 0.25;
+}
+
+#svg-holder-BarLoc .non_brushed{
+    fill: grey;
     opacity: 0.5;
+}
+
+#tool-tip{
+    position: absolute;
+    border: 1px solid blue;
+    background-color: yellow;
+    visibility: hidden;
+    padding: 6px;
 }

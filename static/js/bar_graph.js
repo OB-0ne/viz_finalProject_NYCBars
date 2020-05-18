@@ -7,13 +7,12 @@ function d3_BarChart(data){
     var final_data = [];
     for (var i = 0; i< data.length; i++){
         final_data.push({
-            key: data[i][1],
-            value: data[i][0]
+            key: data[i][0],
+            value: data[i][1],
+            color: data[i][2],
+            tip: '[Precinct ' + data[i][0] + '] ' + data[i][1] + ' Arrests'
         });
     }
-
-    var color = d3.scaleOrdinal()
-        .range(["#98abc5", "#8a89a6", "#7b6888","#98abc5", "#8a89a6", "#7b6888"]);
 
     var y = d3.scaleBand()
         .range([height, 0])
@@ -21,6 +20,8 @@ function d3_BarChart(data){
 
     var x = d3.scaleLinear()
         .range([0, width]);
+
+    d3.select("#svg-holder-CityBar").select("svg").remove();
 
     var svg = d3.select("#svg-holder-CityBar").append("svg")
         .attr("width", width + 0 + 20)
@@ -38,11 +39,38 @@ function d3_BarChart(data){
     svg.selectAll(".bar")                                          
         .data(final_data)
     .enter().append("rect")
+        .transition()
+        .duration(100)
+        .ease(d3.easeBack)
         .attr("class", "bar")
-        .style("fill", function(d) { return color(d.key); })
         .attr("width", function(d) {return x(d.value); } )
         .attr("y", function(d) {return height - 70 - y(d.key); })
-        .attr("height", y.bandwidth());
+        .attr("height", y.bandwidth())
+        .attr("fill", function(d) { return color(d.color); })
+        .attr("tip", function(d) {return d.tip; })
+        .on('mouseover', function (d, i) {
+            d3.select(this)
+                .transition()
+                .duration('100');
+            d3.select('#tool-tip')
+                .style('visibility','visible')
+                .style("left", d3.event.pageX + 12 + "px")
+                .style("top", d3.event.pageY + 12 + "px")
+                .text(d3.select(this).attr("tip"))
+        })
+        .on('mousemove',function (d, i) {
+            d3.select('#tool-tip')
+            .style("left", d3.event.pageX + 12 + "px")
+            .style("top", d3.event.pageY + 12 + "px");
+        })
+        .on('mouseout', function (d, i) {
+            d3.select(this)
+                .transition()
+                .duration('200');
+            d3.select('#tool-tip')
+                .style('visibility','hidden')
+                .text('');
+       });
 
     // add the x Axis
     svg.append("g")
