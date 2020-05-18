@@ -36,6 +36,7 @@ def updateData():
 @app.route("/updateCateData/<data>")
 def updateCateData(data):
     
+    #check if reset values or update them
     if data == "reset":
         precint_list = []
     else:

@@ -73,7 +73,8 @@ function brushScatterGraph(svg_id, data){
 }
 
 function resetCateGrahs(data){
-    console.log(data)
+    
+    //check if this needs to be reset or updated
     if(data.size() > 0){
         data = data.values();
     }
