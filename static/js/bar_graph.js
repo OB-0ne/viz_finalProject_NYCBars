@@ -94,6 +94,6 @@ function d3_BarChart(data,graph_title_text,dims){
         .attr("class","axis-titles")
         .attr("transform","translate(-32," + (height)/2 + "),rotate(-90)")
         .style("text-anchor", "middle")
-        .text("Precinct Number");
+        .text(" Top Safe Precincts");
 
 }
