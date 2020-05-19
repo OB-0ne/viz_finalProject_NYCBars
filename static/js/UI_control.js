@@ -19,22 +19,21 @@ var col2num = d3.scaleOrdinal()
 
 //setting dimensions for all the graphs
 map_dim = [800,775];
-PCA_dim = [380,380];
-bar_dim = [450,380];
-pie_dim = [450,380];
+PCA_dim = [380,360];
+bar_dim = [450,360];
+pie_dim = [450,360];
 
 
 //make the Bar Location graph
-function drawGraphs(){
+function drawGraphs(month_range){
 
-    //get the data
-    $.get('/updateData', function(response){
+    $.get('/updateData/' + month_range, function(response){
         d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),2,map_dim);
         d3_ScatterPlot(response.PCA1, "Precinct Safety PCA1","svg-holder-PCA1",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),3,PCA_dim);
         d3_ScatterPlot(response.PCA2, "Precinct Safety PCA2","svg-holder-PCA2",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),3,PCA_dim);
         d3_PieChart(response.ComplainPie, "Complaint Location", pie_dim);
         d3_BarChart(response.BarCities, "Arrest per 10 complaints (Bar Colored by Borough)", bar_dim);
-
+        d3_Slider();
         makeLegend()
     });
 }
