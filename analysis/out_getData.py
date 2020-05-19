@@ -6,40 +6,43 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
 
-def getMainData():
+def getMainData(month_list=[]):
 
     data = {}
-
+	    
+    # if len(month_range)>0:
+    #    complain_data = complain_data[complain_data['precinct'].isin(precinct_list)]
     #get the NYC bar location by points
+    
     data["BarLoc"] = getBarLocation()
 
     #get complain data for pie chart
-    data["ComplainPie"] = getComplainData()
+	data["ComplainPie"] = getComplainData([],month_list)
 
     #get City counts for bars
     #data["BarCities"] = getCityData()
-    data["BarCities"] = getArrestByComplaints(6,10)
+	data["BarCities"] = getArrestByComplaints(6,10, [],month_list)
 
     #get City counts for bars
-    data["PCA1"] = getPCAScatterData('pca1_monthly')
-    data["PCA2"] = getPCAScatterData('pca2_monthly')
+    data["PCA1"] = getPCAScatterData('pca1_monthly', month_list)
+    data["PCA2"] = getPCAScatterData('pca2_monthly', month_list)
 
     return data
 
-def getMainData_Cate(precint_list):
+def getMainData_Cate(precint_list, month_range=[]):
 
     data = {}
 
     #get complain data for pie chart
-    data["ComplainPie"] = getComplainData(precint_list)
+    data["ComplainPie"] = getComplainData(precint_list, month_range)
 
     #get City counts for bars
     #data["BarCities"] = getCityData()
-    data["BarCities"] = getArrestByComplaints(6,10,precint_list)
+    data["BarCities"] = getArrestByComplaints(6,10,precint_list, month_range)
 
     return data
 
-def getBarLocation(precinct_list=[]):
+def getBarLocation():
 
     #read data files
     bar_data = pd.read_csv("data/processed/bar_locations.csv")
@@ -53,7 +56,7 @@ def getBarLocation(precinct_list=[]):
 
     return bar_data
 
-def getComplainData(precinct_list=[]):
+def getComplainData(precinct_list=[], month_range=[]):
 
     #read the data
     complain_data = pd.read_csv("data/processed/complain_count.csv")
@@ -61,7 +64,11 @@ def getComplainData(precinct_list=[]):
     #filter as needed on the data
     if len(precinct_list)>0:
         complain_data = complain_data[complain_data['precinct'].isin(precinct_list)]
-
+    
+    print(month_range)
+    if len(month_range)>0:
+        complain_data = complain_data[complain_data['Month'].isin(month_range)]
+    
     #get data for the whole year for all precincts
     groupby_col = ['Location Type']
     complain_data = complain_data.groupby(groupby_col).agg({'count'}).reset_index()
@@ -74,7 +81,7 @@ def getComplainData(precinct_list=[]):
     return complain_data[col].values.tolist()
 
 
-def getCityData():
+def getCityData(month_range=[]):
     # read city data 
     city_data = pd.read_csv('data/processed/party_in_nyc.csv')
     city_data = city_data.dropna()
@@ -101,7 +108,7 @@ def getCityData():
 
     return f_list
 
-def getArrestByComplaints(top_n, per_n_people,precinct_list=[]):
+def getArrestByComplaints(top_n, per_n_people,precinct_list=[], month_range=[]):
 
     #read needed data
     main_data = pd.read_csv('data/processed/arrest2complain.csv')
@@ -109,6 +116,9 @@ def getArrestByComplaints(top_n, per_n_people,precinct_list=[]):
     #filter as needed on the data
     if len(precinct_list)>0:
         main_data = main_data[main_data['precinct'].isin(precinct_list)]
+    
+    if len(month_range)>0:
+        main_data = main_data[main_data['Month'].isin(month_range)]
 
     #needed columns
     cols_groupby = ['precinct','Borough']
@@ -126,16 +136,18 @@ def getArrestByComplaints(top_n, per_n_people,precinct_list=[]):
     #return needed data
     return main_data[return_col].head(top_n).values.tolist()
 
-    
 
-def getPCAScatterData(filename):
+def getPCAScatterData(filename, month_range=[]):
 
     #read the PCA data
     pca_data = pd.read_csv('data/processed/'+ filename +'.csv')
     groupby_col = ['precinct','Borough']
     cols = ['ComplainCount','FelonyCrimes','MisdimCrimes','BarCount']
     return_col = ['precinct','PC1','PC2','Borough']
-
+    
+    if len(month_range)>0:
+        pca_data = pca_data[pca_data['Month'].isin(month_range)]
+    
     #group up on monthly level for now
     pca_data = pca_data.groupby(groupby_col).agg({ 'ComplainCount':'sum',
                                                     'FelonyCrimes':'sum',
