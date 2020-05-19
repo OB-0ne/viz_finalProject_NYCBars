@@ -12,15 +12,17 @@ var col2num = d3.scaleOrdinal()
 
 
 //make the Bar Location graph
-function drawGraphs(){
+function drawGraphs(month_range){
 
+    console.log(month_range)
     //get the data
-    $.get('/updateData', function(response){
+    $.get('/updateData/' + month_range, function(response){
         d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),1.5);
         d3_ScatterPlot(response.PCA1, "Precinct Safety PCA1","svg-holder-PCA1",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),4);
         d3_ScatterPlot(response.PCA2, "Precinct Safety PCA2","svg-holder-PCA2",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),4);
         d3_PieChart(response.ComplainPie);
         d3_BarChart(response.BarCities);
+        d3_Slider();
     });
 
 }
