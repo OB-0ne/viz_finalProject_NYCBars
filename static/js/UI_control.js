@@ -103,6 +103,13 @@ function brushScatterGraph(svg_id, data){
 
 function resetCateGrahs(data){
     
+    if(new_left==1 && new_right==12){
+        month_range = "|reset";
+    }
+    else{
+        month_range = "|" + new_left + "," + new_right
+    }
+
     //check if this needs to be reset or updated
     if(data.size() > 0){
         data = data.values();
@@ -111,7 +118,7 @@ function resetCateGrahs(data){
         data="reset"
     }
     //get the data
-    $.get('/updateCateData/' + data, function(response){
+    $.get('/updateCateData/' + data + month_range, function(response){
         d3_PieChart(response.ComplainPie, "Complaint Location", pie_dim);
         d3_BarChart(response.BarCities, "Arrest per 10 complaints", bar_dim);
     });

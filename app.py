@@ -24,8 +24,6 @@ if __name__ == "__main__":
 # All the GET calls go here
 #--------------------------------------------
 
-month_list = []
-
 @app.route("/updateData/<data>")
 def updateData(data):
     print('test')
@@ -46,6 +44,16 @@ def updateData(data):
 @app.route("/updateCateData/<data>")
 def updateCateData(data):
     
+    month_list = data.split("|")[1]
+    data = data.split("|")[0]
+
+    #check if reset values or update them
+    if month_list == "reset":
+        month_list = []
+    else:
+        #get the precint numbers as list
+        month_list = [*range(int(month_list.split(",")[0]),int(month_list.split(",")[1])+1)]
+
     #check if reset values or update them
     if data == "reset":
         precint_list = []
