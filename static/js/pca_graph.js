@@ -1,5 +1,5 @@
 
-function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, scatter_color, dot_radius, dims){
+function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, scatter_color, dot_radius, dims, axis){
 
     var resetBar = false;
 
@@ -57,6 +57,8 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
         .text("Protein (g)");
         */
 
+    
+
     // draw dots
     var circles = svg.selectAll("circle")
         .data(data)
@@ -74,6 +76,36 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
         .attr("transform","translate(" + (width/2) + " ," + (height + margin.top + 20) + ")")
         .style("text-anchor", "middle")
         .text(graph_title_text);
+
+    if(axis){
+
+        var x_tit, y_tit;
+
+        if(div_id == "svg-holder-PCA1"){
+            x_tit = "Low <--------- (Active Bar Life) ---------> High"
+            y_tit = "Low <----------- (Safety) ------------> High"
+        }
+        else{
+            x_tit = "Low <------- (Bar Locations) -------> High"
+            y_tit = "Others <----- (Complaint Type) ------> Bars"
+        }
+
+        //PCA titles
+        svg.append("text")
+            .attr("class","axis-titles")
+            .attr("transform","translate(" + (width)/2 + " ," + (height + margin.top - 10) + ")")
+            .style("font-size","15px")
+            .style("text-anchor", "middle")
+            .text(x_tit);
+        svg.append("text")
+            .attr("class","axis-titles")
+            .attr("transform","translate(-5," + (height + margin.top)/2 + "),rotate(-90)")
+            .style("font-size","15px")
+            .style("text-anchor", "middle")
+            .text(y_tit);
+
+    }
+
 
     
     function resetSelection(){

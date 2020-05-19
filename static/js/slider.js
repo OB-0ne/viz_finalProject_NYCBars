@@ -6,9 +6,9 @@ var new_right = 0;
 
 function d3_Slider(){
     var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-    var margin = {top: 10, right: 50, bottom: 100, left: 5}
-    width = 845 - margin.left - margin.right // Use the window's width 
-    height = 30 - margin.top - margin.bottom; // Use the window's height
+    var margin = {top: 0, right: 0, bottom: 0, left: 0}
+    width = 1590 - margin.left - margin.right;
+    height = 50 - margin.top - margin.bottom; 
 
     // The number of datapoints
     var n = 12;
@@ -21,15 +21,19 @@ function d3_Slider(){
     // 1. Add the SVG to the page and employ #2
     d3.select("#svg-holder-slider").select("svg").remove();
     var svg = d3.select("#svg-holder-slider").append("svg")
-        .attr("width", width + margin.left + margin.right)
+        .attr("width", width +110 + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
+        .style("border","none")
+        .style("margin-left","-45px")
     .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     // 3. Call the x axis in a group tag
     svg.append("g")
-        .attr("class", "x axis")
-        .attr("transform", "translate(0," + height + ")")
+        .attr("class", "axis-titles")
+        .attr("fill","white")
+        .style("font-size","14px")
+        .attr("transform", "translate(40,0)")
         .call(d3.axisBottom(xScale)) // Create an axis component with d3.axisBottom
 }
 
@@ -39,8 +43,6 @@ function test_func(){
     
     if(old_left != new_left || old_right != new_right){
         //  trigger some function call
-        console.log(new_left);
-        console.log(new_right);
         var data;
         if (new_left==1 && new_right==12){
             data = "reset";
@@ -58,4 +60,4 @@ function test_func(){
 
 window.setInterval(function(){
     test_func()
-  }, 1500);
+  }, 300);

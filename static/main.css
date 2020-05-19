@@ -4,6 +4,11 @@
 
 #header{
     padding: 15px;
+    color: white;
+}
+
+.side{
+    display: inline-block;
 }
 
 #footer{
@@ -16,18 +21,50 @@
     padding: 5px;
 }
 
+#title{
+    font-size: 25px;
+}
+
+img{
+    padding: 0px 20px;
+}
+
+#subtitle{
+    font-size: 15px;
+}
+
+span{
+    padding: 25px;
+}
+
+
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+    background-color: #1e1e24;
+    font-family: Tahoma, Geneva, sans-serif;
+}
 body{
     background-color: #1e1e24;
     font-family: Tahoma, Geneva, sans-serif;
 }
 
-.ui-page .ui-page-theme-a .ui-page-active{
+.ui-mobile-viewport .ui-overlay-a{
     background-color: #1e1e24;
     font-family: Tahoma, Geneva, sans-serif;
 }
 
 .tick text, .tick line{
     fill: white;
+}
+
+#range-1a{
+    display: none;
+}
+#range-1b{
+    display: none;
+}
+
+#svg-holder-slider{
+    width: 1600px;
 }
 
 .axis-titles{
@@ -38,6 +75,7 @@ svg{
     border: 1px #34353A solid;
     padding: 5px;
 }
+
 
 #svg-holder{
     margin: auto;
@@ -75,8 +113,10 @@ svg{
 
 #tool-tip{
     position: absolute;
-    border: 1px solid blue;
-    background-color: yellow;
+    border: 1px dotted black;
+    background-color: white;
+    color: black;
+    font-size: 15px;
     visibility: hidden;
     padding: 6px;
 }

@@ -150,7 +150,7 @@ def makePCAData1():
 def makePCAData2():
 
     #read the file
-    arrest_data = pd.read_csv('data/arrest_2016.csv')
+    arrest_data = pd.read_csv('data/arrest_2019.csv')
     complain_data = pd.read_csv('data/processed/complain_count.csv')
     bar_data = pd.read_csv('data/processed/bar_locations.csv')
     
@@ -158,8 +158,8 @@ def makePCAData2():
     arrest_data['Month'] = pd.DatetimeIndex(arrest_data['ARREST_DATE']).month
 
     #crime type columns
-    felony_crimes = ['DANGEROUS DRUGS','DANGEROUS WEAPONS','ROBBERY','GRAND LARCENY','INTOXICATED & IMPAIRED DRIVING','OTHER OFFENSES RELATED TO THEFT']
-    misd_crimes = ['ASSAULT 3 & RELATED OFFENSES','OTHER OFFENSES RELATED TO THEFT','PETIT LARCENY']
+    felony_crimes = ['DANGEROUS DRUGS','FELONY ASSAULT','DANGEROUS WEAPONS','CRIMINAL MISCHIEF & RELATED OFFENSES','ROBBERY','GRAND LARCENY','FORGERY','INTOXICATED & IMPAIRED DRIVING','OTHER OFFENSES RELATED TO THEFT','CRIMINAL TRESPASS']
+    misd_crimes = ['ASSAULT 3 & RELATED OFFENSES','OTHER OFFENSES RELATED TO THEFT','PETIT LARCENY','VEHICLE AND TRAFFIC LAWS','MISCELLANEOUS PENAL LAW','OFFENSES AGAINST PUBLIC ADMINISTRATION','CRIMINAL TRESPASS']
     complain_types = ['Club/Bar/Restaurant']
 
     #filter the arrest data further
