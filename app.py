@@ -25,12 +25,20 @@ if __name__ == "__main__":
 #--------------------------------------------
 
 @app.route("/updateData")
-def updateData():
+month_list = []
+@app.route("/updateData/<data>")
+def updateData(data):
+    print('test')
+    print(data)
+    #check if reset values or update them
+    if data == "reset":
+        month_list = []
+    else:
+        #get the precint numbers as list
+        month_list = [*range(int(data.split(",")[0]),int(data.split(",")[1])+1)]
     
     #added the neede data to the dictionary
-    data = getMainData()
-    
-    return data
+    data = getMainData(month_list)
 
 
 @app.route("/updateCateData/<data>")
@@ -44,6 +52,6 @@ def updateCateData(data):
         precint_list = data.split(",")
 
     #added the neede data to the dictionary
-    data = getMainData_Cate(precint_list)
+    data = getMainData_Cate(precint_list, month_list)
     
     return data
