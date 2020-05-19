@@ -26,7 +26,7 @@ function d3_PieChart(data,graph_title_text,dims){
         .sort(null)
         .value(function(d) { return d; });
 
-        d3.select("#svg-holder-ComPie").select("svg").remove();
+    d3.select("#svg-holder-ComPie").select("svg").remove();
 
     var svg = d3.select("#svg-holder-ComPie").append("svg")
         .attr("width", width + margin.left + margin.right)

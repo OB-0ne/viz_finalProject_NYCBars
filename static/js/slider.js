@@ -3,11 +3,12 @@ var old_right = 12;
 
 var new_left = 0;
 var new_right = 0;
+
 function d3_Slider(){
     var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
     var margin = {top: 10, right: 50, bottom: 100, left: 5}
-    width = 550 - margin.left - margin.right // Use the window's width 
-    height = 100 - margin.top - margin.bottom; // Use the window's height
+    width = 845 - margin.left - margin.right // Use the window's width 
+    height = 30 - margin.top - margin.bottom; // Use the window's height
 
     // The number of datapoints
     var n = 12;
@@ -35,8 +36,7 @@ function d3_Slider(){
 function test_func(){
     new_left = document.getElementById("range-1a").value;
     new_right = document.getElementById("range-1b").value;
-    //new_left = d3.select("#range-1a").attr("value");
-    //new_right = d3.select("#range-1b").attr("value");
+    
     if(old_left != new_left || old_right != new_right){
         //  trigger some function call
         console.log(new_left);

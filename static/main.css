@@ -21,6 +21,11 @@ body{
     font-family: Tahoma, Geneva, sans-serif;
 }
 
+.ui-page .ui-page-theme-a .ui-page-active{
+    background-color: #1e1e24;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
 .tick text, .tick line{
     fill: white;
 }

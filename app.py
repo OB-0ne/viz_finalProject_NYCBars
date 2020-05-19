@@ -24,8 +24,8 @@ if __name__ == "__main__":
 # All the GET calls go here
 #--------------------------------------------
 
-@app.route("/updateData")
 month_list = []
+
 @app.route("/updateData/<data>")
 def updateData(data):
     print('test')
@@ -36,9 +36,11 @@ def updateData(data):
     else:
         #get the precint numbers as list
         month_list = [*range(int(data.split(",")[0]),int(data.split(",")[1])+1)]
-    
+
     #added the neede data to the dictionary
     data = getMainData(month_list)
+
+    return data
 
 
 @app.route("/updateCateData/<data>")

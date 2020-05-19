@@ -9,19 +9,15 @@ from sklearn.preprocessing import StandardScaler
 def getMainData(month_list=[]):
 
     data = {}
-	    
-    # if len(month_range)>0:
-    #    complain_data = complain_data[complain_data['precinct'].isin(precinct_list)]
-    #get the NYC bar location by points
-    
+
     data["BarLoc"] = getBarLocation()
 
     #get complain data for pie chart
-	data["ComplainPie"] = getComplainData([],month_list)
+    data["ComplainPie"] = getComplainData([],month_list)
 
     #get City counts for bars
     #data["BarCities"] = getCityData()
-	data["BarCities"] = getArrestByComplaints(6,10, [],month_list)
+    data["BarCities"] = getArrestByComplaints(6,10, [],month_list)
 
     #get City counts for bars
     data["PCA1"] = getPCAScatterData('pca1_monthly', month_list)
@@ -65,7 +61,6 @@ def getComplainData(precinct_list=[], month_range=[]):
     if len(precinct_list)>0:
         complain_data = complain_data[complain_data['precinct'].isin(precinct_list)]
     
-    print(month_range)
     if len(month_range)>0:
         complain_data = complain_data[complain_data['Month'].isin(month_range)]
     

@@ -17,6 +17,7 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
 
     var yAxis = d3.axisLeft(y);
 
+    d3.select("#" + div_id).select("svg").remove();
 
     // add the graph canvas to the body of the webpage
     var svg = d3.select("#" + div_id).append("svg")
