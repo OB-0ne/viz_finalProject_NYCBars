@@ -1,26 +1,57 @@
+#header, #footer{
+    background-color: #253541;
+}
+
 #header{
-    background-color: #00756e;
     padding: 15px;
 }
 
 #footer{
-position: fixed;
-   left: 0;
-   bottom: 0;
-   background-color: #00756e;
-   color: white;
-   text-align: center;
-   width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+}
+
+body{
+    background-color: #1e1e24;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.tick text, .tick line{
+    fill: white;
+}
+
+.axis-titles{
+    fill: white;
+}
+
+svg{
+    border: 1px #34353A solid;
+    padding: 5px;
 }
 
 #svg-holder{
     margin: auto;
-    width: 1650px;
+    width: 1700px;
+    height: 800px;
+    display: block;
+    padding: 40px 20px;
 }
-#svg-holder div{
+
+#svg-left #svg-right{
+    height: 780px;
+}
+
+.col-UI{
     display: inline-block;
+}
+
+#svg-holder div{
     margin: auto;
-    width: 500px;
 }
 
 #assignment_info{

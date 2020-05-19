@@ -1,7 +1,8 @@
-function d3_BarChart(data){
+function d3_BarChart(data,graph_title_text,dims){
 
-    var width = 960,
-        height = 500;
+    var margin = {top: 30, right: 30, bottom: 60, left: 60};
+    var width = dims[0] - margin.left - margin.right,
+        height = dims[1]- margin.top - margin.bottom;
 
     // creating dictionary
     var final_data = [];
@@ -15,7 +16,7 @@ function d3_BarChart(data){
     }
 
     var y = d3.scaleBand()
-        .range([height, 0])
+        .range([0, height])
         .padding(0.1);
 
     var x = d3.scaleLinear()
@@ -24,11 +25,10 @@ function d3_BarChart(data){
     d3.select("#svg-holder-CityBar").select("svg").remove();
 
     var svg = d3.select("#svg-holder-CityBar").append("svg")
-        .attr("width", width + 0 + 20)
-        .attr("height", height + 20 + 30)
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
         .append("g")
-        .attr("transform", 
-                "translate(" + 100 + "," + 20 + ")");
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
     // Scale the range of the data in the domains
@@ -41,7 +41,7 @@ function d3_BarChart(data){
     .enter().append("rect")
         .attr("class", "bar")
         .attr("width", function(d) {return x(d.value); } )
-        .attr("y", function(d) {return height - 70 - y(d.key); })
+        .attr("y", function(d,i) { return y(d.key); })
         .attr("height", y.bandwidth())
         .attr("fill", function(d) { return color(d.color); })
         .attr("tip", function(d) { return d.tip; })
@@ -75,9 +75,25 @@ function d3_BarChart(data){
     // add the x Axis
     svg.append("g")
         .attr("transform", "translate(0," + height + ")")
+        .attr("fill","white")
         .call(d3.axisBottom(x));
 
     // add the y Axis
     svg.append("g")
         .call(d3.axisLeft(y));
+
+    // Title to the x axis
+    svg.append("text")
+        .attr("class","axis-titles")
+        .attr("transform","translate(" + (width/2) + " ," + (height + margin.top + 20) + ")")
+        .style("text-anchor", "middle")
+        .text(graph_title_text);
+
+    // Title to the x axis
+    svg.append("text")
+        .attr("class","axis-titles")
+        .attr("transform","translate(-32," + (height)/2 + "),rotate(-90)")
+        .style("text-anchor", "middle")
+        .text("Precinct Number");
+
 }

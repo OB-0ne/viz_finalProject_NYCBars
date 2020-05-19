@@ -1,14 +1,27 @@
 //making a range for all the data column names
 data_col_names = ['precinct','Longitude','Latitude','Borough'];
+borough_names = ["MANHATTAN","QUEENS","BROOKLYN","STATEN ISLAND","BRONX"];
+borough_colors = ["#d11141", "#00b159", "#00aedb","#f37735", "#ffc425","#000000"];
+
 
 //making color range for all
 var color = d3.scaleOrdinal()
-    .domain(["MANHATTAN","BROOKLYN","QUEENS","STATEN ISLAND","BRONX"])
-    .range(["#d11141", "#00b159", "#00aedb","#f37735", "#ffc425","#000000"]);
+    .domain(borough_names)
+    .range(borough_colors);
+
+var colorComplaint = d3.scaleOrdinal()
+    .domain(['Residential Building/House','Street/Sidewalk','Store/Commercial','Club/Bar/Restaurant','Park/Playground','House of Worship'])
+    .range(["#f94144", "#f3722c", "#f8961e","#f9c74f", "#90be6d","#43aa8b"]);
 
 var col2num = d3.scaleOrdinal()
     .domain(data_col_names)
     .range(d3.range(d3.set(data_col_names).size()))
+
+//setting dimensions for all the graphs
+map_dim = [800,775];
+PCA_dim = [380,380];
+bar_dim = [450,380];
+pie_dim = [450,380];
 
 
 //make the Bar Location graph
@@ -16,12 +29,29 @@ function drawGraphs(){
 
     //get the data
     $.get('/updateData', function(response){
-        d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),1.5);
-        d3_ScatterPlot(response.PCA1, "Precinct Safety PCA1","svg-holder-PCA1",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),4);
-        d3_ScatterPlot(response.PCA2, "Precinct Safety PCA2","svg-holder-PCA2",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),4);
-        d3_PieChart(response.ComplainPie);
-        d3_BarChart(response.BarCities);
+        d3_ScatterPlot(response.BarLoc, "NYC Bar Map","svg-holder-BarLoc",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),2,map_dim);
+        d3_ScatterPlot(response.PCA1, "Precinct Safety PCA1","svg-holder-PCA1",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),3,PCA_dim);
+        d3_ScatterPlot(response.PCA2, "Precinct Safety PCA2","svg-holder-PCA2",col2num('Longitude'),col2num('Latitude'),col2num('Borough'),3,PCA_dim);
+        d3_PieChart(response.ComplainPie, "Complaint Location", pie_dim);
+        d3_BarChart(response.BarCities, "Arrest per 10 complaints (Bar Colored by Borough)", bar_dim);
+
+        makeLegend()
     });
+}
+
+function makeLegend(){
+
+    var svg = d3.select("#svg-holder-BarLoc").select("svg").select("g");
+
+    var x_main = 40;
+    var y_main = 40;
+    var offset = 25;
+
+    var i;
+    for (i = 0; i < borough_names.length; i++) {
+        svg.append("rect").attr("x", x_main).attr("y", y_main + i*offset).attr("height", 15).attr("width",15).style("fill", color(borough_names[i]));
+        svg.append("text").attr("x", x_main + 20).attr("y", y_main + 12 + i*offset).text(borough_names[i]).style("font-size", "15px").attr("alignment-baseline","middle").attr("class","axis-titles");
+    } 
 
 }
 
@@ -83,7 +113,7 @@ function resetCateGrahs(data){
     }
     //get the data
     $.get('/updateCateData/' + data, function(response){
-        d3_PieChart(response.ComplainPie);
-        d3_BarChart(response.BarCities);
+        d3_PieChart(response.ComplainPie, "Complaint Location", pie_dim);
+        d3_BarChart(response.BarCities, "Arrest per 10 complaints", bar_dim);
     });
 }

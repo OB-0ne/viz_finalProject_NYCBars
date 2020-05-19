@@ -39,7 +39,7 @@ def getMainData_Cate(precint_list):
 
     return data
 
-def getBarLocation(precinct_list=[]):
+def getBarLocation():
 
     #read data files
     bar_data = pd.read_csv("data/processed/bar_locations.csv")
@@ -69,9 +69,9 @@ def getComplainData(precinct_list=[]):
 
     #needed columns
     col = ["ComplainCount","Location Type"]
-    #col = ["ComplainCount"]
+    sort_col = ["ComplainCount"]
 
-    return complain_data[col].values.tolist()
+    return complain_data[col].sort_values(by=sort_col,ascending=False).values.tolist()
 
 
 def getCityData():

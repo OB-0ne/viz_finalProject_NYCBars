@@ -1,11 +1,11 @@
 
-function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, scatter_color, dot_radius){
+function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, scatter_color, dot_radius, dims){
 
     var resetBar = false;
 
-    var margin = {top: 30, right: 30, bottom: 60, left: 30},
-    width = 500 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    var margin = {top: 30, right: 25, bottom: 60, left: 35},
+    width = dims[0] - margin.left - margin.right,
+    height = dims[1] - margin.top - margin.bottom;
 
     var x = d3.scaleLinear()
         .range([0, width]);
@@ -30,6 +30,7 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
     x.domain(d3.extent(data, function(d) { return d[scatter_x]; })).nice();
     y.domain(d3.extent(data, function(d) { return d[scatter_y]; })).nice();
 
+        /*
     // x-axis
     svg.append("g")
         .attr("class", "x axis")
@@ -53,6 +54,7 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
         .attr("dy", ".71em")
         .style("text-anchor", "end")
         .text("Protein (g)");
+        */
 
     // draw dots
     var circles = svg.selectAll("circle")
@@ -168,8 +170,5 @@ function d3_ScatterPlot(data,graph_title_text, div_id, scatter_x, scatter_y, sca
 
     svg.append("g")
         .call(brush);
-
-    //svg.select('.overlay')
-        //.style('display','none');
 
 }

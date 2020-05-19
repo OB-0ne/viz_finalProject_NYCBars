@@ -160,7 +160,10 @@ def makePCAData2():
     #crime type columns
     felony_crimes = ['DANGEROUS DRUGS','DANGEROUS WEAPONS','ROBBERY','GRAND LARCENY','INTOXICATED & IMPAIRED DRIVING','OTHER OFFENSES RELATED TO THEFT']
     misd_crimes = ['ASSAULT 3 & RELATED OFFENSES','OTHER OFFENSES RELATED TO THEFT','PETIT LARCENY']
-    complain_types = ['Club/Bar/Restaurant','Street/Sidewalk']
+    complain_types = ['Club/Bar/Restaurant']
+
+    #filter the arrest data further
+    #arrest_data = arrest_data[arrest_data['AGE_GROUP'].isin(['18-24'])]
 
     #selected columns
     arrest_col = ['OFNS_DESC','ARREST_PRECINCT','Month']
@@ -251,5 +254,5 @@ def makeArrestByComplaints():
 #makePrecinctComplains()
 #makeArrestData()
 #makePCAData1()
-#makePCAData2()
-makeArrestByComplaints()
+makePCAData2()
+#makeArrestByComplaints()
